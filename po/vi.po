@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2005-12-22 17:54+0100\n"
+"PO-Revision-Date: 2005-12-22 17:54+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: The_South_Guard.cfg:10
+msgid "The South Guard"
+msgstr ""
+
+#: The_South_Guard.cfg:15
+msgid ""
+"Deoran, son of one of Konrad's knights and a warrior in his own right, was "
+"dispatched to take command of the South Guard...  Note:  This campaign is "
+"geared to be played by inexperienced players.  The 'Civilian' difficulty "
+"level is aimed at players who have never played a campaign before. (Version "
+"1.0.1; for Wesnoth 1.0.0+)"
+msgstr ""
+
+#: The_South_Guard.cfg:18
+msgid "Soldier"
+msgstr ""
+
+#: The_South_Guard.cfg:18
+msgid "Recruit"
+msgstr ""
+
+#: The_South_Guard.cfg:18
+msgid "(trivial)"
+msgstr ""
+
+#: The_South_Guard.cfg:18
+msgid "(easy)"
+msgstr ""
+
+#: The_South_Guard.cfg:18
+msgid "Civilian"
+msgstr ""
+
+#: The_South_Guard.cfg:18
+msgid "(simple)"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:5
+msgid "Vale of Tears"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:141
+msgid ""
+"We have followed you away from our homes and left them unguarded.  Now, "
+"where can we find this sage who knows the southern forest well?"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:146
+msgid ""
+"This is the Vale of Blossoming Trees.  Our great sages come here to live "
+"when they feel that it is time for them to allow others to lead our people.  "
+"The sage you speak of lives in a secluded village between the two lakes."
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:151
+msgid ""
+"Why, my lady, are there humans camped to the south of us?  Are they friends "
+"of the elves?  I had thought that no humans had set foot in this valley."
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:156
+msgid ""
+"What!?  Those are no friends of the elves!  They are brigands, and they must "
+"be destroyed!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:161
+msgid ""
+"Perhaps they are allied with the bandits who have been sacking out towns!  "
+"They have grown bold to attack the elves!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:166
+msgid ""
+"Destroy these intruders, and I will ask him to help you.  He is ancient, and "
+"he remembers well Haldric's betrayal of the elves, so if a human sets foot "
+"in his village first, he almost certainly will have nothing to do with us!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:171
+msgid "Sounds like a charming fellow..."
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:176
+msgid ""
+"Yet, as she says, he is our best hope to rid our lands of this new menace.  "
+"We do that which we must.  Ethiliel, you make for Mebrin's village.  We will "
+"handle the intruders."
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:181
+msgid ""
+"Ha! You're too late.  We've taken what we want from this valley.  Now your "
+"blood and tears will join that of the elves!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:187
+msgid "Cleanse the Vale of Tears"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:191
+msgid "Move Ethiliel to Mebrin's village"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:195
+msgid "Death of Deoran"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:199
+msgid "Death of Sir Gerrick"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:203
+msgid "Death of Ethiliel"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:207
+msgid "Time runs out"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:228
+msgid ""
+"Our weapons are useless against these skeletons!  They have nothing for our "
+"shafts to pierce but air!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:232
+msgid ""
+"We must clear out these undead if you are to reach Mebrin's village!  What "
+"should we do?"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:237
+msgid ""
+"For now, I can slow them down.  Where are the elves who used to live in this "
+"valley?  They should come to our aid!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:242
+msgid ""
+"You said this valley would be safe, and we find it filled with skeletal "
+"foes!  Cannot some of your elf friends help us in our struggle?"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:256
+msgid "I shall not join these accursed undead!  Bury me deeply my friends..."
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:261
+msgid "You shall not die in vain!  My bodyguard will avenge you!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:266
+msgid "You have a bodyguard?!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:271
+msgid "You have a bodyguard?!!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:344
+msgid ""
+"We stand ready, my lady, to protect you!  We shall lead these men of Wesnoth "
+"into the fray!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:357
+msgid "For my lady I fall..."
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:370
+msgid "Finally, release!  Thank you, my friends..."
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:416
+msgid ""
+"You're too late!  You'll never find our stronghold, and even if you did, "
+"what can you do against the dead!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:421
+msgid "You, at least, will trouble us no more!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:468
+msgid "Mebrin! Are you there?  We have come to seek your aid!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:473
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:483
+msgid "..."
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:478
+msgid "Mebrin! Where are you?!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:488
+msgid ""
+"His home is empty...  There are footprints leading away to the south...  "
+"What can have happened here?"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:493
+msgid "Maybe whoever summoned these undead knows where he is?"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:498
+msgid ""
+"There is no blood here, yet no Mebrin.  Someone must have kidnapped him.  "
+"But the undead would have slain him and made him one of them.  Who then can "
+"have taken him?"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:503
+msgid "Maybe the bandits who have been summoning the undead took him?"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:508
+msgid ""
+"We must follow these footprints into the woods!  Whoever took our greatest "
+"sage must pay!  Nothing will stop the vengeance of the elves!"
+msgstr ""
+
+#: The_South_Guard/scenarios/4.Valley_of_Tears.cfg:513
+msgid ""
+"Well, vengeance or no, if you will lead us into the forest, we will follow "
+"you and battle the undead!"
+msgstr ""
