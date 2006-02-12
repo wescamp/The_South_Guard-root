@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-02-12 18:27+0100\n"
+"POT-Creation-Date: 2006-02-12 18:40+0100\n"
 "PO-Revision-Date: 2005-11-25 21:29+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -109,6 +109,7 @@ msgstr ""
 "comandante precedente, aveva sprecato il suo tempo in giochi e passatempi ed "
 "i banditi avevano preso il controllo del territorio..."
 
+#: The_South_Guard/scenarios/sg_unit_utils.cfg:86
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:155
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:226
 #, fuzzy
@@ -319,6 +320,7 @@ msgid ""
 "and they're in trouble!"
 msgstr ""
 
+#: The_South_Guard/scenarios/sg_unit_utils.cfg:99
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:473
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:176
 msgid "quick"
@@ -352,6 +354,7 @@ msgid ""
 "His arrows are deadly to enemies without a ranged attack."
 msgstr ""
 
+#: The_South_Guard/scenarios/sg_unit_utils.cfg:69
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:507
 msgid "strong"
 msgstr "forte"
@@ -1853,6 +1856,306 @@ msgstr ""
 msgid "Epilogue"
 msgstr "Epilogo"
 
+#: The_South_Guard/scenarios/sg_deaths.cfg:10
+msgid "I have failed my kingdom and duty..."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_deaths.cfg:24
+msgid "Taste cold steel!"
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_deaths.cfg:35
+msgid "I have lost all helping the humans...  Now they will surely perish!"
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_deaths.cfg:49
+msgid "I have given my all for my kingdom!  Avenge me, Deoran!"
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_deaths.cfg:63
+msgid "Now I will never see Westin free again..."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_deaths.cfg:77
+msgid "Far from home I fall - but not in vain!  Guard our people Deoran!"
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_help.cfg:30
+msgid ""
+"Thugs are the mainstay of the bandit armies.  They do not have a ranged "
+"attack, and are vulnerable to your archers.  Deoran's lance will also strike "
+"fear into their hearts!  Like all of the bandit units, they are much more "
+"dangerous at night."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_help.cfg:57
+msgid ""
+"Thieves are more subtle than thugs.  They try to surround your units and "
+"stab them in the back.  Make sure that thieves never have an opportunity to "
+"attack when they have an ally directly behind the unit they are attacking - "
+"they'll do double damage!  Like thugs, thieves are vulnerable to the ranged "
+"attacks of your archers."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_help.cfg:84
+msgid ""
+"Footpads are the scouts of the bandit armies.  They are quick, and have both "
+"a melee attack and a ranged attack.  Neither of their attacks is very "
+"strong, however, and your spearmen will make quick work of them during the "
+"day."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_help.cfg:111
+msgid ""
+"Skeletons are the bones of fallen warriors raised by some dark magic.  They "
+"are almost immune to piercing weapons like arrows and spears.  Bladed "
+"attacks like swords will injure them, and Minister Hylas's holy attack is "
+"deadly against them.  Like the rest of the bandits, they are more dangerous "
+"at night!"
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_help.cfg:138
+msgid ""
+"Walking corpses are the bodies of slain warriors, filled with some black "
+"magic.  They are slow and weak - any of your units is more than a match for "
+"them.  They are only dangerous in packs..."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:7
+msgid "Summer"
+msgstr "Estate"
+
+#: The_South_Guard/scenarios/sg_story.cfg:11
+msgid ""
+"During the reign of Haldric VII Wesnoth was secure.  Konrad I had driven off "
+"the orcs in the north.  The eastern forts were quiet and almost deserted.  "
+"The elves in the western forest kept to their own affairs.  In the "
+"prosperous south men build new towns and farms."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:14
+msgid ""
+"For eight years the South Guard had defended the farms and homes surrounding "
+"the city of Westin.  The fiercest foes they faced were the occasional "
+"bandit.  The orcs were far to the north.  Nothing lived in the forest beyond "
+"the river."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:17
+msgid ""
+"In the spring of the ninth year the reports from Sir Loris stopped "
+"suddenly.  King Haldric decided to send someone to investigate."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:20
+msgid ""
+"A young commander, Deoran, son of one of the horsemen who rode with Konrad "
+"I, was summoned by Haldric.  The king had a mission for him."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:23
+msgid ""
+"He was ordered to ride south towards Westin, the capital of the province of "
+"Kerlath and replace Sir Loris as commander of the South Guard..."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:43
+msgid ""
+"Having defeated Urza Mathin, Deoran immediately sent scouts out into the "
+"whole countryside.  His men reported bandits roaming freely over the border, "
+"terrorizing the peasants and villagers.  Nowhere did they find soldiers of "
+"the South Guard."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:46
+msgid ""
+"Deoran decided to take action and wipe out the bandits. He gathered the men "
+"of Sir Gerrick's command and whatever peasants were of strong body and "
+"fighting age.  With this small force he rode in haste to Westin, capital of "
+"the province."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:49
+msgid ""
+"Deoran and his men approached the old city, and they saw that their fears "
+"were well founded..."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:74
+msgid "Fall"
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:78
+msgid ""
+"The men of the South Guard followed Ethiliel for days through the forests "
+"and hills, further than any man had wandered, deep into the land of the "
+"elves."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:82
+msgid ""
+"Far behind them, in Westin, trouble was brewing.  The reconstituted South "
+"Guard was holding the bandits in check, but their spears and bows were no "
+"match for the axes wielded by the fleshless."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:86
+msgid "Surely but slowly they gave ground.  Time was running out..."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:95
+msgid ""
+"Ethiliel led the men of the South Guard into the southern forest.  Shadows "
+"soon covered their paths day and night, and a thick fog filled the air."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:99
+msgid ""
+"For many weeks they marched down nameless paths that no man had trod "
+"before.  From time to time they saw ghostly images of elven villages and "
+"halls in the deep woods, but as they advanced, even those became scarce."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:103
+msgid ""
+"Finally Ethiliel told the men to halt and pitch camp - they had reached the "
+"great river, beyond which no elf or man would willingly pass."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:113
+msgid "Winter"
+msgstr "Inverno"
+
+#: The_South_Guard/scenarios/sg_story.cfg:117
+msgid ""
+"Snow fell as Deoran, Sir Gerrick and Urza Afalas emerged from the great "
+"southern forest.  A great hush fell over the land, and an ominous gloom "
+"followed close behind the men of the South Guard."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:121
+msgid ""
+"Finally they arrived at the southern border of Wesnoth and the forts that "
+"guarded it.  The undead were close on their heels..."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:130
+msgid ""
+"Finally the sun broke the horizon and its rays breathed new life into the "
+"weary defenders of Westin.  A great cry echoed through the valley as the men "
+"of the South Guard pressed their elven foes back from the walls.  Suddenly "
+"the field was covered in a great fog..."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:134
+msgid ""
+"When the fog broke, Ethiliel stood alone, facing the wall of spears.  Bathed "
+"in light, she spoke the the men of Wesnoth, saying, 'Stop!  Enough blood has "
+"been spilled before the walls of this city!  The injury you menfolk have "
+"done to the elves is great, but your service also was worthy.'"
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:138
+msgid ""
+"These are the terms of the peace between us:  any man found in the forest or "
+"hills that belong to the elves will taste death.  No more will the elves "
+"send ambassadors or councilors to Westin, and no more will men wander the "
+"green woods."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:142
+msgid ""
+"Thus an uneasy peace was consummated between man and elf.  For many weeks "
+"the South Guard patrolled the borders of the elven woods and watched over "
+"the growing farms and villages.  Finally, as the snow melted and the roads "
+"bore their burdens again, a messenger came from king Haldric."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:146
+msgid ""
+"Sir Deoran, Knight of Wesnoth, was summoned to Weldyn for a council with "
+"King Haldric himself.  Storm clouds were brewing throughout the realm, and "
+"every commander would be needed to weather the storm..."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:156
+msgid ""
+"With bitter spears and grim expression, the men of Wesnoth launched the last "
+"assault on the undead.  As they cut through lifeless flesh and shattered "
+"chill bones a ray of sunlight pierced the clouds.  The winds died and the "
+"men were filled with new life.  A great cry they let out as they stormed the "
+"encampment of Mal M'brin himself, and threw down the mighty wizard."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:161
+msgid ""
+"Exhausted, Deoran dropped his lance to the ground.  The men around him "
+"slowly lifted their helmets from their brows.  The moans of the wounded "
+"overshadowed the rustling of the north wind in the distance.  The undead "
+"were gone."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:166
+msgid ""
+"For days the healers of Westin worked feverishly to save as many of the "
+"valiant soldiers as they were able.  Many mounds, though, were raised as "
+"homes for the fallen in the fields north of the city, and to the roll of "
+"fallen heroes many names were added."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:171
+msgid ""
+"The loftiest mound belonged to Sir Gerrick.  After the battle, Deoran led an "
+"expedition to the southern border posts, and there he found Sir Gerrick's "
+"sword and shield.  Those he placed atop Gerrick's mound, and they were a "
+"symbol of loyalty and valor to all the people of Westin."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:175
+msgid ""
+"Gerrick's name was added at the top of the roll of fallen heroes, and read "
+"aloud at the beginning of every great council.  The memory of his desperate "
+"last stand at the border posts passed into song, and was not forgotten for "
+"many lives of men."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:180
+msgid ""
+"Deoran spent his days visiting the wounded and directing the men as they "
+"rebuilt the shattered walls and ramparts of the city.  Finally, as the snow "
+"melted and the roads bore their burdens again, a messenger came from king "
+"Haldric."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_story.cfg:185
+msgid ""
+"Sir Deoran, Knight of Wesnoth, was summoned to Weldyn for a council with "
+"King Haldric himself.  Storm clouds were brewing throughout the realm, and "
+"every commander would be needed to weather the onslaught..."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_unit_utils.cfg:11
+msgid "Place barbs on your weapon. (slow)"
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_unit_utils.cfg:29
+msgid "Wield a mace. (impact)"
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_unit_utils.cfg:53
+msgid "Add a swing to your attack."
+msgstr ""
+
+#: The_South_Guard/scenarios/sg_unit_utils.cfg:115
+#, fuzzy
+msgid "intelligent"
+msgstr "intelligente"
+
+#: The_South_Guard/scenarios/sg_unit_utils.cfg:126
+#: The_South_Guard/scenarios/sg_unit_utils.cfg:139
+msgid "loyal"
+msgstr "leale"
+
 #: The_South_Guard/units/1.Junior_Commander.cfg:4
 #, fuzzy
 msgid "Junior Commander"
@@ -1960,6 +2263,43 @@ msgstr ""
 msgid "slow"
 msgstr ""
 
+#: The_South_Guard/units/Chocobone.cfg:5
+msgid "Chocobone"
+msgstr ""
+
+#: The_South_Guard/units/Chocobone.cfg:35
+msgid ""
+"Riding the bones of ostrich-like large birds once used as mounts by a lost "
+"civilization, the skeletal Chocobones can move faster than most cavalry "
+"units."
+msgstr ""
+
+#: The_South_Guard/units/Demilich.cfg:5
+msgid "Demilich"
+msgstr ""
+
+#: The_South_Guard/units/Demilich.cfg:29
+msgid ""
+"After too much time dabbling with forbidden magics and dark arts, these magi "
+"have begun to pay a heavy price. Demiliches have started losing their "
+"bodies, becoming undead themselves. With time, they may become fully undead, "
+"and feared by all alike."
+msgstr ""
+
+#: The_South_Guard/units/Dread_Lich.cfg:4
+msgid "Dread Lich"
+msgstr ""
+
+#: The_South_Guard/units/Dread_Lich.cfg:29
+msgid ""
+"At long last, Ha'atel has paid the ultimate sacrifice for the dark arts into "
+"which he has delved, and has, himself, entered into undeath. At the apex of "
+"his power, he has become a lich, a waking embodiment of dread. He has, "
+"beyond any doubt, passed the point of no return, and his power and "
+"immortality will have to provide consolation for what he has lost in his "
+"quest to achieve them."
+msgstr ""
+
 #: The_South_Guard/units/Invisible.cfg:4
 msgid "Invisible"
 msgstr "Invisibile"
@@ -1968,17 +2308,8 @@ msgstr "Invisibile"
 msgid "dummy"
 msgstr ""
 
-#~ msgid "Summer"
-#~ msgstr "Estate"
-
-#~ msgid "Winter"
-#~ msgstr "Inverno"
-
 #~ msgid "Great Tree"
 #~ msgstr "Grande albero"
-
-#~ msgid "loyal"
-#~ msgstr "leale"
 
 #~ msgid "leadership"
 #~ msgstr "comando"
