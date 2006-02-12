@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-11-25 21:29+0100\n"
+"POT-Creation-Date: 2006-02-12 18:27+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,31 +14,35 @@ msgstr ""
 msgid "The South Guard"
 msgstr ""
 
-#: ./The_South_Guard.cfg:15
-msgid "Deoran, son of one of Konrad's knights and a warrior in his own right, was dispatched to take command of the South Guard...  Note:  This campaign is geared to be played by inexperienced players.  The 'Civilian' difficulty level is aimed at players who have never played a campaign before. (Version 1.0.1; for Wesnoth 1.0.0+)"
+#: ./The_South_Guard.cfg:17
+msgid "Deoran, son of one of Konrad's knights and a warrior in his own right, was dispatched to take command of the South Guard...  Note:  This campaign is geared to be played by inexperienced players.  The 'Civilian' difficulty level is aimed at players who have never played a campaign before. (Version "
 msgstr ""
 
-#: ./The_South_Guard.cfg:18
+#: ./The_South_Guard.cfg:17
+msgid "; for Wesnoth "
+msgstr ""
+
+#: ./The_South_Guard.cfg:20
 msgid "Soldier"
 msgstr ""
 
-#: ./The_South_Guard.cfg:18
+#: ./The_South_Guard.cfg:20
 msgid "(simple)"
 msgstr ""
 
-#: ./The_South_Guard.cfg:18
+#: ./The_South_Guard.cfg:20
 msgid "Civilian"
 msgstr ""
 
-#: ./The_South_Guard.cfg:18
+#: ./The_South_Guard.cfg:20
 msgid "Recruit"
 msgstr ""
 
-#: ./The_South_Guard.cfg:18
+#: ./The_South_Guard.cfg:20
 msgid "(trivial)"
 msgstr ""
 
-#: ./The_South_Guard.cfg:18
+#: ./The_South_Guard.cfg:20
 msgid "(easy)"
 msgstr ""
 
@@ -50,11 +54,11 @@ msgstr ""
 msgid "Investigate the river fort"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:229 ./The_South_Guard/scenarios/7a.Into_The_Depths.cfg:203 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:102 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:269 ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:195 ./The_South_Guard/scenarios/6b.The_Long_March.cfg:167 ./The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:176 ./The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:263 ./The_South_Guard/scenarios/8a.Vengeance.cfg:244 ./The_South_Guard/scenarios/8a.Vengeance.cfg:327 ./The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:134 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:230 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:428 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:481
+#: ./The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:229 ./The_South_Guard/scenarios/7a.Into_The_Depths.cfg:203 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:102 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:269 ./The_South_Guard/scenarios/6b.The_Long_March.cfg:166 ./The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:176 ./The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:263 ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:195 ./The_South_Guard/scenarios/8a.Vengeance.cfg:244 ./The_South_Guard/scenarios/8a.Vengeance.cfg:327 ./The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:134 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:230 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:428 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:481
 msgid "Death of Deoran"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:237 ./The_South_Guard/scenarios/7a.Into_The_Depths.cfg:211 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:106 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:277 ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:207 ./The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:183 ./The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:259 ./The_South_Guard/scenarios/6b.The_Long_March.cfg:179 ./The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:184 ./The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:275 ./The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:142 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:242 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:444 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:493
+#: ./The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:237 ./The_South_Guard/scenarios/7a.Into_The_Depths.cfg:211 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:106 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:277 ./The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:183 ./The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:259 ./The_South_Guard/scenarios/6b.The_Long_March.cfg:178 ./The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:184 ./The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:275 ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:207 ./The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:142 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:242 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:444 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:493
 msgid "Time runs out"
 msgstr ""
 
@@ -62,7 +66,7 @@ msgstr ""
 msgid "Deoran found himself put to the test early in his command. Loris, the previous commander, had squandered his time in games and diversions and bandits had overrun the land..."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/sg_unit_utils.cfg:85 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:155 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:226
+#: ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:155 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:226
 msgid "resilient"
 msgstr ""
 
@@ -122,7 +126,7 @@ msgstr ""
 msgid "Defeat Urza Mathin"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:273 ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:199 ./The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:175 ./The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:251 ./The_South_Guard/scenarios/6b.The_Long_March.cfg:171 ./The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:180 ./The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:267 ./The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:138 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:234 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:432 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:485
+#: ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:273 ./The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:175 ./The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:251 ./The_South_Guard/scenarios/6b.The_Long_March.cfg:170 ./The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:180 ./The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:267 ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:199 ./The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:138 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:234 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:432 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:485
 msgid "Death of Sir Gerrick"
 msgstr ""
 
@@ -166,7 +170,7 @@ msgstr ""
 msgid "You may now recruit Merman Hunters.  Mermen are aquatic creatures.  Keep them in rivers and swamps and they will fight well!  Put them on dry land and they're in trouble!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/sg_unit_utils.cfg:98 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:473 ./The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:176
+#: ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:473 ./The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:176
 msgid "quick"
 msgstr ""
 
@@ -190,7 +194,7 @@ msgstr ""
 msgid "Aleron is a longbowman, stronger and better trained than regular bowmen.  His arrows are deadly to enemies without a ranged attack."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/sg_unit_utils.cfg:68 ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:507
+#: ./The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:507
 msgid "strong"
 msgstr ""
 
@@ -486,143 +490,143 @@ msgstr ""
 msgid "My thanks, lady."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:5
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:5
 msgid "Vale of Tears"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:141
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:141
 msgid "We have followed you away from our homes and left them unguarded.  Now, where can we find this sage who knows the southern forest well?"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:146
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:146
 msgid "This is the Vale of Blossoming Trees.  Our great sages come here to live when they feel that it is time for them to allow others to lead our people.  The sage you speak of lives in a secluded village between the two lakes."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:151
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:151
 msgid "Why, my lady, are there humans camped to the south of us?  Are they friends of the elves?  I had thought that no humans had set foot in this valley."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:156
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:156
 msgid "What!?  Those are no friends of the elves!  They are brigands, and they must be destroyed!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:161
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:161
 msgid "Perhaps they are allied with the bandits who have been sacking out towns!  They have grown bold to attack the elves!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:166
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:166
 msgid "Destroy these intruders, and I will ask him to help you.  He is ancient, and he remembers well Haldric's betrayal of the elves, so if a human sets foot in his village first, he almost certainly will have nothing to do with us!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:171
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:171
 msgid "Sounds like a charming fellow..."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:176
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:176
 msgid "Yet, as she says, he is our best hope to rid our lands of this new menace.  We do that which we must.  Ethiliel, you make for Mebrin's village.  We will handle the intruders."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:181
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:181
 msgid "Ha! You're too late.  We've taken what we want from this valley.  Now your blood and tears will join that of the elves!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:187
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:187
 msgid "Cleanse the Vale of Tears"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:191
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:191
 msgid "Move Ethiliel to Mebrin's village"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/7a.Into_The_Depths.cfg:207 ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:203 ./The_South_Guard/scenarios/8a.Vengeance.cfg:248 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:238 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:436 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:489
+#: ./The_South_Guard/scenarios/7a.Into_The_Depths.cfg:207 ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:203 ./The_South_Guard/scenarios/8a.Vengeance.cfg:248 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:238 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:436 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:489
 msgid "Death of Ethiliel"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:228
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:228
 msgid "Our weapons are useless against these skeletons!  They have nothing for our shafts to pierce but air!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:232
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:232
 msgid "We must clear out these undead if you are to reach Mebrin's village!  What should we do?"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:237
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:237
 msgid "For now, I can slow them down.  Where are the elves who used to live in this valley?  They should come to our aid!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:242
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:242
 msgid "You said this valley would be safe, and we find it filled with skeletal foes!  Cannot some of your elf friends help us in our struggle?"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:256
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:256
 msgid "I shall not join these accursed undead!  Bury me deeply my friends..."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:261
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:261
 msgid "You shall not die in vain!  My bodyguard will avenge you!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:266
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:266
 msgid "You have a bodyguard?!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:271
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:271
 msgid "You have a bodyguard?!!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:344
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:344
 msgid "We stand ready, my lady, to protect you!  We shall lead these men of Wesnoth into the fray!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:357
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:357
 msgid "For my lady I fall..."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:370
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:370
 msgid "Finally, release!  Thank you, my friends..."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:416
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:416
 msgid "You're too late!  You'll never find our stronghold, and even if you did, what can you do against the dead!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:421
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:421
 msgid "You, at least, will trouble us no more!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:468
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:468
 msgid "Mebrin! Are you there?  We have come to seek your aid!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:473 ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:483
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:473 ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:483
 msgid "..."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:478
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:478
 msgid "Mebrin! Where are you?!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:488
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:488
 msgid "His home is empty...  There are footprints leading away to the south...  What can have happened here?"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:493
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:493
 msgid "Maybe whoever summoned these undead knows where he is?"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:498
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:498
 msgid "There is no blood here, yet no Mebrin.  Someone must have kidnapped him.  But the undead would have slain him and made him one of them.  Who then can have taken him?"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:503
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:503
 msgid "Maybe the bandits who have been summoning the undead took him?"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:508
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:508
 msgid "We must follow these footprints into the woods!  Whoever took our greatest sage must pay!  Nothing will stop the vengeance of the elves!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/4.Valley_of_Tears.cfg:513
+#: ./The_South_Guard/scenarios/4.Vale_of_Tears.cfg:513
 msgid "Well, vengeance or no, if you will lead us into the forest, we will follow you and battle the undead!"
 msgstr ""
 
@@ -766,7 +770,7 @@ msgstr ""
 msgid "Find the source of the undead and destroy it."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:175 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:440
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:174 ./The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:440
 msgid "Death of Urza Afalas"
 msgstr ""
 
@@ -926,111 +930,111 @@ msgstr ""
 msgid "The Long March"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:127
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:126
 msgid "Deoran and Urza Afalas led their men quickly from the ruins of Mal M'brin's fortress..."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:132
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:131
 msgid "Will this forest ever end?  How can we know what path to take?!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:136
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:135
 msgid "You have to follow me!  There are many false paths in these woods.  Some are dead ends, others are even worse!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:140
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:139
 msgid "Can we trust him?  His people are murderers and thieves!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:144
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:143
 msgid "Do we have any choice?  Our food is running out, and it will be winter soon..."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:150
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:149
 msgid "This way!  The only ford is a bit west of here, and the path to the north will lead you into trouble!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:156
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:155
 msgid "I think we should head north.  The road leads north, and the ford is north.  Why does he want us to head west?"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:163
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:162
 msgid "Make your way to the north edge of the woods"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:198
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:197
 msgid "We have to go even further west.  There are elves living to the north, and I don't think they'll receive us too kindly!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:202
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:201
 msgid "Maybe the elves will have food we can buy - we should head north to meet them!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:222
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:221
 msgid "Come on!  Hurry!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:232
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:231
 msgid "If there are elves to the north we must head north!  We can't follow this bandit to who knows where...  The elves have been our friends!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:249
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:248
 msgid "Keep moving!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:270
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:269
 msgid "We're almost there!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:289
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:288
 msgid "Just a little further!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:308
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:307
 msgid "Hurry!  There are bandits in these woods!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:312
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:311
 msgid "Why should that worry us?!  Aren't you their leader?"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:316
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:315
 msgid "We're bandits, after all.  Not all of them are loyal to me."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:335
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:334
 msgid "The river is just ahead!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:353
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:352
 msgid "From here you can see the banks of the river!  Across it we will find the sun again, and an end to these cursed trees!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:388
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:387
 msgid "We cannot allow you bandits and criminals to pass through our lands!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:392
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:391
 msgid "But we have slain the undead - we wish only to return to our homes!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:396
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:395
 msgid "Nevertheless we will have vengeance for Mebrin!!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:411
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:410
 msgid "Thank heaven we have escaped that awful forest!"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:415
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:414
 msgid "Indeed, Afalas, you've earned my trust today."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:419
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:418
 msgid "I can only hope for mercy when I return to Westin."
 msgstr ""
 
-#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:424
+#: ./The_South_Guard/scenarios/6b.The_Long_March.cfg:423
 msgid "But there was a dark cloud looming behind Deoran and his Men..."
 msgstr ""
 
@@ -1342,216 +1346,36 @@ msgstr ""
 msgid "Epilogue"
 msgstr ""
 
-#: ./The_South_Guard/scenarios/sg_deaths.cfg:11
-msgid "I have failed my kingdom and duty..."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_deaths.cfg:25
-msgid "Taste cold steel!"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_deaths.cfg:36
-msgid "I have lost all helping the humans...  Now they will surely perish!"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_deaths.cfg:50
-msgid "I have given my all for my kingdom!  Avenge me, Deoran!"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_deaths.cfg:64
-msgid "Now I will never see Westin free again..."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_deaths.cfg:78
-msgid "Far from home I fall - but not in vain!  Guard our people Deoran!"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_help.cfg:29
-msgid "Thugs are the mainstay of the bandit armies.  They do not have a ranged attack, and are vulnerable to your archers.  Deoran's lance will also strike fear into their hearts!  Like all of the bandit units, they are much more dangerous at night."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_help.cfg:56
-msgid "Thieves are more subtle than thugs.  They try to surround your units and stab them in the back.  Make sure that thieves never have an opportunity to attack when they have an ally directly behind the unit they are attacking - they'll do double damage!  Like thugs, thieves are vulnerable to the ranged attacks of your archers."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_help.cfg:83
-msgid "Footpads are the scouts of the bandit armies.  They are quick, and have both a melee attack and a ranged attack.  Neither of their attacks is very strong, however, and your spearmen will make quick work of them during the day."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_help.cfg:110
-msgid "Skeletons are the bones of fallen warriors raised by some dark magic.  They are almost immune to piercing weapons like arrows and spears.  Bladed attacks like swords will injure them, and Minister Hylas's holy attack is deadly against them.  Like the rest of the bandits, they are more dangerous at night!"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_help.cfg:137
-msgid "Walking corpses are the bodies of slain warriors, filled with some black magic.  They are slow and weak - any of your units is more than a match for them.  They are only dangerous in packs..."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:7
-msgid "Summer"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:11
-msgid "During the reign of Haldric VII Wesnoth was secure.  Konrad I had driven off the orcs in the north.  The eastern forts were quiet and almost deserted.  The elves in the western forest kept to their own affairs.  In the prosperous south men build new towns and farms."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:14
-msgid "For eight years the South Guard had defended the farms and homes surrounding the city of Westin.  The fiercest foes they faced were the occasional bandit.  The orcs were far to the north.  Nothing lived in the forest beyond the river."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:17
-msgid "In the spring of the ninth year the reports from Sir Loris stopped suddenly.  King Haldric decided to send someone to investigate."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:20
-msgid "A young commander, Deoran, son of one of the horsemen who rode with Konrad I, was summoned by Haldric.  The king had a mission for him."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:23
-msgid "He was ordered to ride south towards Westin, the capital of the province of Kerlath and replace Sir Loris as commander of the South Guard..."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:43
-msgid "Having defeated Urza Mathin, Deoran immediately sent scouts out into the whole countryside.  His men reported bandits roaming freely over the border, terrorizing the peasants and villagers.  Nowhere did they find soldiers of the South Guard."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:46
-msgid "Deoran decided to take action and wipe out the bandits. He gathered the men of Sir Gerrick's command and whatever peasants were of strong body and fighting age.  With this small force he rode in haste to Westin, capital of the province."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:49
-msgid "Deoran and his men approached the old city, and they saw that their fears were well founded..."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:74
-msgid "Fall"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:78
-msgid "The men of the South Guard followed Ethiliel for days through the forests and hills, further than any man had wandered, deep into the land of the elves."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:82
-msgid "Far behind them, in Westin, trouble was brewing.  The reconstituted South Guard was holding the bandits in check, but their spears and bows were no match for the axes wielded by the fleshless."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:86
-msgid "Surely but slowly they gave ground.  Time was running out..."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:95
-msgid "Ethiliel led the men of the South Guard into the southern forest.  Shadows soon covered their paths day and night, and a thick fog filled the air."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:99
-msgid "For many weeks they marched down nameless paths that no man had trod before.  From time to time they saw ghostly images of elven villages and halls in the deep woods, but as they advanced, even those became scarce."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:103
-msgid "Finally Ethiliel told the men to halt and pitch camp - they had reached the great river, beyond which no elf or man would willingly pass."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:113
-msgid "Winter"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:117
-msgid "Snow fell as Deoran, Sir Gerrick and Urza Afalas emerged from the great southern forest.  A great hush fell over the land, and an ominous gloom followed close behind the men of the South Guard."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:121
-msgid "Finally they arrived at the southern border of Wesnoth and the forts that guarded it.  The undead were close on their heels..."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:130
-msgid "Finally the sun broke the horizon and its rays breathed new life into the weary defenders of Westin.  A great cry echoed through the valley as the men of the South Guard pressed their elven foes back from the walls.  Suddenly the field was covered in a great fog..."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:134
-msgid "When the fog broke, Ethiliel stood alone, facing the wall of spears.  Bathed in light, she spoke the the men of Wesnoth, saying, 'Stop!  Enough blood has been spilled before the walls of this city!  The injury you menfolk have done to the elves is great, but your service also was worthy.'"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:138
-msgid "These are the terms of the peace between us:  any man found in the forest or hills that belong to the elves will taste death.  No more will the elves send ambassadors or councilors to Westin, and no more will men wander the green woods."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:142
-msgid "Thus an uneasy peace was consummated between man and elf.  For many weeks the South Guard patrolled the borders of the elven woods and watched over the growing farms and villages.  Finally, as the snow melted and the roads bore their burdens again, a messenger came from king Haldric."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:146
-msgid "Sir Deoran, Knight of Wesnoth, was summoned to Weldyn for a council with King Haldric himself.  Storm clouds were brewing throughout the realm, and every commander would be needed to weather the storm..."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:156
-msgid "With bitter spears and grim expression, the men of Wesnoth launched the last assault on the undead.  As they cut through lifeless flesh and shattered chill bones a ray of sunlight pierced the clouds.  The winds died and the men were filled with new life.  A great cry they let out as they stormed the encampment of Mal M'brin himself, and threw down the mighty wizard."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:161
-msgid "Exhausted, Deoran dropped his lance to the ground.  The men around him slowly lifted their helmets from their brows.  The moans of the wounded overshadowed the rustling of the north wind in the distance.  The undead were gone."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:166
-msgid "For days the healers of Westin worked feverishly to save as many of the valiant soldiers as they were able.  Many mounds, though, were raised as homes for the fallen in the fields north of the city, and to the roll of fallen heroes many names were added."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:171
-msgid "The loftiest mound belonged to Sir Gerrick.  After the battle, Deoran led an expedition to the southern border posts, and there he found Sir Gerrick's sword and shield.  Those he placed atop Gerrick's mound, and they were a symbol of loyalty and valor to all the people of Westin."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:175
-msgid "Gerrick's name was added at the top of the roll of fallen heroes, and read aloud at the beginning of every great council.  The memory of his desperate last stand at the border posts passed into song, and was not forgotten for many lives of men."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:180
-msgid "Deoran spent his days visiting the wounded and directing the men as they rebuilt the shattered walls and ramparts of the city.  Finally, as the snow melted and the roads bore their burdens again, a messenger came from king Haldric."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_story.cfg:185
-msgid "Sir Deoran, Knight of Wesnoth, was summoned to Weldyn for a council with King Haldric himself.  Storm clouds were brewing throughout the realm, and every commander would be needed to weather the onslaught..."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_terrain.cfg:5
-msgid "Great Tree"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_unit_utils.cfg:10
-msgid "Place barbs on your weapon. (slow)"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_unit_utils.cfg:28
-msgid "Wield a mace. (impact)"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_unit_utils.cfg:52
-msgid "Add a swing to your attack."
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_unit_utils.cfg:114
-msgid "intelligent"
-msgstr ""
-
-#: ./The_South_Guard/scenarios/sg_unit_utils.cfg:125 ./The_South_Guard/scenarios/sg_unit_utils.cfg:138
-msgid "loyal"
-msgstr ""
-
 #: ./The_South_Guard/units/1.Junior_Commander.cfg:4
 msgid "Junior Commander"
 msgstr ""
 
-#: ./The_South_Guard/units/1.Junior_Commander.cfg:27 ./The_South_Guard/units/2.Horseman_Commander.cfg:31 ./The_South_Guard/units/4.Infantry_Commander.cfg:24 ./The_South_Guard/units/5.Assault_Commander.cfg:26 ./The_South_Guard/units/3.Dismounted_Commander.cfg:25
-msgid "leadership"
+#: ./The_South_Guard/units/1.Junior_Commander.cfg:35
+msgid "Scarcely 17 or 18 years old, the sons of knights and lords were given mounts and swords and told to become leaders of men.  Those whose mettle was strong enough for the task became the commanders of the armies of Wesnoth."
 msgstr ""
 
-#: ./The_South_Guard/units/1.Junior_Commander.cfg:29
-msgid "Scarcely 17 or 18 years old, the sons of knights and lords were given mounts and swords and told to become leaders of men.  Those whose mettle was strong enough for the task became the commanders of the armies of Wesnoth."
+#: ./The_South_Guard/units/1.Junior_Commander.cfg:38
+msgid "spear"
+msgstr ""
+
+#: ./The_South_Guard/units/1.Junior_Commander.cfg:39 ./The_South_Guard/units/2.Horseman_Commander.cfg:42 ./The_South_Guard/units/3.Dismounted_Commander.cfg:31
+msgid "pierce"
 msgstr ""
 
 #: ./The_South_Guard/units/2.Horseman_Commander.cfg:4
 msgid "Horseman Commander"
 msgstr ""
 
-#: ./The_South_Guard/units/2.Horseman_Commander.cfg:33
+#: ./The_South_Guard/units/2.Horseman_Commander.cfg:38
 msgid "Leaders of the border guards, mounted commanders are trained not only to ride and fight, but to lead.  They command the garrisons that keep peace in the provinces of Wesnoth."
+msgstr ""
+
+#: ./The_South_Guard/units/2.Horseman_Commander.cfg:41 ./The_South_Guard/units/3.Dismounted_Commander.cfg:30
+msgid "lance"
+msgstr ""
+
+#: ./The_South_Guard/units/2.Horseman_Commander.cfg:43
+msgid "charge"
 msgstr ""
 
 #: ./The_South_Guard/units/3.Dismounted_Commander.cfg:4
@@ -1562,12 +1386,24 @@ msgstr ""
 msgid "Deoran was still a dangerous commander, even without his horse."
 msgstr ""
 
+#: ./The_South_Guard/units/3.Dismounted_Commander.cfg:32
+msgid "firststrike"
+msgstr ""
+
 #: ./The_South_Guard/units/4.Infantry_Commander.cfg:4
 msgid "Infantry Lieutenant"
 msgstr ""
 
 #: ./The_South_Guard/units/4.Infantry_Commander.cfg:28
 msgid "Commanders of the infantry Wesnoth are responsible for the garrison and defense of the border towns and villages.  They are drawn from the ranks of veteran soldiers, not nobility, and all have shown leadership and courage in battle."
+msgstr ""
+
+#: ./The_South_Guard/units/4.Infantry_Commander.cfg:31 ./The_South_Guard/units/5.Assault_Commander.cfg:33
+msgid "sword"
+msgstr ""
+
+#: ./The_South_Guard/units/4.Infantry_Commander.cfg:32 ./The_South_Guard/units/5.Assault_Commander.cfg:34
+msgid "blade"
 msgstr ""
 
 #: ./The_South_Guard/units/5.Assault_Commander.cfg:4
@@ -1578,7 +1414,23 @@ msgstr ""
 msgid "Veteran commanders have faced battle many times and led their men with steady hands and calm determination."
 msgstr ""
 
+#: ./The_South_Guard/units/5.Assault_Commander.cfg:52
+msgid "shield"
+msgstr ""
+
+#: ./The_South_Guard/units/Invisible.cfg:15 ./The_South_Guard/units/5.Assault_Commander.cfg:53
+msgid "impact"
+msgstr ""
+
+#: ./The_South_Guard/units/5.Assault_Commander.cfg:57
+msgid "slow"
+msgstr ""
+
 #: ./The_South_Guard/units/Invisible.cfg:4
 msgid "Invisible"
+msgstr ""
+
+#: ./The_South_Guard/units/Invisible.cfg:14
+msgid "dummy"
 msgstr ""
 
