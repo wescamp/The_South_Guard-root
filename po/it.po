@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-02-12 18:40+0100\n"
-"PO-Revision-Date: 2006-02-15 14:50+0100\n"
+"PO-Revision-Date: 2006-02-15 22:47+0100\n"
 "Last-Translator: Gwain <mcgwain@hotmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -2261,27 +2261,28 @@ msgstr "Epilogo"
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:10
 msgid "I have failed my kingdom and duty..."
-msgstr ""
+msgstr "Ho deluso il mio regno..."
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:24
 msgid "Taste cold steel!"
-msgstr ""
+msgstr "Assaggia il freddo ferro!"
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:35
 msgid "I have lost all helping the humans...  Now they will surely perish!"
-msgstr ""
+msgstr "Ho perso tutto aiutando gli umani... ora essi periranno di sicuro!"
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:49
 msgid "I have given my all for my kingdom!  Avenge me, Deoran!"
-msgstr ""
+msgstr "Ho dato tutto per il mio regno, vendichami Deoran!"
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:63
 msgid "Now I will never see Westin free again..."
-msgstr ""
+msgstr "Ora non vedrò mai Westin libera..."
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:77
 msgid "Far from home I fall - but not in vain!  Guard our people Deoran!"
 msgstr ""
+"Lontano da casa, io cado - ma non invano! Difendi il nostro popolo Deoran!"
 
 #: The_South_Guard/scenarios/sg_help.cfg:30
 msgid ""
@@ -2290,6 +2291,10 @@ msgid ""
 "fear into their hearts!  Like all of the bandit units, they are much more "
 "dangerous at night."
 msgstr ""
+"Gli strangolatori compongono la maggioranza delle armate di banditi. Non "
+"possiedono un attacco a distanza, e sono vulnerabili agli attacchi dei tuoi "
+"arcieri. La lancia di Deoran sarà anche in grado di terrorizzare i loro "
+"cuori! Come tutte le unità di banditi, essi sono più pericolosi la notte."
 
 #: The_South_Guard/scenarios/sg_help.cfg:57
 msgid ""
@@ -2299,6 +2304,11 @@ msgid ""
 "they'll do double damage!  Like thugs, thieves are vulnerable to the ranged "
 "attacks of your archers."
 msgstr ""
+"I ladri sono più subdoli degli strangolatori. Essi cercano di accerchiare le "
+"tue unità e di pugnalarle alle spalle. Assicurati che i ladri non abbiano "
+"mai l'opportunità di attaccare quando hanno un alleato direttamente dietro "
+"l'unità che stanno attaccando - faranno il doppio dei danni! Così come gli "
+"strangolatori, i ladri sono vulnerabili alle freccie dei tuoi arcieri."
 
 #: The_South_Guard/scenarios/sg_help.cfg:84
 msgid ""
@@ -2307,6 +2317,10 @@ msgid ""
 "strong, however, and your spearmen will make quick work of them during the "
 "day."
 msgstr ""
+"I briganti sono gli scout delle armate di banditi. Sono veloci, ed hanno sia "
+"un attacco corpo a copro, sia uno a distanza. Nessuno dei due attacchi è "
+"molto forte, comunque, ed i tuoi lancieri li elimineranno velocemente "
+"durante il giorno."
 
 #: The_South_Guard/scenarios/sg_help.cfg:111
 msgid ""
@@ -2316,6 +2330,11 @@ msgid ""
 "deadly against them.  Like the rest of the bandits, they are more dangerous "
 "at night!"
 msgstr ""
+"Gli Scheletri sono costituiti dalle ossa di qualche guerriero caduto, e "
+"rianimate dalle arti oscure. Sono praticamente immuni alle armi da punta, "
+"come le freccie e gli arpioni. Gli attacchi da taglio, come le spade, li "
+"feriranno, e l'attacco sacro del Ministro Hylas è mortale per loro. Come il "
+"resto dei banditi essi son più pericolosi di notte!"
 
 #: The_South_Guard/scenarios/sg_help.cfg:138
 msgid ""
@@ -2323,6 +2342,9 @@ msgid ""
 "magic.  They are slow and weak - any of your units is more than a match for "
 "them.  They are only dangerous in packs..."
 msgstr ""
+"I morti viventi sono cadaveri di guerrieri uccisi, pervasi dalla magia "
+"oscura. Sono deboli e lenti - Qualsiasi tua unità è una sfida per loro. Sono "
+"pericolosi solo in gruppo..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:7
 msgid "Summer"
@@ -2335,6 +2357,10 @@ msgid ""
 "The elves in the western forest kept to their own affairs.  In the "
 "prosperous south men build new towns and farms."
 msgstr ""
+"Durante il regno di Haldric VII Wesnoth era sicura. Konrad I Aveva scacciato "
+"gli orchi a nord. Le fortezze dell'est erano quiete e quasi deserte, gli "
+"elfi ad ovest continuavano a farsi gli affari loro. Nel prospero sud gli "
+"uomini costruivano nuove città e fattorie."
 
 #: The_South_Guard/scenarios/sg_story.cfg:14
 msgid ""
@@ -2343,24 +2369,35 @@ msgid ""
 "bandit.  The orcs were far to the north.  Nothing lived in the forest beyond "
 "the river."
 msgstr ""
+"Per otto anni la guardia del sud ha difeso le case e le fattorie attorno la "
+"città di Westin. I nemici più pericolosi che ha incontrato sono stati gli "
+"occasionali banditi. Gli orchi erano lontani a nord. Nulla viveva nella "
+"foresta oltre il fiume."
 
 #: The_South_Guard/scenarios/sg_story.cfg:17
 msgid ""
 "In the spring of the ninth year the reports from Sir Loris stopped "
 "suddenly.  King Haldric decided to send someone to investigate."
 msgstr ""
+"Nella primavera del nono anno i rapporti di Sir Loris si fermarono "
+"improvvisamente. Re Haldric decise di mandare qualcuno ad investigare."
 
 #: The_South_Guard/scenarios/sg_story.cfg:20
 msgid ""
 "A young commander, Deoran, son of one of the horsemen who rode with Konrad "
 "I, was summoned by Haldric.  The king had a mission for him."
 msgstr ""
+"Un giovane comandante, Deoran, Figlio di uno dei cavalieri che cavalcarono "
+"con Konrad I, fu richiamato da Haldric. Il re aveva una missione per lui."
 
 #: The_South_Guard/scenarios/sg_story.cfg:23
 msgid ""
 "He was ordered to ride south towards Westin, the capital of the province of "
 "Kerlath and replace Sir Loris as commander of the South Guard..."
 msgstr ""
+"Gli fu ordinato di cavalcare a sud, verso Westin, la capitale della "
+"provincia di Kerlath, e di rimpiazzare Sir Loris come comandante della "
+"guardia del sud..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:43
 msgid ""
@@ -2369,6 +2406,10 @@ msgid ""
 "terrorizing the peasants and villagers.  Nowhere did they find soldiers of "
 "the South Guard."
 msgstr ""
+"Avendo sconfitto Urza Mathin, Deoran inviò immediatamente degli scout in "
+"tutta l'area circostante. I suoi uomini riportarono di banditi visti "
+"scorazzare liberamente per tutto il confine, terrorizzando i contadini "
+"inermi. In Nessun posto riuscirono a trovare soldati della guardia del sud."
 
 #: The_South_Guard/scenarios/sg_story.cfg:46
 msgid ""
@@ -2377,16 +2418,22 @@ msgid ""
 "fighting age.  With this small force he rode in haste to Westin, capital of "
 "the province."
 msgstr ""
+"Deoran decise d'agire e di sterminare i banditi. Raccolse gli uomini al "
+"comando di Sir Gerrick e tutti i contadini con un corpo possente e grandi "
+"abbastanza per combattere. Con la sua piccola forza si mosse in fretta verso "
+"Westin, capitale della provincia."
 
 #: The_South_Guard/scenarios/sg_story.cfg:49
 msgid ""
 "Deoran and his men approached the old city, and they saw that their fears "
 "were well founded..."
 msgstr ""
+"Deoran ed i suoi uomini si avvicinarono alla vecchia città, solo per "
+"scoprire che le loro paure erano più che fondate..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:74
 msgid "Fall"
-msgstr ""
+msgstr "Autunno"
 
 #: The_South_Guard/scenarios/sg_story.cfg:78
 msgid ""
@@ -2394,6 +2441,9 @@ msgid ""
 "and hills, further than any man had wandered, deep into the land of the "
 "elves."
 msgstr ""
+"Gli uomini della guardia del sud seguirono Ethiliel per giorni attraverso le "
+"foreste e le colline, più a lungo di quanto ogni uomo abbia mai vagato, "
+"nella profondità delle terre degli elfi."
 
 #: The_South_Guard/scenarios/sg_story.cfg:82
 msgid ""
@@ -2401,16 +2451,22 @@ msgid ""
 "Guard was holding the bandits in check, but their spears and bows were no "
 "match for the axes wielded by the fleshless."
 msgstr ""
+"Molto più indietro, a Westin, i guai stavano peggiorando. La ricostituita "
+"guardia del sud stava tenendo i banditi lontani, male loro lance ed i loro "
+"archi non potevano nulla contro le asce delle armate scheletriche."
 
 #: The_South_Guard/scenarios/sg_story.cfg:86
 msgid "Surely but slowly they gave ground.  Time was running out..."
-msgstr ""
+msgstr "Lentamente stavano perdendo terreno. Il tempo stava finendo..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:95
 msgid ""
 "Ethiliel led the men of the South Guard into the southern forest.  Shadows "
 "soon covered their paths day and night, and a thick fog filled the air."
 msgstr ""
+"Ethiliel guidò gli uomini della guardia del sud nella foresta a meridione. "
+"Le ombre presto coprirono il loro percorso, sia di giocrno che di notte, e "
+"della spessa nebbia riempiva l'aria."
 
 #: The_South_Guard/scenarios/sg_story.cfg:99
 msgid ""
@@ -2418,12 +2474,19 @@ msgid ""
 "before.  From time to time they saw ghostly images of elven villages and "
 "halls in the deep woods, but as they advanced, even those became scarce."
 msgstr ""
+"per molte settimane marciarono per sentieri senza nome che nessun uomo aveva "
+"mai attraversato prima. A volte sembrava loro di intravedere spettrali "
+"immagini di villaggi elfici e di grandi saloni nelle profondità dei boschi, "
+"ma col passare del tempo anche queste immagini divennero rare."
 
 #: The_South_Guard/scenarios/sg_story.cfg:103
 msgid ""
 "Finally Ethiliel told the men to halt and pitch camp - they had reached the "
 "great river, beyond which no elf or man would willingly pass."
 msgstr ""
+"Finalmente Ethiliel disse agli uomini di fermarsi e di preparare un "
+"accampamento - avevano raggiunto il grande fiume, oltre il quale nessun uomo "
+"o elfo avrebbe volontariamente messo piede."
 
 #: The_South_Guard/scenarios/sg_story.cfg:113
 msgid "Winter"
@@ -2435,12 +2498,17 @@ msgid ""
 "southern forest.  A great hush fell over the land, and an ominous gloom "
 "followed close behind the men of the South Guard."
 msgstr ""
+"La neve stava cadendo quando Deoran, Sir Gerrick ed Urza Afalas emersero "
+"dalla grande foresta del sud. Un grande silenzio riempì la terra, ed una "
+"minacciosa penombra seguiva gli uomini della guardia del sud."
 
 #: The_South_Guard/scenarios/sg_story.cfg:121
 msgid ""
 "Finally they arrived at the southern border of Wesnoth and the forts that "
 "guarded it.  The undead were close on their heels..."
 msgstr ""
+"Finalmente giunsero al confine sud di Wesnoth ed ai forti che lo "
+"proteggevano. i non-morti erano alle loro calcagna..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:130
 msgid ""
@@ -2449,6 +2517,11 @@ msgid ""
 "of the South Guard pressed their elven foes back from the walls.  Suddenly "
 "the field was covered in a great fog..."
 msgstr ""
+"Finalmente il sole sorse all'orizzonte ed i suoi raggi infusero nuova vita "
+"negli stanchi difensori di Westin. Un grande grido echeggiò attraverso la "
+"vallata quando gli uomini della guardia del sud pressarono i nemici elfici "
+"lontano dalle loro mura. All'improvviso il campo di battaglia fu ricoperto "
+"da un fitto banco di nebbia..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:134
 msgid ""
@@ -2457,6 +2530,11 @@ msgid ""
 "been spilled before the walls of this city!  The injury you menfolk have "
 "done to the elves is great, but your service also was worthy.'"
 msgstr ""
+"Quando la nebbia si dissolse, Ethiliel apparve, affrontando da sola il muro "
+"di picche. Immersa nella luce, ella parlò agli uomini di Wesnoth, dicendo: "
+"'Basta! Abbastanza sangue è sgorgato in questo campo, oggi! il danno che voi "
+"uomini ci avete arrecato è stato grande, ma anche il servizio che ci avete "
+"reso lo è'"
 
 #: The_South_Guard/scenarios/sg_story.cfg:138
 msgid ""
@@ -2465,6 +2543,10 @@ msgid ""
 "send ambassadors or councilors to Westin, and no more will men wander the "
 "green woods."
 msgstr ""
+"Questi sono i termini della pace fra di noi: qualsiasi uomo trovato nelle "
+"foreste, o nelle colline che appartengono agli elfi assaggerà il sapore "
+"della morte. Non manderemo più ambasciatori o consiglieri a Westin, e mai "
+"più gli uomini vagheranno per i verdi boschi."
 
 #: The_South_Guard/scenarios/sg_story.cfg:142
 msgid ""
@@ -2473,6 +2555,11 @@ msgid ""
 "the growing farms and villages.  Finally, as the snow melted and the roads "
 "bore their burdens again, a messenger came from king Haldric."
 msgstr ""
+"Così una non facile pace fu stipulata tra gli uomini e gli elfi. Per molte "
+"settimane la guardia del sud pattugliò i confini dei boschi elfici e "
+"sorvegliò sui sempre più campi e fattorie. Finalmente, mentre la neve si "
+"stava lentamente sciogliendo e gli uomini riuscivano nuovamente a "
+"distinguere i confini delle strade, un messaggero di Re Haldric venne."
 
 #: The_South_Guard/scenarios/sg_story.cfg:146
 msgid ""
@@ -2480,6 +2567,10 @@ msgid ""
 "King Haldric himself.  Storm clouds were brewing throughout the realm, and "
 "every commander would be needed to weather the storm..."
 msgstr ""
+"Sir Deoran, Cavaliere di Wesnoth, fu convocato a Weldyn per una riunione con "
+"Re Haldric stesso. Nubi di tempesta si stavano diffondendo in tutto il "
+"reame, ed ogni comandante sarebbe stato necessario per affrontare la "
+"tempesta..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:156
 msgid ""
@@ -2489,6 +2580,12 @@ msgid ""
 "men were filled with new life.  A great cry they let out as they stormed the "
 "encampment of Mal M'brin himself, and threw down the mighty wizard."
 msgstr ""
+"Con le lancie aguzze ed una truce espressione, gli uomini di Wesnoth "
+"lanciarono il loro ultimo assalto ai non-morti. Mentre si facevano strada "
+"tagliando carne senza vita e sbriciolando fredde ossa un raggio di sole "
+"trapanò le nubi. Il vento smise di soffiare e gli uomini furono pieni di "
+"nuova vita. Una fragoroso urlo uscì dalle loro gole mentre attaccarono "
+"l'accampamento di Mal M'brin, distruggendo il potente mago."
 
 #: The_South_Guard/scenarios/sg_story.cfg:161
 msgid ""
@@ -2497,6 +2594,10 @@ msgid ""
 "overshadowed the rustling of the north wind in the distance.  The undead "
 "were gone."
 msgstr ""
+"Esausto, Deoran lasciò cadere la sua lancia al suolo. Gli uomini attorno a "
+"lui andavano rimuovendo lentamente i loro elmetti dal capo. I gemiti dei "
+"feriti nascondevano i soffi del vento del nord che sibilava lontano. I non-"
+"morti erano distrutti."
 
 #: The_South_Guard/scenarios/sg_story.cfg:166
 msgid ""
@@ -2505,6 +2606,10 @@ msgid ""
 "homes for the fallen in the fields north of the city, and to the roll of "
 "fallen heroes many names were added."
 msgstr ""
+"Per giorni i guaritori di Westlin lavorarono alacremente per salvare quanti "
+"più valorosi soldati fu loro possibile. Molte lapidi, purtroppo, vennero "
+"allestite come ultima casa per i caduti nella battaglia a nord della città, "
+"e molti nomi vennero aggiunti alle gesta degli eroi."
 
 #: The_South_Guard/scenarios/sg_story.cfg:171
 msgid ""
@@ -2513,6 +2618,10 @@ msgid ""
 "sword and shield.  Those he placed atop Gerrick's mound, and they were a "
 "symbol of loyalty and valor to all the people of Westin."
 msgstr ""
+"la lapide più bella venne dedicata a Sir Gerrick. Dopo la battaglia, Deoran "
+"guidò una spedizione alle fortezze di confine a sud, e li trovò la spada e "
+"lo scudo di Sir Gerrick. Posò queste sopra la lapide di Sir Gerrick, ed esse "
+"furono un simbolo di fedeltà e valore per il popolo di Westin."
 
 #: The_South_Guard/scenarios/sg_story.cfg:175
 msgid ""
@@ -2521,6 +2630,10 @@ msgid ""
 "last stand at the border posts passed into song, and was not forgotten for "
 "many lives of men."
 msgstr ""
+"Il nome di Gerrick fu aggiunto in cima alla lista degli eroi caduti, e letto "
+"ad alta voce all'inizio di ogni gran concilio. La memoria della sua ultima "
+"disperata difesa al confine fu tramutata in una canzone, e non fu "
+"dimenticata per varie generazioni."
 
 #: The_South_Guard/scenarios/sg_story.cfg:180
 msgid ""
@@ -2529,6 +2642,11 @@ msgid ""
 "melted and the roads bore their burdens again, a messenger came from king "
 "Haldric."
 msgstr ""
+"Deoran spese i suoi giorni visitando i feriti e dirigendo gli uomini nella "
+"ricostruzione delle mura e delle fortificazioni della città.  Finalmente, "
+"mentre la neve si stava lentamente sciogliendo e gli uomini riuscivano "
+"nuovamente a distinguere i confini delle strade, un messaggero di Re Haldric "
+"venne."
 
 #: The_South_Guard/scenarios/sg_story.cfg:185
 msgid ""
@@ -2536,21 +2654,24 @@ msgid ""
 "King Haldric himself.  Storm clouds were brewing throughout the realm, and "
 "every commander would be needed to weather the onslaught..."
 msgstr ""
+"Sir Deoran, Cavaliere di Wesnoth, fu convocato a Weldyn per una riunione con "
+"Re Haldric stesso. Nubi di tempesta si stavano diffondendo in tutto il "
+"reame, ed ogni comandante sarebbe stato necessario per affrontare la "
+"tempesta..."
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:11
 msgid "Place barbs on your weapon. (slow)"
-msgstr ""
+msgstr "monta dei barbigli nella tua arma. (rallenta)"
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:29
 msgid "Wield a mace. (impact)"
-msgstr ""
+msgstr "Impugna una mazza (impatto)"
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:53
 msgid "Add a swing to your attack."
-msgstr ""
+msgstr "aggiungi un nuovo fendente al tuo attacco."
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:115
-#, fuzzy
 msgid "intelligent"
 msgstr "intelligente"
 
@@ -2673,7 +2794,7 @@ msgstr "rallenta"
 
 #: The_South_Guard/units/Chocobone.cfg:5
 msgid "Chocobone"
-msgstr ""
+msgstr "Calvavatore d'Ossa"
 
 #: The_South_Guard/units/Chocobone.cfg:35
 msgid ""
@@ -2681,10 +2802,13 @@ msgid ""
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
+"Cavalcando le ossa di grossi uccelli usati come trasporto da una perduta "
+"civiltà, i cavalcatori d'ossa possono muoversi più velocemente della maggior "
+"parte delle truppe di cavalleria."
 
 #: The_South_Guard/units/Demilich.cfg:5
 msgid "Demilich"
-msgstr ""
+msgstr "Adepto Lich"
 
 #: The_South_Guard/units/Demilich.cfg:29
 msgid ""
@@ -2693,10 +2817,15 @@ msgid ""
 "bodies, becoming undead themselves. With time, they may become fully undead, "
 "and feared by all alike."
 msgstr ""
+"Dopo troppo tempo passato a dilettarsi con gli incantesimi proibiti e le "
+"arti oscure, questi maghi hanno cominciato a pagare un pesante prezzo. Gli "
+"Adepti Lich hanno cominciato a perdere il proprio corpo, diventando essi "
+"stessi dei non morti. Col tempo, potrebbero diventare completamente non "
+"morti ed essere temuti da tutti."
 
 #: The_South_Guard/units/Dread_Lich.cfg:4
 msgid "Dread Lich"
-msgstr ""
+msgstr "Lich Terrificante"
 
 #: The_South_Guard/units/Dread_Lich.cfg:29
 msgid ""
@@ -2707,6 +2836,12 @@ msgid ""
 "immortality will have to provide consolation for what he has lost in his "
 "quest to achieve them."
 msgstr ""
+"Alla fine, Mebrin ha pagato il sacrificio ultimo per aver ricercato nelle "
+"arti oscure, ed egli stesso è scivolato nella non morte. All'apice della sua "
+"potenza, si è trasformato in un lich, una cosciente incarnazione del "
+"terrore. Egli ha, oltre ogni dubbio, superato il punto di non ritorno, e il "
+"potere e l'immortalità dovranno consolarlo per tutto quello che ha perso "
+"nella loro ricerca."
 
 #: The_South_Guard/units/Invisible.cfg:4
 msgid "Invisible"
