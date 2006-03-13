@@ -3,17 +3,19 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-02-12 18:40+0100\n"
-"PO-Revision-Date: 2005-11-25 21:29+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-03-13 03:13+0100\n"
+"Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
+"DOT com>\n"
+"Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.1\n"
 
 #: The_South_Guard.cfg:10
 msgid "The South Guard"
-msgstr ""
+msgstr "Södra Vaktposten"
 
 #: The_South_Guard.cfg:17
 msgid ""
@@ -25,23 +27,23 @@ msgstr ""
 
 #: The_South_Guard.cfg:17
 msgid "; for Wesnoth "
-msgstr ""
+msgstr "; för Wesnoth "
 
 #: The_South_Guard.cfg:20
 msgid "Soldier"
-msgstr ""
+msgstr "Soldat"
 
 #: The_South_Guard.cfg:20
 msgid "(simple)"
-msgstr ""
+msgstr "(enkel)"
 
 #: The_South_Guard.cfg:20
 msgid "Civilian"
-msgstr ""
+msgstr "Civilist"
 
 #: The_South_Guard.cfg:20
 msgid "Recruit"
-msgstr ""
+msgstr "Rekrytera"
 
 #: The_South_Guard.cfg:20
 msgid "(trivial)"
@@ -49,15 +51,15 @@ msgstr ""
 
 #: The_South_Guard.cfg:20
 msgid "(easy)"
-msgstr ""
+msgstr "(lätt)"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:5
 msgid "Born to the Banner"
-msgstr ""
+msgstr "Född för fanan"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:98
 msgid "Investigate the river fort"
-msgstr ""
+msgstr "Undersök fortet vid floden"
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:229
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:203
@@ -74,7 +76,7 @@ msgstr ""
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:428
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:481
 msgid "Death of Deoran"
-msgstr ""
+msgstr "Deoran dör"
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:237
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:211
@@ -91,7 +93,7 @@ msgstr ""
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:444
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:493
 msgid "Time runs out"
-msgstr ""
+msgstr "Dragen tar slut"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:141
 msgid ""
@@ -99,31 +101,38 @@ msgid ""
 "previous commander, had squandered his time in games and diversions and "
 "bandits had overrun the land..."
 msgstr ""
+"Deoran fann sig tidigt stå inför sin befälsprövning. Den tidigare "
+"befälhavaren, Loris, hade förlustat sig med spel och andra tidsfördriv och "
+"banditer hade kunnat få fotfäste i landet."
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:86
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:155
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:226
 msgid "resilient"
-msgstr ""
+msgstr "tålig"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:155
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:473
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:507
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:218
 msgid "loyal,"
-msgstr ""
+msgstr "lojal, "
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:165
 msgid ""
 "You'll never take this village!  I've seen your kind kill too many townsmen, "
 "and I'll defend them to the death!"
 msgstr ""
+"Ni kan aldrig ta den här byn! Jag har sett er sort döda stadsbor, och jag "
+"försvarar dem intill döden!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:170
 msgid ""
 "My kind?  I am a soldier of Wesnoth, a messenger of King Haldric, and the "
 "new commander of the South Guard!  What do you mean, 'my kind'?"
 msgstr ""
+"Min sort? Jag är en Wesnoths soldat, kung Haldrics budbärare, och Södra "
+"vaktpostens nya befälhavare! Vad menar du med 'din sort'?"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:175
 msgid ""
@@ -131,6 +140,9 @@ msgid ""
 "the towns and killing the villagers.  What are you doing here?  Sir Gerrick "
 "and I were the last of the South Guard..."
 msgstr ""
+"Förlåt mig, herrn! Jag trodde att ni var en av banditerna som har gjort "
+"räder i trakten. Vad gör ni här? Sir Gerrick och jag var de sista av Södra "
+"vaktposten."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:180
 msgid ""
@@ -138,22 +150,29 @@ msgid ""
 "We must arm the villagers and drive off the bandits before they can do any "
 "more harm!"
 msgstr ""
+"Jag har skickats att ta befälet över Södra vaktposten och ställa saker och "
+"ting tillrätta. Vi måste rusta byborna och driva bort banditerna innan de "
+"kan göra mer skada!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:185
 msgid ""
 "You should head to the river fort!  Sir Gerrick will want to know that "
 "reinforcements have arrived!"
 msgstr ""
+"Ni borde se till flodfortet! Sir Gerrick vill vara säker på att "
+"förstärkningar anlänt!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:205
 msgid ""
 "Ha!  This new commander doesn't stand a chance.  His fate will be the same "
 "as that of that swine Loris!"
 msgstr ""
+"Ha! Den där nya befälhavaren har inte en chans! Hans öde kommer att bli "
+"detsamma som för det där svinet Loris!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:226
 msgid "valiant,"
-msgstr ""
+msgstr "tapper, "
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:235
 msgid ""
@@ -161,18 +180,26 @@ msgid ""
 "have overrun the whole countryside, and are killing and pillaging without "
 "pity.  You must raise the South Guard again and drive off the bandits!"
 msgstr ""
+"Ers nåd, det är sannerligen gott att kung Haldric har skickat er till våra "
+"landamären! Banditerna rånar och dödar utan nåd över hela landsbygden. Ni "
+"måste sammankalla den Södra vaktposten igen och driva bort dem!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:240
 msgid ""
 "No doubt I am needed here.  Unfortunately I have seen only farm tools to arm "
 "our men with.  They are valorous, but cannot fight bandits with pitchforks!"
 msgstr ""
+"Det är tveklöst så att jag behövs här. Tyvärr har jag bara sett "
+"jordbruksredskap att rusta våra män med. De är tappra mannar, men de kan "
+"inte slåss mot banditer med högafflar!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:245
 msgid ""
 "I will open the citadel's armory.  We have a supply of spears and bows, and "
 "lacked only a leader to bring us to battle with them!"
 msgstr ""
+"Jag öppnar citadellets rustkammare. Vi har ett gott upplag av spjut och "
+"pilbågar, och vi saknade bara ett befäl att leda oss i striden!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:252
 msgid ""
@@ -180,16 +207,21 @@ msgid ""
 "right, but when he is near less experienced troops, he makes their attack "
 "better too!"
 msgstr ""
+"Sir Gerrick är ett infanteribefäl. Han är en stark krigare på egen hand, men "
+"när han befinner sig i närheten av mindre erfarna trupper, så uppmuntrar han "
+"dem att slåss bättre!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:258
 msgid ""
 "Units that have a hero marker are vital to your campaign.  If any of them "
 "die, you will lose the scenario, so guard them carefully!"
 msgstr ""
+"Trupper som har en hjältemarkör är livsviktiga för din kampanj. Om någon av "
+"dem dör, förlorar du scenariot, så se till att vakta dem noga!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:265
 msgid "Defeat Urza Mathin"
-msgstr ""
+msgstr "Besegra Urza Mathin"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:273
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:175
@@ -203,17 +235,19 @@ msgstr ""
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:432
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:485
 msgid "Death of Sir Gerrick"
-msgstr ""
+msgstr "Sir Gerrick dör"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:286
 msgid "Head back to the encampment where you started and recruit some troops!"
-msgstr ""
+msgstr "Gå tillbaka till lägret där du startade och rekrytera trupper!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:317
 msgid ""
 "While you're in your camp, you can recruit more troops.  Build up a small "
 "force to use against the bandits that Urza Mathin recruits."
 msgstr ""
+"Så länge du befinner dig i ditt läger kan du rekrytera fler trupper. Bygg "
+"upp en liten styrka att använda mot banditerna som Urza Mathin rekryterar."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:322
 msgid ""
@@ -221,6 +255,9 @@ msgid ""
 "that lack a ranged attack, like Thieves and Thugs.  They also carry a sword "
 "and can defend themselves against melee attacks."
 msgstr ""
+"Bågskyttar har en bra distansattack och är mycket effektiva mot trupper som "
+"inte har en attack med samma räckvidd, som tjuvar och busar. De bär även "
+"svärd och kan därför försvara sig mot närstridsattacker."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:327
 msgid ""
@@ -228,6 +265,9 @@ msgid ""
 "They also have a weak ranged attack.  They form the backbone of the South "
 "Guard."
 msgstr ""
+"Spjutbärare har en stark närstridsattack och är effektiva mot de flesta "
+"truppslag. De har även en svag distansattack. De utgör ryggraden i Södra "
+"vaktposten."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:331
 msgid ""
@@ -235,30 +275,41 @@ msgid ""
 "that you will encounter.  For now, concentrate on creating a small corps of "
 "experienced Bowmen."
 msgstr ""
+"Den bästa armén har en blandning av truppslag för att kunna handskas med de "
+"olika fiender du kommer att ställas inför. Koncentrera dig för tillfället på "
+"att bilda en liten styrka erfarna bågskyttar."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:354
 msgid ""
 "Sir, bandits are most dangerous at night.  Let us hold the north bank of the "
 "river until dawn and press our attack in the morning!"
 msgstr ""
+"Sir, banditer är som farligast nattetid. Låt oss hålla den norra stranden "
+"till gryningen och gå till anfall på morgonen!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:381
 msgid ""
 "My lord!  The dawn is breaking - now is the time for us to attack and drive "
 "these bandits from our lands.  To me men of the South Guard!"
 msgstr ""
+"Ers nåd! Gryningen är här - det är dags för oss att anfalla och driva bort "
+"banditerna. Framåt, mannar!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:434
 msgid ""
 "Your people have been allies of our lord, King Typhon.  We will help you "
 "drive these bandits from your land if you allow us to live here in peace."
 msgstr ""
+"Ert folk har varit vår kung Typhons allierade. Vi skall hjälpa er att driva "
+"bort banditerna om ni låter oss leva här i fred."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:439
 msgid ""
 "We welcome your aid in the fight against these criminals!  The rivers of "
 "this land are yours if you will aid us in our battles."
 msgstr ""
+"Vi välkomnar ert bistånd i striden mot dessa brottslingar! Floderna i detta "
+"land är era om ni hjälper oss i våra strider."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:446
 msgid ""
@@ -266,81 +317,100 @@ msgid ""
 "them in rivers and swamps and they will fight well!  Put them on dry land "
 "and they're in trouble!"
 msgstr ""
+"Du kan nu rekrytera sjöjägare. Sjöfolket är ett vattenlevande folk. De slåss "
+"som allra bäst om de får stanna i floder och träsk. Om du beordrar dem upp "
+"på land så får de problem!"
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:99
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:473
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:176
 msgid "quick"
-msgstr ""
+msgstr "snabb"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:482
 msgid "Who goes there!  Come out of the house now!"
-msgstr ""
+msgstr "Vem där? Kom ut ur huset!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:486
 msgid ""
 "Stay!  It's me, Aleron!  The villagers hid me from the bandits when the town "
 "was overrun.  They have kept me safe, though I was gravely wounded..."
 msgstr ""
+"Vänta! Det är jag, Aleron! Byborna gömde mig från banditerna när de överföll "
+"staden. De höll mig i säkerhet när jag blev skadad."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:490
 msgid ""
 "I am glad to find you alive Aleron, we feared the worst when you did not "
 "return after the battle!"
 msgstr ""
+"Jag är glad att du klarade dig, Aleron. Vi fruktade det värsta när du inte "
+"kom tillbaka efter striden!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:494
 msgid ""
 "Let us punish these bandits for their crimes and murders!  My wounds are "
 "healed and I am ready for battle!"
 msgstr ""
+"Låt oss straffa banditerna för deras brott! Mina skador är helade och jag är "
+"redo för strid igen!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:498
 msgid ""
 "Aleron is a longbowman, stronger and better trained than regular bowmen.  "
 "His arrows are deadly to enemies without a ranged attack."
 msgstr ""
+"Aleron är en långbågsskytt, och är starkare och bättre utbildad än vanliga "
+"bågskyttar. Hans pilar är dödligt farliga för fiender utan distansattack."
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:69
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:507
 msgid "strong"
-msgstr ""
+msgstr "stark"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:517
 msgid "Not more bandits...  We have nothing left.  Begone!"
-msgstr ""
+msgstr "Inga mer banditer... Vi har ingenting kvar. Försvinn!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:521
 msgid ""
 "We are no bandits.  The banner of the South Guard flies again!  Help us "
 "drive these criminals from your land."
 msgstr ""
+"Vi är inga banditer. Södra vaktpostens fana har hissats igen! Hjälp oss att "
+"driva bort dessa brottslingar från trakten."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:525
 msgid "However I can, I will help you!"
-msgstr ""
+msgstr "Jag hjälper er, på vilket sätt jag än kan!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:529
 msgid ""
 "Garrison the villages behind our lines and keep the enemy from slipping "
 "around us at night."
 msgstr ""
+"Håll vakt i byarna bakom våra slaglinjer och hindra fienden från att smita "
+"runt oss på natten."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:543
 msgid "This village is ours to plunder!  Begone or I will kill you all!"
-msgstr ""
+msgstr "Den här byn ska vi plundra! Försvinn eller så dödar jag er allihop!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:547
 msgid ""
 "Do you not see the banners flying in the wind?  The South Guard fights "
 "again.  Flee while you can, or you will meet swift death on our shafts!"
 msgstr ""
+"Ser du inte fanorna som fladdrar i vinden? Södra vaktposten strider igen. "
+"Fly medan ni kan, eller gå en snabb död till mötes på våra spetsar!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:572
 msgid ""
 "Remember, Moreth told you that you should go meet Sir Gerrick at the river "
 "fort.  Move Deoran there and find out what Sir Gerrick has to say!"
 msgstr ""
+"Kom ihåg att Moreth sade att du skulle möta Sir Gerrick vid flodfortet. För "
+"Deoran dit och hör på vad Sir Gerrick har att säga!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:605
 msgid ""
@@ -348,16 +418,21 @@ msgid ""
 "target.  Archers will be especially effective against him, because he has no "
 "ranged attack.  Surround him, and kill him!"
 msgstr ""
+"Kom ihåg att din uppgift är att besegra Urza Mathin. Han är den primära "
+"måltavlan. Bågskyttar är särskilt effektiva mot honom, eftersom han inte har "
+"någon distansattack. Omringa honom och döda honom!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:625
 msgid "My days of pillage and plunder are over!  My brothers will avenge me..."
-msgstr ""
+msgstr "Mina dagar av plundrande är över! Mina bröder kommer att hämnas mig..."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:630
 msgid ""
 "He is dead! Congratulations commander. We thought we would never see "
 "reinforcements - Did Sir Loris send you from Westin?"
 msgstr ""
+"Han är död! Gratulerar! Vi trodde aldrig att det skulle komma några "
+"förstärkningar i tid - skickade Sir Loris er från Westin?"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:635
 msgid ""
@@ -365,6 +440,9 @@ msgid ""
 "The king has heard no news in weeks.  How long have you and your men been "
 "shut up in the citadel?"
 msgstr ""
+"Nej, jag sändes ut av kung Haldric för att ta befälet över Södra vaktposten. "
+"Kungen har inte fått bud på flera veckor. Har länge har ni och era mannar "
+"varit instänga i citadellet?"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:640
 msgid ""
@@ -373,26 +451,35 @@ msgid ""
 "my men.  We held the citadel, and held out vain hope for reinforcement from "
 "Westin.  We never thought we would see men sent from the King!"
 msgstr ""
+"Nästan två månader. Sir Loris tog en av våra patruller längs Westinvägen och "
+"återvände aldrig. Natten efter det slog banditerna till och dödade åtta av "
+"mina soldater. Vi höll citadellet och försökte invänta förstärkningar från "
+"Westin. Vi trodde aldrig vi skulle få se en styrka utsänd av kungen själv!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:645
 msgid ""
 "This is worse than even my darkest fears.  We must ride to Westin at once, "
 "and hope that Sir Loris is there and well!  Come men!  Ride for Westin!"
 msgstr ""
+"Det är värre än mina värsta farhågor. Vi måste rida till Westin omedelbart "
+"och hoppas att Sir Loris är där hel och hållen! Kom, mannar! Vi rider mot "
+"Westin!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:5
 msgid "Proven By The Sword"
-msgstr ""
+msgstr "Svärdets prov"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:112
 msgid "Westin"
-msgstr ""
+msgstr "Westin"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:158
 msgid ""
 "Look!  There is smoke coming from Westin.  That can only mean that bandits "
 "have overrun the garrison and are sacking the city!"
 msgstr ""
+"Titta! Det ryker i Westin. Det kan bara betyda att banditer har anfallit "
+"garnisonen och plundrar staden!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:162
 msgid ""
@@ -400,6 +487,8 @@ msgid ""
 "ruins and make a great slaughter of all who live therein.  We must act "
 "quickly."
 msgstr ""
+"Om de får agera ostört kommer de lägga staden i ruiner och slakta alla som "
+"bor där. Vi måste handla snabbt!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:166
 msgid ""
@@ -407,24 +496,29 @@ msgid ""
 "then my brother Mathin is surely dead...  They will pay for his death, just "
 "as Sir Loris paid for his pride!"
 msgstr ""
+"Vad?! Om det kommer wesnothiska soldater från de norra forten så måste min "
+"bror Mathin vara död... De skall minsann få betala för hans död, precis som "
+"Sir Loris fick göra för sin stolthet!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:172
 msgid "Take the Citadel at Westin before ten turns pass."
-msgstr ""
+msgstr "Inta citadellet i Westin innan tio drag passerat."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:218
 msgid "intellegent"
-msgstr ""
+msgstr "intelligent"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:227
 msgid "More bandits?!  They'll feel the deadly bite of my lance!"
-msgstr ""
+msgstr "Fler banditer?! De skall minsann få smaka min lans dödliga bett!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:231
 msgid ""
 "Peace! for I am no enemy.  I am Minister Hylas, advisor to Sir Loris!  You "
 "came just in time!  We couldn't have held them off another day..."
 msgstr ""
+"Fred! Jag är ingen fiende! Jag är Fader Hylas, Sir Loris rådgivare! Ni kom "
+"precis i tid! Vi hade inte kunnat hålla dem stången en dag till..."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:235
 msgid ""
@@ -432,6 +526,9 @@ msgid ""
 "garrison of the city?  I was sent by Haldric to relieve him and take command "
 "of the South Guard, for the king has heard no news from Westin in two months."
 msgstr ""
+"Sannerligen, vår ankomst var läglig. Men var är Sir Loris? Var är stadens "
+"garnison? Jag skickades av Haldric för att avlösa honom och ta befälet över "
+"Södra vaktposten, för kungen har inte fått bud från Westin på två månader."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:239
 msgid ""
@@ -440,6 +537,10 @@ msgid ""
 "And yet he would never lead his men against them until their strength had "
 "waxed and ours waned."
 msgstr ""
+"Ack, Sir Loris finner ingen frid i detta livet. Han är begravd nordväst om "
+"staden där han föll. I flera veckor varnade vi honom om hotet från "
+"banditerna. Men han vägrade leda sina mannar mot dem, utan lät dem bli allt "
+"starkare och oss svagare."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:243
 msgid ""
@@ -447,89 +548,108 @@ msgid ""
 "though, there are more pressing matters.  Rise men of Wesnoth!  We must "
 "drive these bandits from our city!"
 msgstr ""
+"Det smärtar mig att höra om hans död, även om han ibland var dåraktig! Nu "
+"har vi dock mer akuta ärenden för handen. Res er, wesnothier! Vi måste driva "
+"bort banditerna från vår stad!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:253
 msgid ""
 "We will do our best to hold the city - you lead your men across the river "
 "and kill the bandit leader!"
 msgstr ""
+"Vi skall göra vårt bästa för att hålla staden - led era mannar över floden "
+"och förgör banditledaren!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:259
 msgid "Kill Urza Nalmath, the bandit leader."
-msgstr ""
+msgstr "Döda Urza Nalmath, banditernas ledare"
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:233
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:271
 msgid "Death of Minister Hylas"
-msgstr ""
+msgstr "Fader Hylas dör"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:325
 msgid ""
 "They are almost to the great hall!  Hurry, Deoran!  You must reach the "
 "citadel or all will be lost!"
 msgstr ""
+"De är nästan i stora salen! Skynda, Deoran! Du måste nå citadellet, annars "
+"är allt förlorat!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:333
 msgid ""
 "You must move Deoran here by the end of the next turn, or Westin will fall "
 "and you will be defeated!"
 msgstr ""
+"Du måste föra Deoran hit innan slutet på nästa drag, annars faller Westin "
+"och du är besegrad!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:351
 msgid "We're too late!  They're burning the city..."
-msgstr ""
+msgstr "Vi kom för sent! De bränner staden..."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:355
 msgid ""
 "Westin has fallen!  This is a problem too great for me to handle - I must "
 "return to Haldric and tell him of our loss..."
 msgstr ""
+"Westin har fallit! Det här är ett för stort problem för mig att hantera "
+"ensam - jag måste återvända till Haldric och berätta om vår förlust..."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:381
 msgid ""
 "Now the Guard will feel the wrath of my new friends!  It is time for the "
 "dead to wage war!  Rise warriors!"
 msgstr ""
+"Nu skall vaktposten få känna mina nya vänners vrede! Det är dags för de döda "
+"att gå till strid! Res er, krigare!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:386
 msgid "What devilry is this?!  Those are no living men that fight for him!"
-msgstr ""
+msgstr "Vad är detta för djävulskap?! Det där är inga levande soldater!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:390
 msgid ""
 "He has made some pact with the undead - how could a mere brigand have gained "
 "such great powers?"
 msgstr ""
+"Han har ingått nån pakt med de vandöda - hur kunde en vanlig skurk ha fått "
+"så stora krafter?"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:394
 msgid "However he has done this fell thing, we must defeat him!"
 msgstr ""
+"Hur han än lyckades med något så bestialiskt spelar ingen roll, vi måste "
+"förgöra honom!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:400
 msgid ""
 "Not only will Minister Hylas's Holy attack melt undead bones, but he can "
 "also heal wounded units near him."
 msgstr ""
+"Fader Hylas heliga attack smälter inte bara vandöda benknotor, utan han kan "
+"även vårda skadade trupper i hans närhet."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:423
 msgid "Leave nothing standing!  Burn their villages down and kill them all!"
-msgstr ""
+msgstr "Lämna ingen i livet! Bränn deras byar och döda dem allihop!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:427
 msgid "We will avenge your brother's death!"
-msgstr ""
+msgstr "Vi skall hämnas din broders död!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:431
 msgid "They are burning our villages!  We must stop them!"
-msgstr ""
+msgstr "De bränner våra byar! Vi måste hejda dem!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:455
 msgid "My brother has died unavenged!  What have we done!?"
-msgstr ""
+msgstr "Min broder dog ohämnad! Vad har vi gjort?!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:460
 msgid "Commander, how can a bandit have summoned undead?"
-msgstr ""
+msgstr "Ers nåd, hur kan en bandit ha kallat vandöda?"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:465
 msgid ""
@@ -537,16 +657,21 @@ msgid ""
 "elves of the wood west of here.  He asked that a knight be sent to discuss a "
 "new threat to Wesnoth."
 msgstr ""
+"Alldeles innan banditernas plundringståg började så kom det en ambassadör "
+"till Sir Loris från alverna i västra skogen. Han önskade att en riddare "
+"skulle sändas till dem för att diskutera ett nytt hot mot Wesnoth."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:470
 msgid "And did Sir Loris go to the elves?"
-msgstr ""
+msgstr "Och gjorde han det?"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:475
 msgid ""
 "No.  He suspected the elves of some trickery and made no reply to them.  "
 "Perhaps they know the origin of these dead warriors we now face."
 msgstr ""
+"Nej. Han misstänkte någon list från alverna och sände inte något svar till "
+"dem. De kanske känner till ursprunget till de döda krigare vi står inför."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:480
 msgid ""
@@ -554,18 +679,25 @@ msgid ""
 "protect the city from foes so dark as these.  I shall go meet the elves and "
 "see if they can be of any aid!"
 msgstr ""
+"Mina mannar har tränats att strida mot levande soldater. Jag vet inte om vi "
+"kan skydda staden från så mörka fiender. Jag skall gå och rådslå med alverna "
+"och se om de kan vara till någon hjälp!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:485
 msgid ""
 "I will accompany you, my lord.  I have studied the arts of holy magic and my "
 "skill may be of some use against the dark ones."
 msgstr ""
+"Jag följer med er, ers nåd. Jag har studerat den heliga magins konst och "
+"mina kunskaper kan vara till hjälp mot dessa mörka krafter vi står inför."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:490
 msgid ""
 "Deoran sent a rider to request mounted reinforcements and set out at once "
 "towards the western forest..."
 msgstr ""
+"Deoran sände en ryttare att begära berida förstärkningar och gav sig av mot "
+"den västra skogen..."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:5
 msgid "A Desperate Errand"
@@ -618,7 +750,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:176
 msgid "strong,"
-msgstr ""
+msgstr "stark, "
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:185
 msgid ""
@@ -657,7 +789,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:268
 msgid "De..."
-msgstr ""
+msgstr "De..."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:273
 msgid ""
@@ -667,7 +799,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:278
 msgid "Deora..."
-msgstr ""
+msgstr "Deora..."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:283
 msgid ""
@@ -783,7 +915,7 @@ msgstr ""
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:436
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:489
 msgid "Death of Ethiliel"
-msgstr ""
+msgstr "Ethiliel dör"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:228
 msgid ""
@@ -856,7 +988,7 @@ msgstr ""
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:473
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:483
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:478
 msgid "Mebrin! Where are you?!"
@@ -1087,7 +1219,7 @@ msgstr ""
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:174
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:440
 msgid "Death of Urza Afalas"
-msgstr ""
+msgstr "Urza Afalas dör"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:453
 msgid ""
@@ -1113,7 +1245,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:534
 msgid "Graar!"
-msgstr ""
+msgstr "Graar!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:560
 msgid ""
@@ -1217,7 +1349,7 @@ msgstr ""
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:179
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:255
 msgid "Death of Ithelden"
-msgstr ""
+msgstr "Ithelden dör"
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:205
 msgid ""
@@ -1261,7 +1393,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:247
 msgid "Defeat the Naga Queen"
-msgstr ""
+msgstr "Besegra nagadrottningen"
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:274
 msgid "Hss...  Who will watch over my brood now? Hss..."
@@ -1796,7 +1928,7 @@ msgstr ""
 #: The_South_Guard/scenarios/9b.Bandit_Epilogue.cfg:5
 #: The_South_Guard/scenarios/9a.Elf_Epilogue.cfg:5
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilog"
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:10
 msgid "I have failed my kingdom and duty..."
@@ -2090,12 +2222,12 @@ msgstr ""
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:115
 msgid "intelligent"
-msgstr ""
+msgstr "intelligent"
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:126
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:139
 msgid "loyal"
-msgstr ""
+msgstr "lojal"
 
 #: The_South_Guard/units/1.Junior_Commander.cfg:4
 msgid "Junior Commander"
@@ -2110,13 +2242,13 @@ msgstr ""
 
 #: The_South_Guard/units/1.Junior_Commander.cfg:38
 msgid "spear"
-msgstr ""
+msgstr "spjut"
 
 #: The_South_Guard/units/1.Junior_Commander.cfg:39
 #: The_South_Guard/units/2.Horseman_Commander.cfg:42
 #: The_South_Guard/units/3.Dismounted_Commander.cfg:31
 msgid "pierce"
-msgstr ""
+msgstr "stick"
 
 #: The_South_Guard/units/2.Horseman_Commander.cfg:4
 msgid "Horseman Commander"
@@ -2132,11 +2264,11 @@ msgstr ""
 #: The_South_Guard/units/2.Horseman_Commander.cfg:41
 #: The_South_Guard/units/3.Dismounted_Commander.cfg:30
 msgid "lance"
-msgstr ""
+msgstr "lans"
 
 #: The_South_Guard/units/2.Horseman_Commander.cfg:43
 msgid "charge"
-msgstr ""
+msgstr "storma"
 
 #: The_South_Guard/units/3.Dismounted_Commander.cfg:4
 msgid "Dismounted Commander"
@@ -2148,7 +2280,7 @@ msgstr ""
 
 #: The_South_Guard/units/3.Dismounted_Commander.cfg:32
 msgid "firststrike"
-msgstr ""
+msgstr "första slaget"
 
 #: The_South_Guard/units/4.Infantry_Commander.cfg:4
 msgid "Infantry Lieutenant"
@@ -2165,12 +2297,12 @@ msgstr ""
 #: The_South_Guard/units/4.Infantry_Commander.cfg:31
 #: The_South_Guard/units/5.Assault_Commander.cfg:33
 msgid "sword"
-msgstr ""
+msgstr "svärd"
 
 #: The_South_Guard/units/4.Infantry_Commander.cfg:32
 #: The_South_Guard/units/5.Assault_Commander.cfg:34
 msgid "blade"
-msgstr ""
+msgstr "hugg"
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:4
 msgid "Infantry Commander"
@@ -2189,15 +2321,15 @@ msgstr ""
 #: The_South_Guard/units/Invisible.cfg:15
 #: The_South_Guard/units/5.Assault_Commander.cfg:53
 msgid "impact"
-msgstr ""
+msgstr "kross"
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:57
 msgid "slow"
-msgstr ""
+msgstr "sakta ner"
 
 #: The_South_Guard/units/Chocobone.cfg:5
 msgid "Chocobone"
-msgstr ""
+msgstr "Benryttare"
 
 #: The_South_Guard/units/Chocobone.cfg:35
 msgid ""
@@ -2205,10 +2337,13 @@ msgid ""
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
+"Dessa skelettkrigare rider på benen av enorma fåglar, vilka tros ha använts "
+"av en uråldrig civilisation, och kan röra sig snabbare än de flesta "
+"kavalleritrupper."
 
 #: The_South_Guard/units/Demilich.cfg:5
 msgid "Demilich"
-msgstr ""
+msgstr "Andebesvärjare"
 
 #: The_South_Guard/units/Demilich.cfg:29
 msgid ""
@@ -2217,10 +2352,14 @@ msgid ""
 "bodies, becoming undead themselves. With time, they may become fully undead, "
 "and feared by all alike."
 msgstr ""
+"Dessa magiker har tillbringat alltför mycket tid med förbjuden magi och "
+"mörkrets konster, vilket har börjat utkräva ett högt pris. Andebesvärjare "
+"förlorar långsamt sina kroppar och blir så småningom vandöda, och fruktas av "
+"alla."
 
 #: The_South_Guard/units/Dread_Lich.cfg:4
 msgid "Dread Lich"
-msgstr ""
+msgstr "Dödsmästare"
 
 #: The_South_Guard/units/Dread_Lich.cfg:29
 msgid ""
@@ -2231,11 +2370,17 @@ msgid ""
 "immortality will have to provide consolation for what he has lost in his "
 "quest to achieve them."
 msgstr ""
+"Efter en lång färd har Ha'atel gjort det slutgiltiga offret för de mörka "
+"konster till vilka han hängivit sig, och själv trätt in i vandöden. Vid "
+"höjden av sin makt har han blivit en dödsmästare, ett vandrade "
+"förkroppsligande av döden. Han har passerat gränsen bortom vilken ingen "
+"återvändo finns, och hans makt och odödlighet måste nu räcka som belöning "
+"för allt han förlorat på vägen i sin åstundan efter dem."
 
 #: The_South_Guard/units/Invisible.cfg:4
 msgid "Invisible"
-msgstr ""
+msgstr "Osynlig"
 
 #: The_South_Guard/units/Invisible.cfg:14
 msgid "dummy"
-msgstr ""
+msgstr "kvintan"
