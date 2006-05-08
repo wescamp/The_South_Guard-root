@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-02-12 18:40+0100\n"
+"POT-Creation-Date: 2006-04-22 18:06+0200\n"
 "PO-Revision-Date: 2006-02-19 23:35+0100\n"
 "Last-Translator: Karol 'grzywacz' Nowak <grzywacz@sul.uni.lodz.pl>\n"
 "Language-Team: none\n"
@@ -65,37 +65,37 @@ msgstr "Urodzony dla Sztandaru"
 msgid "Investigate the river fort"
 msgstr "Zbadaj fort nad rzeką"
 
-#: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:229
-#: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:203
-#: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:102
-#: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:269
-#: The_South_Guard/scenarios/6b.The_Long_March.cfg:166
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:176
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:263
+#: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:102
+#: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:269
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:195
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:244
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:327
-#: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:134
+#: The_South_Guard/scenarios/6b.The_Long_March.cfg:166
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:230
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:428
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:481
+#: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:229
+#: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:134
+#: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:203
 msgid "Death of Deoran"
 msgstr "Śmierć Deorana"
 
-#: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:237
-#: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:211
-#: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:106
-#: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:277
-#: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:183
-#: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:259
-#: The_South_Guard/scenarios/6b.The_Long_March.cfg:178
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:184
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:275
+#: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:183
+#: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:259
+#: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:106
+#: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:277
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:207
-#: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:142
+#: The_South_Guard/scenarios/6b.The_Long_March.cfg:178
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:242
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:444
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:493
+#: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:237
+#: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:142
+#: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:211
 msgid "Time runs out"
 msgstr "Wyczerpanie się czasu"
 
@@ -109,16 +109,16 @@ msgstr ""
 "dowódcy. Loris, poprzedni dowódca, marnował swój czas na gry i zabawy, przez "
 "co ziemiami zaczęli rządzić bandyci."
 
-#: The_South_Guard/scenarios/sg_unit_utils.cfg:86
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:155
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:226
+#: The_South_Guard/scenarios/sg_unit_utils.cfg:86
 msgid "resilient"
 msgstr "żywotny"
 
+#: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:218
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:155
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:473
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:507
-#: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:218
 msgid "loyal,"
 msgstr "lojalny,"
 
@@ -228,17 +228,17 @@ msgstr ""
 msgid "Defeat Urza Mathin"
 msgstr "Pokonanie Urza Mathina"
 
-#: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:273
-#: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:175
-#: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:251
-#: The_South_Guard/scenarios/6b.The_Long_March.cfg:170
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:180
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:267
+#: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:175
+#: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:251
+#: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:273
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:199
-#: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:138
+#: The_South_Guard/scenarios/6b.The_Long_March.cfg:170
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:234
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:432
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:485
+#: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:138
 msgid "Death of Sir Gerrick"
 msgstr "Śmierć Sir Gerricka"
 
@@ -326,8 +326,8 @@ msgstr ""
 "Trzymaj ich w rzekach i bagnach, a będą dobrze spisywać się w walce. "
 "Wprowadź ich na suchy ląd, a będą mieli duże kłopoty!"
 
-#: The_South_Guard/scenarios/sg_unit_utils.cfg:99
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:473
+#: The_South_Guard/scenarios/sg_unit_utils.cfg:99
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:176
 msgid "quick"
 msgstr "szybki"
@@ -369,8 +369,8 @@ msgstr ""
 "łucznicy. Jego strzały są zabójcze dla przeciwników nie potrafiących wykonać "
 "ataku na odległość."
 
-#: The_South_Guard/scenarios/sg_unit_utils.cfg:69
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:507
+#: The_South_Guard/scenarios/sg_unit_utils.cfg:69
 msgid "strong"
 msgstr "silny"
 
@@ -576,8 +576,8 @@ msgstr ""
 msgid "Kill Urza Nalmath, the bandit leader."
 msgstr "Zabij Urza Nalmatha, przywódcę bandytów."
 
-#: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:233
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:271
+#: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:233
 msgid "Death of Minister Hylas"
 msgstr "Śmierć pastora Hylasa"
 
@@ -984,12 +984,12 @@ msgstr "Oczyść Dolinę Łez"
 msgid "Move Ethiliel to Mebrin's village"
 msgstr "Zaprowadź Ethiliel do wioski Mebrina"
 
-#: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:207
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:203
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:248
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:238
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:436
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:489
+#: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:207
 msgid "Death of Ethiliel"
 msgstr "Śmierć Ethiliel"
 
@@ -2706,13 +2706,13 @@ msgstr ""
 "nadgranicznych miasteczek i wiosek.  Wybierani są spośród weteranów, a nie "
 "szlachty, i wszyscy udowodnili w bitwie swoją odwagę i zdolności przywódcze."
 
-#: The_South_Guard/units/4.Infantry_Commander.cfg:31
 #: The_South_Guard/units/5.Assault_Commander.cfg:33
+#: The_South_Guard/units/4.Infantry_Commander.cfg:31
 msgid "sword"
 msgstr "miecz"
 
-#: The_South_Guard/units/4.Infantry_Commander.cfg:32
 #: The_South_Guard/units/5.Assault_Commander.cfg:34
+#: The_South_Guard/units/4.Infantry_Commander.cfg:32
 msgid "blade"
 msgstr "ostrze"
 
@@ -2732,8 +2732,8 @@ msgstr ""
 msgid "shield"
 msgstr "tarcza"
 
-#: The_South_Guard/units/Invisible.cfg:15
 #: The_South_Guard/units/5.Assault_Commander.cfg:53
+#: The_South_Guard/units/Invisible.cfg:15
 msgid "impact"
 msgstr "uderzenie"
 

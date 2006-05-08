@@ -14,7 +14,7 @@
 # - proper behaviour when msgfmt is missing
 # - support for relative localedir
 
-PACKAGE = wesnoth-Liberty
+PACKAGE = wesnoth-The_South_Guard
 VERSION = @VERSION@
 
 SHELL = /bin/sh
