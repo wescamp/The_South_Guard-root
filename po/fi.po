@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-22 18:06+0200\n"
-"PO-Revision-Date: 2005-11-25 21:29+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2006-06-17 23:14+0200\n"
+"Last-Translator: Jussi Rautio <jrautio@niksula.hut.fi>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,35 +13,39 @@ msgstr ""
 
 #: The_South_Guard.cfg:10
 msgid "The South Guard"
-msgstr ""
+msgstr "Etelän vartiosto"
 
 #: The_South_Guard.cfg:17
+#, fuzzy
 msgid ""
 "Deoran, son of one of Konrad's knights and a warrior in his own right, was "
 "dispatched to take command of the South Guard...  Note:  This campaign is "
 "geared to be played by inexperienced players.  The 'Civilian' difficulty "
 "level is aimed at players who have never played a campaign before. (Version "
 msgstr ""
+"Nuori ritari, Deoran, lähetetään Eteläin vartioston johtoon... Huomio: Tämän "
+"kampanjan tarkoitus on johdattaa sinut Wesnothin maailmaan. 'Siviili'-"
+"vaikeustaso on tarkoitettu ensimmäistä kertaa pelaaville."
 
 #: The_South_Guard.cfg:17
 msgid "; for Wesnoth "
-msgstr ""
+msgstr "; Wesnothille "
 
 #: The_South_Guard.cfg:20
 msgid "Soldier"
-msgstr ""
+msgstr "Sotilas"
 
 #: The_South_Guard.cfg:20
 msgid "(simple)"
-msgstr ""
+msgstr "(yksinkertainen)"
 
 #: The_South_Guard.cfg:20
 msgid "Civilian"
-msgstr ""
+msgstr "Siviili"
 
 #: The_South_Guard.cfg:20
 msgid "Recruit"
-msgstr ""
+msgstr "Alokas"
 
 #: The_South_Guard.cfg:20
 msgid "(trivial)"
@@ -49,15 +53,15 @@ msgstr ""
 
 #: The_South_Guard.cfg:20
 msgid "(easy)"
-msgstr ""
+msgstr "(helppo)"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:5
 msgid "Born to the Banner"
-msgstr ""
+msgstr "Syntynyt johtajaksi"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:98
 msgid "Investigate the river fort"
-msgstr ""
+msgstr "Tutki jokilinnoitus"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:176
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:263
@@ -74,7 +78,7 @@ msgstr ""
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:134
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:203
 msgid "Death of Deoran"
-msgstr ""
+msgstr "Deoranin kuolema"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:184
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:275
@@ -91,7 +95,7 @@ msgstr ""
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:142
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:211
 msgid "Time runs out"
-msgstr ""
+msgstr "Aika loppuu"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:141
 msgid ""
@@ -99,31 +103,38 @@ msgid ""
 "previous commander, had squandered his time in games and diversions and "
 "bandits had overrun the land..."
 msgstr ""
+"Deoran joutui heti komentajan uransa aluksi koetukselle. Loris, edellinen "
+"komentaja, oli kuluttanut aikansa peleihin ja huvituksiin sillä aikaa kun "
+"ryövärit valtasivat maata..."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:155
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:226
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:86
 msgid "resilient"
-msgstr ""
+msgstr "kestävä"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:218
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:155
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:473
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:507
 msgid "loyal,"
-msgstr ""
+msgstr "uskollinen,"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:165
 msgid ""
 "You'll never take this village!  I've seen your kind kill too many townsmen, "
 "and I'll defend them to the death!"
 msgstr ""
+"Ette koskaan saa tätä kylää! Olen nähnyt kaltaistenne tappavan liian paljon "
+"kyläläisiä. Puolustan heitä kuolemaan saakka!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:170
 msgid ""
 "My kind?  I am a soldier of Wesnoth, a messenger of King Haldric, and the "
 "new commander of the South Guard!  What do you mean, 'my kind'?"
 msgstr ""
+"Minun kaltaisteni? Olen Wesnothin sotilas, kuningas Haldricin sanansaattaja "
+"ja eteläisen vartion uusi komentaja! Mitä tarkoitat minun kaltaisillani?"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:175
 msgid ""
@@ -131,6 +142,9 @@ msgid ""
 "the towns and killing the villagers.  What are you doing here?  Sir Gerrick "
 "and I were the last of the South Guard..."
 msgstr ""
+"Anteeksi herrani! Luulin, että olet yksi niistä roistoista jotka ryöstelevät "
+"kyliä ja tappavat kyläläisiä. Mitä teet täällä? Sir Gerrick ja minä olemme "
+"viimeiset elossa olevat eteläiseltä vartiolta..."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:180
 msgid ""
@@ -138,22 +152,29 @@ msgid ""
 "We must arm the villagers and drive off the bandits before they can do any "
 "more harm!"
 msgstr ""
+"Minut lähetettiin tänne ottamaan komentooni eteläinen vartio ja laittamaan "
+"asiat kuntoon. Meidän täytyy aseistaa kyläläiset ja karkoittaa ryövärit "
+"ennen kuin ne aiheuttavat lisää harmia!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:185
 msgid ""
 "You should head to the river fort!  Sir Gerrick will want to know that "
 "reinforcements have arrived!"
 msgstr ""
+"Suunnatkaa jokilinnoitukselle. Sir Gerrick haluaa varmasti tietää, että "
+"lisäjoukot ovat saapuneet."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:205
 msgid ""
 "Ha!  This new commander doesn't stand a chance.  His fate will be the same "
 "as that of that swine Loris!"
 msgstr ""
+"Ha! Tällä uudella komentajalla ei ole mitään mahdollisuuksia. Hän kokee "
+"saman kohtalon kuin se sika, Loris."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:226
 msgid "valiant,"
-msgstr ""
+msgstr "urhea,"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:235
 msgid ""
@@ -161,18 +182,26 @@ msgid ""
 "have overrun the whole countryside, and are killing and pillaging without "
 "pity.  You must raise the South Guard again and drive off the bandits!"
 msgstr ""
+"Herrani, on hyvä, että kuningas Haldric lähetti sinut tänne. Ryövärit ovat "
+"vallanneet koko maaseudun, tappaen ja kiduttaen ilman sääliä. Sinun täytyy "
+"nostattaa eteläinen vartio ja karkottaa ryövärit!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:240
 msgid ""
 "No doubt I am needed here.  Unfortunately I have seen only farm tools to arm "
 "our men with.  They are valorous, but cannot fight bandits with pitchforks!"
 msgstr ""
+"Epäilemättä minua tarvitaan täällä. Valitettavasti olen nähnyt vain "
+"heinähankoja ja viikatteita joilla aseistaa miehet. He ovat arvokkaita, "
+"mutta emme voi taistella ryöväreitä vastaan heinähangoilla."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:245
 msgid ""
 "I will open the citadel's armory.  We have a supply of spears and bows, and "
 "lacked only a leader to bring us to battle with them!"
 msgstr ""
+"Avaan kaupungin asevaraston. Meillä on varastossa keihäitä ja jousia, meiltä "
+"puuttui vain johtaja, joka johtaisi meidät taisteluun!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:252
 msgid ""
@@ -180,16 +209,20 @@ msgid ""
 "right, but when he is near less experienced troops, he makes their attack "
 "better too!"
 msgstr ""
+"Sir Gerrick on jalkaväen komentaja. Hän on itsekin mahtava soturi, mutta kun "
+"hän on lähellä kokemattomampia joukkoja, hän saa nekin taistelemaan paremmin."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:258
 msgid ""
 "Units that have a hero marker are vital to your campaign.  If any of them "
 "die, you will lose the scenario, so guard them carefully!"
 msgstr ""
+"Yksiköden, joiden yllä on sankarimerkki, täytyy selvitä hengissä. Jos "
+"yksikin heistä kuolee häviät skenaarion, joten suojele heitä huolella!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:265
 msgid "Defeat Urza Mathin"
-msgstr ""
+msgstr "Kukista Urza Mathin"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:180
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:267
@@ -203,17 +236,20 @@ msgstr ""
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:485
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:138
 msgid "Death of Sir Gerrick"
-msgstr ""
+msgstr "Sir Gerrickin kuolema"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:286
 msgid "Head back to the encampment where you started and recruit some troops!"
 msgstr ""
+"Suuntaa takaisin kohti leiriä, josta aloitit ja värvää sieltä joukkoja!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:317
 msgid ""
 "While you're in your camp, you can recruit more troops.  Build up a small "
 "force to use against the bandits that Urza Mathin recruits."
 msgstr ""
+"Kun olet leirissäsi, voit värvätä lisäjoukkoja. Kokoa pieni joukkio, jolla "
+"taistelet Urza Mathin ryöväreitä vastaan."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:322
 msgid ""
@@ -221,6 +257,10 @@ msgid ""
 "that lack a ranged attack, like Thieves and Thugs.  They also carry a sword "
 "and can defend themselves against melee attacks."
 msgstr ""
+"Jousimiehet ovat hyviä kaukotaisteluissa ja erittäin tehokkaita sellaisia "
+"yksiköitä vastaan, jotka ovat heikkoja kaukotaisteluissa, esimerkiksi "
+"Varkaita ja Korstoja. Heillä on myös miekka, jolla he voivat puolustaa "
+"itseään lähitaistelussa."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:327
 msgid ""
@@ -228,6 +268,9 @@ msgid ""
 "They also have a weak ranged attack.  They form the backbone of the South "
 "Guard."
 msgstr ""
+"Keihäsmiehet ovatvoimakkaita lähitaistelussa ja ovat tehokkaita useimpia "
+"yksiköitä vastaan. Lisäksi heillä on heikko kaukotaisteluhyökkäys. He ovat  "
+"Eteläisen Vartion selkäranka."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:331
 msgid ""
@@ -235,30 +278,41 @@ msgid ""
 "that you will encounter.  For now, concentrate on creating a small corps of "
 "experienced Bowmen."
 msgstr ""
+"Parhaassa armeijassa on monipuolinen yhdistelmä yksiköitä niin, että se "
+"pärjää erilaisille vihollisille, joita kohtaat. Keskity tässä vaiheessa "
+"kokoamaan pieni joukko kokeneita jousimiehiä."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:354
 msgid ""
 "Sir, bandits are most dangerous at night.  Let us hold the north bank of the "
 "river until dawn and press our attack in the morning!"
 msgstr ""
+"Herrani, ryövärit ovat vaarallisimillaan yöaikaan. Odottakaamme rannan "
+"pohjoispuolella aamunsarastukseen ja hyökätkäämme silloin täydellä voimalla!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:381
 msgid ""
 "My lord!  The dawn is breaking - now is the time for us to attack and drive "
 "these bandits from our lands.  To me men of the South Guard!"
 msgstr ""
+"Herrani! Aamu sarastaa, meidän on aika hyökätä ja ajaa ryövärit mailtamme. "
+"Eteläisen vartion puolesta!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:434
 msgid ""
 "Your people have been allies of our lord, King Typhon.  We will help you "
 "drive these bandits from your land if you allow us to live here in peace."
 msgstr ""
+"Kansasi on aina ollut herramme, kuningas Typhonin, ystävä. Me autamme teitä "
+"ajamaan nämä ryövärit pois jos annatte meidän elää täällä rauhassa."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:439
 msgid ""
 "We welcome your aid in the fight against these criminals!  The rivers of "
 "this land are yours if you will aid us in our battles."
 msgstr ""
+"Otamme ilomielin vastaan apunne noita ryöväreitä vastaan! Jos autat meitä "
+"taistelussamme, nämä joet ovat teidän."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:446
 msgid ""
@@ -266,81 +320,104 @@ msgid ""
 "them in rivers and swamps and they will fight well!  Put them on dry land "
 "and they're in trouble!"
 msgstr ""
+"Voit nyt värvätä Merenmiesmetsästäjiä. Merenmiehet ovat veden olentoja. He "
+"taistelevat parhaiten joissa ja soissa, mutta kuivalla maalla he ovat "
+"pulassa!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:473
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:99
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:176
 msgid "quick"
-msgstr ""
+msgstr "nopea"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:482
 msgid "Who goes there!  Come out of the house now!"
-msgstr ""
+msgstr "Kuka siellä! Tule esiin heti!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:486
 msgid ""
 "Stay!  It's me, Aleron!  The villagers hid me from the bandits when the town "
 "was overrun.  They have kept me safe, though I was gravely wounded..."
 msgstr ""
+"Odota! Se olen minä, Aleron! Kyläläiset piilottelivat minua, kun ryövärit "
+"piirittivät kaupunkia. He ivat suojelleet minua, vaikka olin pahasti "
+"haavoittunut..."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:490
 msgid ""
 "I am glad to find you alive Aleron, we feared the worst when you did not "
 "return after the battle!"
 msgstr ""
+"Hyvä, että löysimme sinut elossa, Aleron. Pelkäsimme pahinta, kun et "
+"palannut taistelusta!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:494
 msgid ""
 "Let us punish these bandits for their crimes and murders!  My wounds are "
 "healed and I am ready for battle!"
 msgstr ""
+"Rankaiskaamme näitä  ryöväreitä heidän rikostensa ja murhiensa takia! "
+"Haavani ovat parantuneet ja olen valmiina taisteluun!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:498
 msgid ""
 "Aleron is a longbowman, stronger and better trained than regular bowmen.  "
 "His arrows are deadly to enemies without a ranged attack."
 msgstr ""
+"Aleronilla on pitkäjousimies. Hän on vahvempi ja paremmin koulutettu kuin "
+"tavallinen jousimies. Hänen nuolensa ovat myrkkyä vihollisille, joilla ei "
+"ole kaukotaisteluhyökkäystä."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:507
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:69
 msgid "strong"
-msgstr ""
+msgstr "vahva"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:517
 msgid "Not more bandits...  We have nothing left.  Begone!"
 msgstr ""
+"Ei enempää ryöväreitä... Meillä ei ole enää mitään jäljellä. Menkää pois!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:521
 msgid ""
 "We are no bandits.  The banner of the South Guard flies again!  Help us "
 "drive these criminals from your land."
 msgstr ""
+"Emme ole ryöväreitä. Eteläisen Vartion lippu liehuu jälleen! Auta meitä "
+"ajamaan nämä rikolliset mailtamme."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:525
 msgid "However I can, I will help you!"
-msgstr ""
+msgstr "Autan teitä, miten vain pystyn!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:529
 msgid ""
 "Garrison the villages behind our lines and keep the enemy from slipping "
 "around us at night."
 msgstr ""
+"Linnoittakaa kylät linjojemme takana älkääkä päästäkö vihollista selustaamme "
+"yön turvin."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:543
 msgid "This village is ours to plunder!  Begone or I will kill you all!"
-msgstr ""
+msgstr "Me ryöstämme tämän kylän! Jatkakaa matkaanne tai tapan teidät kaikki!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:547
 msgid ""
 "Do you not see the banners flying in the wind?  The South Guard fights "
 "again.  Flee while you can, or you will meet swift death on our shafts!"
 msgstr ""
+"Etkö näe sotalippujemme liehuvan tuulessa? Eteläinen Vartio taistelee taas. "
+"Pakene vielä kun voit tai kohtaat nopean kuoleman nuolistamme!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:572
 msgid ""
 "Remember, Moreth told you that you should go meet Sir Gerrick at the river "
 "fort.  Move Deoran there and find out what Sir Gerrick has to say!"
 msgstr ""
+"Muista, Moreth kertoi sinulle, että sinun täytyy tavata Sir Gerrick "
+"jokilinnoituksella.  Liikuta Deoran sinne ja selvitä mitä asiaa Sir "
+"Gerrickillä on!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:605
 msgid ""
@@ -348,16 +425,22 @@ msgid ""
 "target.  Archers will be especially effective against him, because he has no "
 "ranged attack.  Surround him, and kill him!"
 msgstr ""
+"Muista, tehtäväsi on voittaa Urza Mathin. Hänen tulee olla pääkohteesi. "
+"Jousimiehet ovat erityisen tehokkaita häntä vastaan, koska hänellä  ei ole "
+"kaukotaisteluhyökkäystä. Piiritä ja tapa hänet!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:625
 msgid "My days of pillage and plunder are over!  My brothers will avenge me..."
 msgstr ""
+"Päiväni ryöstellen ja tuhoten ovat ohi! Mutta veljeni kostavat tämän..."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:630
 msgid ""
 "He is dead! Congratulations commander. We thought we would never see "
 "reinforcements - Did Sir Loris send you from Westin?"
 msgstr ""
+"Hän on kuollut! Onnittelut komentaja. Emme uskoneet koskaan näkevämme "
+"vahvistuksien saapuvan. Lähettikö Sir Loris sinut Westinistä?"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:635
 msgid ""
@@ -365,6 +448,9 @@ msgid ""
 "The king has heard no news in weeks.  How long have you and your men been "
 "shut up in the citadel?"
 msgstr ""
+"Ei. Kuningas Haldric lähetti minut ottamaan Eteläisen Vartion komentooni. "
+"Kuningas ei ole kuullut sieltä uutisia viikkoihin. Kuinka kauan sinä ja "
+"miehesi olette olleet piiritettyinä linnoituksessa?"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:640
 msgid ""
@@ -373,26 +459,36 @@ msgid ""
 "my men.  We held the citadel, and held out vain hope for reinforcement from "
 "Westin.  We never thought we would see men sent from the King!"
 msgstr ""
+"Lähes kaksi kuukautta. Sir Loris johti yhden partion kohti Westiniin menevää "
+"tietä, eikä koskaan palannut. Seuraavana yönä ryövärit iskivät tänne ja "
+"tappoivat kahdeksan miestäni. Onnistuimme pitämään linnoituksen, toivoen "
+"vahvistusten saapuvan Westinistä. Emme koskaan uskoneet näkevämme kuninkaan "
+"lähettämiä joukkoja!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:645
 msgid ""
 "This is worse than even my darkest fears.  We must ride to Westin at once, "
 "and hope that Sir Loris is there and well!  Come men!  Ride for Westin!"
 msgstr ""
+"Asiat ovat huonommin kuin pahimmissa painajaisissanii. Meidän täytyy "
+"ratsastaa Westiniin heti. Toivottavasti Sir Loris on siellä ja voi hyvin! "
+"Tulkaa miehet! Ratsastetaan Westiniin!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:5
 msgid "Proven By The Sword"
-msgstr ""
+msgstr "Miekka näyttää totuuden"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:112
 msgid "Westin"
-msgstr ""
+msgstr "Westin"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:158
 msgid ""
 "Look!  There is smoke coming from Westin.  That can only mean that bandits "
 "have overrun the garrison and are sacking the city!"
 msgstr ""
+"Katso! Westinistä nousee savua. Se voi tarkoittaa vain sitä, että ryövärit "
+"ovat murtaneet puolustuksen ja ryöstävät kaupunkia!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:162
 msgid ""
@@ -400,6 +496,8 @@ msgid ""
 "ruins and make a great slaughter of all who live therein.  We must act "
 "quickly."
 msgstr ""
+"Jos he saavat mellastaa vapaasti riittävän pitkään, he tuhoavat kaupungin ja "
+"teurastavat kaikki jotka elävät siellä.  Meidän täytyy toimia nopeasti."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:166
 msgid ""
@@ -407,24 +505,30 @@ msgid ""
 "then my brother Mathin is surely dead...  They will pay for his death, just "
 "as Sir Loris paid for his pride!"
 msgstr ""
+"Mitä?! Jos Wesnothin sotilaat tulevat pohjoisista linnoituksista, niin "
+"veljeni Mathinin täytyy olla kuollut... He saavat maksaa hänen kuolemastaan, "
+"aivan kuten Sir Loris maksoi ylpeydestään!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:172
 msgid "Take the Citadel at Westin before ten turns pass."
-msgstr ""
+msgstr "Valtaa Westinin linnoitus ennen kuin 10 vuoroa on kulunut."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:218
 msgid "intellegent"
-msgstr ""
+msgstr "älykäs"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:227
 msgid "More bandits?!  They'll feel the deadly bite of my lance!"
-msgstr ""
+msgstr "Lisää ryöväreitä?! He saavat maistaa peistäni!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:231
 msgid ""
 "Peace! for I am no enemy.  I am Minister Hylas, advisor to Sir Loris!  You "
 "came just in time!  We couldn't have held them off another day..."
 msgstr ""
+"Rauha! En ole vihollisenne. Olen Ministeri Hylas, Sir Loriksen neuvonantaja! "
+"Saavuitte aivan viime hetkellä! Emme olisi pystyneet pitämään puoliamme enää "
+"päivääkään..."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:235
 msgid ""
@@ -432,6 +536,10 @@ msgid ""
 "garrison of the city?  I was sent by Haldric to relieve him and take command "
 "of the South Guard, for the king has heard no news from Westin in two months."
 msgstr ""
+"Totta, ajoituksemme oli mitä parhain. Mutta missä Sir Loris on? Missä "
+"kaupungin varuskunta on? Haldric lähetti minut ottamaan häneltä Eteläisen "
+"Vartion komennon, sillä kuningas ei ole kuullut mitään uutisia Westinistä "
+"kahteen kuukauteen."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:239
 msgid ""
@@ -440,6 +548,10 @@ msgid ""
 "And yet he would never lead his men against them until their strength had "
 "waxed and ours waned."
 msgstr ""
+"Ikävä kyllä, Sir Loris on kuollut. Hänet haudattiin kaupungista luoteeseen, "
+"missä hän kaatui. Viikkojen ajan me yritimme varoitella häntä uudesta "
+"ryöväreiden voimasta. Siltikään hän ei koskaan johtanut joukkojaan heitä "
+"vastaan ennen kuin oli liian myöhäistä."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:243
 msgid ""
@@ -447,89 +559,109 @@ msgid ""
 "though, there are more pressing matters.  Rise men of Wesnoth!  We must "
 "drive these bandits from our city!"
 msgstr ""
+"Olen pahoillani hänen kuolemastaan, vaikka hän olisikin kuollut silkkaa "
+"typeryyttään! Nyt, kuitenkin, meillä on tärkeämpiä asioita huolehdittavana. "
+"Nouskaa Wesnothin miehet! Meidän täytyy ajaa nämä ryövärit kaupungistamme!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:253
 msgid ""
 "We will do our best to hold the city - you lead your men across the river "
 "and kill the bandit leader!"
 msgstr ""
+"Teemme parhaamme puolustaaksemme kaupunkia. Johda sinä miehesi joen yli ja "
+"surmaa ryöväreiden johtaja!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:259
 msgid "Kill Urza Nalmath, the bandit leader."
-msgstr ""
+msgstr "Tapa Urza Nalmath, ryöväreiden johtaja."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:271
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:233
 msgid "Death of Minister Hylas"
-msgstr ""
+msgstr "Ministeri Hylasin kuolema"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:325
 msgid ""
 "They are almost to the great hall!  Hurry, Deoran!  You must reach the "
 "citadel or all will be lost!"
 msgstr ""
+"He ovat jo melkein kaupungintalolla! Kiirehdi Deoran! Sinun täytyy ehtiä "
+"linnoitukseen tai kaikki on mennyttä!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:333
 msgid ""
 "You must move Deoran here by the end of the next turn, or Westin will fall "
 "and you will be defeated!"
 msgstr ""
+"Sinun täytyy liikuttaa Deoran tänne ennen seuraavan vuoron päättymistä tai "
+"Westin häviää ja sinut on kukistettu!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:351
 msgid "We're too late!  They're burning the city..."
-msgstr ""
+msgstr "Myöhästyimme! \"Kaupunkimme on tulessa..."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:355
 msgid ""
 "Westin has fallen!  This is a problem too great for me to handle - I must "
 "return to Haldric and tell him of our loss..."
 msgstr ""
+"Westin on taipunut! Tämä on liian suuri takaisku minun ratkaistavaksi. Minun "
+"täytyy palata Haldricin luo ja kertoa hänelle tappiostamme..."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:381
 msgid ""
 "Now the Guard will feel the wrath of my new friends!  It is time for the "
 "dead to wage war!  Rise warriors!"
 msgstr ""
+"Nyt Vartio saa tuta uusien ystävieni voiman! On aika kuoleman korjata satoa! "
+"Nouskaa soturit!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:386
 msgid "What devilry is this?!  Those are no living men that fight for him!"
 msgstr ""
+"Mitä pirua tämä on?! Nuo eivät ole eläviä, jotka taistelevat hänen "
+"rinnallaan!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:390
 msgid ""
 "He has made some pact with the undead - how could a mere brigand have gained "
 "such great powers?"
 msgstr ""
+"Hän on tehnyt liiton epäkuolleiden kanssa! Kuinka vaivainen ryöväri on "
+"voinut saada tuollaiset voimat?"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:394
 msgid "However he has done this fell thing, we must defeat him!"
 msgstr ""
+"Miten hyvänsä hän on ne saanut, meidän täytyy joka tapauksessa lyödä hänet!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:400
 msgid ""
 "Not only will Minister Hylas's Holy attack melt undead bones, but he can "
 "also heal wounded units near him."
 msgstr ""
+"Ministeri Hylasin pyhä hyökkäys ei ainoastaan sulata epäkuolleiden luita, "
+"vaan hän osaa lisäksi parantaa lähellä olevia haavottuneita yksiköitä."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:423
 msgid "Leave nothing standing!  Burn their villages down and kill them all!"
-msgstr ""
+msgstr "Tuhotkaa kaikki! Polttakaa kylät ja tappakaa ihmiset!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:427
 msgid "We will avenge your brother's death!"
-msgstr ""
+msgstr "Me kostamme veljesi kuoleman!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:431
 msgid "They are burning our villages!  We must stop them!"
-msgstr ""
+msgstr "He polttavat kyliämme! Heidät täytyy pysäyttää!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:455
 msgid "My brother has died unavenged!  What have we done!?"
-msgstr ""
+msgstr "Veljeni on kuollut ilman kostoa! Mitä olemme tehneetkään!?"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:460
 msgid "Commander, how can a bandit have summoned undead?"
-msgstr ""
+msgstr "Komentaja... kuinka ryövärit pystyvät manaamaan epäkuolleita?"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:465
 msgid ""
@@ -537,16 +669,22 @@ msgid ""
 "elves of the wood west of here.  He asked that a knight be sent to discuss a "
 "new threat to Wesnoth."
 msgstr ""
+"Juuri ennen ryöväreiden hyökkäystä, lännestä tuli haltioiden lähettiläs "
+"tapaamaan Sir Lorista. Hän pyysi, että Westinin edustaja lähetettäisiin "
+"keskustelemaan uudesta mahdista, joka uhkaa Wesnothia."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:470
 msgid "And did Sir Loris go to the elves?"
-msgstr ""
+msgstr "Ja Sir Loris lähti haltioiden mukaan?"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:475
 msgid ""
 "No.  He suspected the elves of some trickery and made no reply to them.  "
 "Perhaps they know the origin of these dead warriors we now face."
 msgstr ""
+"Ei. Hän arveli sen olevan joku haltioiden juoni, eikä lähtenyt mukaan. "
+"Ehkäpä he tietävät näiden epäkuolleiden soturien alkuperän, jotka me nyt "
+"kohtaamme."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:480
 msgid ""
@@ -554,39 +692,52 @@ msgid ""
 "protect the city from foes so dark as these.  I shall go meet the elves and "
 "see if they can be of any aid!"
 msgstr ""
+"Mieheni ovat harjoitelleet taistelemaan eläviä vastaan. En tiedä miten "
+"voimme suojella kaupunkia näiltä pimeyden sotilailta. Minun pitää mennä "
+"tapaaman haltioita! Jospa he voisivat auttaa meitä jotenkin!"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:485
 msgid ""
 "I will accompany you, my lord.  I have studied the arts of holy magic and my "
 "skill may be of some use against the dark ones."
 msgstr ""
+"Seuraan Teitä, herrani. Olen tutkinut pyhää taikuutta, joten minun taitoni "
+"saattavat auttaa pimeyden voimia vastaan."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:490
 msgid ""
 "Deoran sent a rider to request mounted reinforcements and set out at once "
 "towards the western forest..."
 msgstr ""
+"Deoran lähetti ratsastajan pyytämään ratsujoukkoja vahvistuksiksi ja lähti "
+"välittömästi matkaan kohti  läntistä metsää..."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:5
 msgid "A Desperate Errand"
-msgstr ""
+msgstr "Epätoivoinen tehtävä"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:104
 msgid "Deoran and his men came to the border of the elvish woods..."
-msgstr ""
+msgstr "Deoran ja hänen miehensä saapuivat haltioiden metsän rajalle..."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:109
 msgid ""
 "Look, men!  There is the forest of the Elves to the north west.  Let us "
 "hasten across the river and the hills."
 msgstr ""
+"Katsokaa miehet! Haltioiden metsä on luoteessa. Kiiruhtakaamme yli joen ja "
+"kukkuloiden."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:114
+#, fuzzy
 msgid ""
 "Be careful, Deoran.  No man has set foot in the Elvish woods for many a "
 "year.  We do not know how they will recieve us.  Sir Loris thought that it "
 "was some trick of theirs trying to bring him into the woods..."
 msgstr ""
+"Ole varovainen, Deoran. Kukaan ei ole rohjennut astua Haltioiden metsään "
+"vuosikausiin. Emme tiedä miten he ottavat meidät vastaan. Sir Loris uskoi "
+"tämän olevan juoni, jolla he saisivat hänet metsään..."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:119
 msgid ""
@@ -594,16 +745,21 @@ msgid ""
 "province shall surely be swallowed up by them, and then their bandit masters "
 "will fare no better.  We cannot allow it!"
 msgstr ""
+"Mutta jollemme saa selville epäkuolleiden alkuperää, koko maakunta joutuu "
+"varmasti heidän valtaansa ja heidän ryöväripäällikkönsä eivät selviydy sen "
+"paremmin. Emme voi sallia sitä!"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:124
 msgid ""
 "I have lost two brothers to Deoran - I shall not allow him to reach the "
 "accursed elves!  Deoran will die before he reaches the western forest!"
 msgstr ""
+"Olen menettänyt kaksi veljeäni Deoranille. En anna hänen saavuttaa kirottuja "
+"haltioita! Deoran kuolee ennen kuin hän saavuttaa läntisen metsän!"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:130
 msgid "Move Deoran to the Elvish city in the northern woods"
-msgstr ""
+msgstr "Saata Deoran haltiakaupunkiin pohjoisessa"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:154
 msgid ""
@@ -611,20 +767,24 @@ msgid ""
 "recruit a force strong enough to drive off the bandits before moving Deoran "
 "from his encampment!"
 msgstr ""
+"Sinun täytyy liikuttaa Deoran keskelle haltioiden linnoitusta. Varmista, "
+"että olet värvännyt riittävästi joukkoja pärjätäksesi ryöväreille, ennen "
+"kuin liikutat Deoranin pois leiristä!"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:164
 msgid "There is so much ground to cover.  If only our riders would arrive!"
-msgstr ""
+msgstr "Matka on niin pitkä. Kunpa vain ratsastajamme saapuisivat pian!"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:176
 msgid "strong,"
-msgstr ""
+msgstr "vahva,"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:185
 msgid ""
 "Commander, I recieved your request for reinforcements, and I have brought my "
 "riders with me!"
 msgstr ""
+"Komentaja, viestinne saapui perille ja olen tuonut ratsumieheni mukanani!"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:191
 msgid ""
@@ -632,42 +792,54 @@ msgid ""
 "weak in forests and hills.  They can keep up with Deoran, so use them to "
 "guard him!"
 msgstr ""
+"Voit nyt värvätä Ratsumiehiä. He ovat nopeita ja tappavan tehokkaita "
+"avomaastossa, mutta heikkoja metsiköissä ja vuorilla. He ovat yhtä nopeita "
+"kuin Deoran, joten käytä heitä suojellaksesi häntä."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:208
 msgid ""
 "What have we done?!  Even our undead allies cannot stand against this "
 "commander!"
 msgstr ""
+"Mitä olemme tehneet?! Edes epäkuolleet liittolaisemme pärjää tälle "
+"komentajalle!"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:218
 msgid ""
 "I hope that's the last of the bandits!  How many more of these foul undead "
 "must we fight?"
 msgstr ""
+"Toivottavasti tämä oli viimeinen ryöväri. Kuinka paljon näitä epäkuolleita "
+"vielä riittää?"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:223
 msgid ""
 "If we are to check the advance of the dead, I must reach the home of the "
 "elves!"
 msgstr ""
+"Jos aiomme selvittää kuolleiden alkuperän, Minun täytyy päästä haltioiden "
+"luo!"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:263
 msgid "Halt!  Who has entered our citadel without permission?"
-msgstr ""
+msgstr "Seis! Kuka on tullut luvatta linnoitukseemme?"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:268
 msgid "De..."
-msgstr ""
+msgstr "De..."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:273
+#, fuzzy
 msgid ""
 "Speak carefully, for the penalty for tresspass in our lands is death, and "
 "your life is forfeit."
 msgstr ""
+"Varo puheitasi. Maidemme halki kulkemisesta rangaistaan kuolemalla, henkesi "
+"on veitsenterällä."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:278
 msgid "Deora..."
-msgstr ""
+msgstr "Deora..."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:283
 msgid ""
@@ -675,6 +847,9 @@ msgid ""
 "folk of Wesnoth were not all foes of the elves.  Tell us, then, what brings "
 "you to the hallowed citadel of Elrath?"
 msgstr ""
+"Odota hetki. Tämä mies kantaa Wesnothin tunnuksia ja Kalenz kertoi meille, "
+"ettei kaikki Wesnothin väki ole haltioiden vihollisia. Kerro meille mikä tuo "
+"sinut Elrathin linnoitukseen."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:288
 msgid ""
@@ -683,12 +858,18 @@ msgid ""
 "villages.  They are coming across the river from the great forest to the "
 "south of our lands, where no man has yet traveled."
 msgstr ""
+"Teidän armonne, olemme tulleet pyytämään haltioiden neuvoja. Ryövärit ja "
+"rikolliset ovat mananneet kuolleita auttamaan heitä tärvelemään maaseutuamme "
+"ja kyliämme. Heitä tulee joen yli suuresta metsästä maistamme etelään, minne "
+"yksikään ihminen ei ole uskaltautunut."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:293
 msgid ""
 "The elves know of the great southern forest, and have walked its paths many "
 "times.  What would you do, Deoran?"
 msgstr ""
+"Haltiat tuntevat suuren eteläisen metsän ja ovat vaeltaneet sen polkuja "
+"monet kerrat. Miten haluat tehdä Deoran?"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:298
 msgid ""
@@ -696,6 +877,9 @@ msgid ""
 "dark that we might destroy it.  For surely we cannot stand against them for "
 "long."
 msgstr ""
+"Johtaisin mieheni joesta etelään löytääksemme näiden pimeän olentojen "
+"alkuperän ja tuhotaksemme sen. Sillä emme pysty taistelemaan heitä vastaan "
+"enää pitkään."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:303
 msgid ""
@@ -704,20 +888,26 @@ msgid ""
 "learned when Haldric I came to our land.  His name is Mebrin, and he lives, "
 "secluded in the hills, near here.  I will take you to him."
 msgstr ""
+"Olet todellakin rohkea kohdatessasi tällaisia vihollisia. Mutta pelkään, "
+"että yksin epäonnistutte ja kaadutte. Enää yksi haltia on elossa, joka "
+"muistaa epäkuolleiden salaisuudet ajoilta jolloin Haldric I saapui "
+"maillemme. Hänen nimensä on Mebrin ja asuu lähellä, kukkuloiden eristämänä."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:308
 msgid "My thanks, lady."
-msgstr ""
+msgstr "Kiitokseni, teidän armonne."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:5
 msgid "Vale of Tears"
-msgstr ""
+msgstr "Kyynelten laakso"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:141
 msgid ""
 "We have followed you away from our homes and left them unguarded.  Now, "
 "where can we find this sage who knows the southern forest well?"
 msgstr ""
+"Olemme seuranneet sinua ja jättäneet kotimme vartioimatta. Mistä löydämme "
+"tämän Viisaan, joka tuntee eteläisen metsän niin hyvin?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:146
 msgid ""
@@ -725,24 +915,34 @@ msgid ""
 "when they feel that it is time for them to allow others to lead our people.  "
 "The sage you speak of lives in a secluded village between the two lakes."
 msgstr ""
+"Tämä on Kukkivien Puiden Laakso. Meidän Viisaamme tulevat tänne asumaan, kun "
+"heistä tuntuu, että muiden on muiden aika johtaa kansaamme. Kaipaamasi "
+"Viisas elää joen rannalla olevassa kylässä, kahden järven välissä."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:151
 msgid ""
 "Why, my lady, are there humans camped to the south of us?  Are they friends "
 "of the elves?  I had thought that no humans had set foot in this valley."
 msgstr ""
+"Teidän armonne, miksi eteläpuolellemme on leiriytynyt ihmisiä? Ovatko he "
+"haltioiden ystäviä? Luulin ettei kukaan ihminen ole ikinä astunut tähän "
+"laaksoon."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:156
 msgid ""
 "What!?  Those are no friends of the elves!  They are brigands, and they must "
 "be destroyed!"
 msgstr ""
+"Mitä?! He eivät ole haltioiden ystäviä! He ovat rikollisia ja meidän täytyy "
+"tuhota heidät!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:161
 msgid ""
 "Perhaps they are allied with the bandits who have been sacking out towns!  "
 "They have grown bold to attack the elves!"
 msgstr ""
+"Ehkäpä he ovat liittoutuneet ryöväreiden kanssa, jotka ovat tuhonneet "
+"kyliämme! Heistä on tullut todella rohkeita hyökätessään haltioita vastaan!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:166
 msgid ""
@@ -750,10 +950,14 @@ msgid ""
 "he remembers well Haldric's betrayal of the elves, so if a human sets foot "
 "in his village first, he almost certainly will have nothing to do with us!"
 msgstr ""
+"Tuhoa nämä tunkeilijat, niin minä pyydän häntä auttamaan sinua. Hän on "
+"ikivanha ja muistaa hyvin kuinka Haldricin petti haltiat, joten jos ihminen "
+"saapuu hänen kyläänsä ensimmäisenä, hän tuskin suostuu yhteistyöhön "
+"kanssamme!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:171
 msgid "Sounds like a charming fellow..."
-msgstr ""
+msgstr "Kuulostaa hurmaavalta kaverilta..."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:176
 msgid ""
@@ -761,20 +965,25 @@ msgid ""
 "We do that which we must.  Ethiliel, you make for Mebrin's village.  We will "
 "handle the intruders."
 msgstr ""
+"Silti, kuten hän sanoo, Mebrin on suurin toivomme päästä eroon tästä uudesta "
+"uhkasta. Teemme sen mitä meidän täytyy. Ethiliel, mene sinä Mebrinin kylään, "
+"me hoidamme tunkeilijat."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:181
 msgid ""
 "Ha! You're too late.  We've taken what we want from this valley.  Now your "
 "blood and tears will join that of the elves!"
 msgstr ""
+"Ha! Myöhästyitte! Saimme jo haluamamme täältä laaksosta. Verenne ja "
+"kyynelenne tulevat virtaamaan haltioiden veren seassa!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:187
 msgid "Cleanse the Vale of Tears"
-msgstr ""
+msgstr "Kyynelten laakson puhdistus"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:191
 msgid "Move Ethiliel to Mebrin's village"
-msgstr ""
+msgstr "Saata Ethiliel Mebrinin kylään."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:203
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:248
@@ -783,94 +992,110 @@ msgstr ""
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:489
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:207
 msgid "Death of Ethiliel"
-msgstr ""
+msgstr "Ethilielin kuolema"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:228
 msgid ""
 "Our weapons are useless against these skeletons!  They have nothing for our "
 "shafts to pierce but air!"
 msgstr ""
+"Aseemme ovat käyttökelvottomia luurankoja vastaan. Niillä on nuoliemme "
+"lävistettäväksi vain ilmaa!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:232
 msgid ""
 "We must clear out these undead if you are to reach Mebrin's village!  What "
 "should we do?"
 msgstr ""
+"Meidän täytyy tuhota nämä epäkuolleet, jotta pääsisit Mebrinin kylään! Mitä "
+"meidän pitäisi tehdä?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:237
 msgid ""
 "For now, I can slow them down.  Where are the elves who used to live in this "
 "valley?  They should come to our aid!"
 msgstr ""
+"Toistaiseksi voin hidastaa heitä. Missä ovat haltiat, jotka ennen asuivät "
+"tässä laaksossa? Heidän tulisi liittyä meihin!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:242
 msgid ""
 "You said this valley would be safe, and we find it filled with skeletal "
 "foes!  Cannot some of your elf friends help us in our struggle?"
 msgstr ""
+"Sanoit, että tämä laakso olisi turvallinen ja se on täynnä epäkuolleita! "
+"Eikö sinun haltiaystäväsi voisi auttaa meitä kamppailussamme?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:256
 msgid "I shall not join these accursed undead!  Bury me deeply my friends..."
 msgstr ""
+"En aio liittyä noihin kirottuihin epäkuolleisiin! Haudatkaa minut syvälle "
+"ystäväni..."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:261
 msgid "You shall not die in vain!  My bodyguard will avenge you!"
-msgstr ""
+msgstr "Et kuole turhaan! Henkivartijani kostavat puolestasi!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:266
 msgid "You have a bodyguard?!"
-msgstr ""
+msgstr "Sinulla on henkivartija?!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:271
 msgid "You have a bodyguard?!!"
-msgstr ""
+msgstr "Sinulla on henkivartija?!?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:344
 msgid ""
 "We stand ready, my lady, to protect you!  We shall lead these men of Wesnoth "
 "into the fray!"
 msgstr ""
+"Me olemme valmiita suojelemaan teitä, teidän armonne. Johdamme nämä "
+"Wesnothin miehet taisteluun!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:357
 msgid "For my lady I fall..."
-msgstr ""
+msgstr "Teidän armonne puolesta kaadun..."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:370
 msgid "Finally, release!  Thank you, my friends..."
-msgstr ""
+msgstr "Vihdoinkin vapaus! Kiitos ystäväni..."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:416
 msgid ""
 "You're too late!  You'll never find our stronghold, and even if you did, "
 "what can you do against the dead!"
 msgstr ""
+"Olette myöhässä! Et löydä koskaan linnoitustamme, ja vaikka löytäisitkin, "
+"mitä muka mahdat kuolleille!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:421
 msgid "You, at least, will trouble us no more!"
-msgstr ""
+msgstr "Ainakaan sinusta ei ole enää haittaa meille!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:468
 msgid "Mebrin! Are you there?  We have come to seek your aid!"
-msgstr ""
+msgstr "Mebrin! Oletko siellä? Me tarvitsemme apuasi!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:473
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:483
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:478
 msgid "Mebrin! Where are you?!"
-msgstr ""
+msgstr "Mebrin! Missä olet?!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:488
 msgid ""
 "His home is empty...  There are footprints leading away to the south...  "
 "What can have happened here?"
 msgstr ""
+"Hänen talonsa on tyhjä... Sieltä johtaa jalanjäljet etelään... Mitä täällä "
+"on tapahtunut?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:493
 msgid "Maybe whoever summoned these undead knows where he is?"
-msgstr ""
+msgstr "Ehkäpä se, joka manasi nämä epäkuolleet tietää missä hän on?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:498
 msgid ""
@@ -878,56 +1103,75 @@ msgid ""
 "But the undead would have slain him and made him one of them.  Who then can "
 "have taken him?"
 msgstr ""
+"Täällä ei ole verta, eikä myöskään Mebriniä. Jonkun on täytynyt siepata "
+"hänet. Epäkuolleet olisivat tappaneet hänet ja liittäneet hänet "
+"joukkoihinsa. Kuka sitten on voinut viedä hänet?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:503
 msgid "Maybe the bandits who have been summoning the undead took him?"
-msgstr ""
+msgstr "Ehkä ryövärit, jotka ovat mananneet epäkuolleita kaappasivat hänet?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:508
 msgid ""
 "We must follow these footprints into the woods!  Whoever took our greatest "
 "sage must pay!  Nothing will stop the vengeance of the elves!"
 msgstr ""
+"Meidän täytyy seurata näitä jalanjälkiä metsään! Kuka tahansa sieppasikaan "
+"Viisaistamme suurimman, saa siitä maksaa. Mikään ei pysäytä haltioiden vihaa!"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:513
 msgid ""
 "Well, vengeance or no, if you will lead us into the forest, we will follow "
 "you and battle the undead!"
 msgstr ""
+"No, kosto tai ei, jos johdatatte meidät metsään, me seuraamme teitä ja "
+"taistelemme epäkuolleita vastaan!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:5
 msgid "Choice in the Fog"
-msgstr ""
+msgstr "Valinta sumussa"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:174
 msgid ""
 "The heat in this forest is oppressive, and this fog cannot be natural.  I "
 "wonder what evil lurks nearby?"
 msgstr ""
+"Paahde metsässä on painostavaa ja tämä sumu ei voi olla luonnollista. "
+"Mitäköhän paholaisia lähistöllä vaanii?"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:179
 msgid ""
 "I fear the fog emanates from some powerful lord of the undead.  We may be "
 "overmatched..."
 msgstr ""
+"Pelkäänpä, että sumu on jonkun mahtavan epäkuolleiden herran aikaansaannos. "
+"Saatamme jäädä alakynteen..."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:184
 msgid ""
 "This is quite a change from fighting bandits in the farmland near Westin!"
 msgstr ""
+"Tämä eroaa melkoisesti ryöväreitä vastaan taistelemisesta Westinin "
+"maaseudulla!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:189
 msgid ""
 "I have brought many of my people along to aid us.  My soldiers and shamans "
 "will now fight at your command."
 msgstr ""
+"Toin mukanani monia kansani jäseniä avuksi. Sotilaani ja shamaanini "
+"taistelevat nyt sinun johdollasi."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:195
+#, fuzzy
 msgid ""
 "Elvish fighters are at home in the thick forests.  They have both a sword "
 "and a bow and are deadly with both.  They are quick and can hold their own "
 "agains just about anything."
 msgstr ""
+"Haltiasoturit ovat kotonaan tiheissä metsiköissä. Heillä on sekä miekka että "
+"jousi ja he ovat kuolettavat taitavia molemmilla. He ovat nopeita ja "
+"pystyvät pitämään puolensa melkein mitä vastaan tahansa."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:200
 msgid ""
@@ -935,10 +1179,13 @@ msgid ""
 "however, heal units next to them every turn.  Use them to bolster your "
 "weakening lines and heal wounded soldiers."
 msgstr ""
+"Haltiashamaanit eivät pärjää useimmille vihollisille yksin. He kuitenkin "
+"hoivaavat viereisiään yksiköitä jokaisen vuoron alussa. Käytä heitä "
+"tukeaksesi heikentyviä taistelulinjoja ja hoivaamaan haavottuneita sotilaita."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:205
 msgid "Why did we stop and make camp here?"
-msgstr ""
+msgstr "Miksi pysähdyimme ja leiriydyimme tänne?"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:210
 msgid ""
@@ -946,59 +1193,73 @@ msgid ""
 "undead come from across the river, then we must search for them carefully, "
 "for I know not the way."
 msgstr ""
+"Suuri joki on edessämme. Yksikään vielä elossa oleva haltia ei ole sitä "
+"ylittänyt. Jos epäkuolleet tulevat sen toiselta puolen, niin meidän täytyy "
+"olla varovaisia, sillä en tunne tietä. "
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:215
 msgid ""
 "I fear no forests.  Let us find this river and whatever enemies lay beyond."
 msgstr ""
+"En pelkää metsää. Etsitään tämä joki ja mitä kaikkia vihollisia sen takana "
+"onkaan."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:220
 msgid "Very well.  We will seek the river and probe its secrets."
-msgstr ""
+msgstr "Hyvä on. Etsimme joen ja selvitämme sen salaisuudet."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:226
 msgid "Investigate the areas to the south of the Great River"
-msgstr ""
+msgstr "Tutki alueet Suuren Joen eteläpuolella"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:259
 msgid ""
 "If the elves do not venture this far south, who has built these forts?  The "
 "marks on the logs were made with some sword or axe!"
 msgstr ""
+"Jos haltiat eivät ole uskaltaudu näin kauas etelään, niin kuka on rakentanut "
+"nämä linnakkeet? Pölkyissä olevat jäljet ovat peräisin miekoista tai "
+"kirveistä!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:264
 msgid "If not elves, perhaps some of you menfolk built them?"
-msgstr ""
+msgstr "Jos ei ihmiset, ehkäpä jotkut teistä ihmisistä rakensivat ne?"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:269
 msgid "Indeed.  But not loyal men of Wesnoth, I venture."
-msgstr ""
+msgstr "Todella. Mutta luulenpa, että ei Wesnothille uskolliset miehet."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:283
 msgid "Thank heaven!  You're alive!"
-msgstr ""
+msgstr "Taivaan kiitos, olet elossa!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:288
 msgid ""
 "Save your thanks!  We are here to root out all the evil from these woods, "
 "and that means you!"
 msgstr ""
+"Säästä kiitoksesi! Olemme täällä kitkemässä pois kaiken pahuuden tästä "
+"metsästä ja se koskee myös sinua!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:293
 msgid ""
 "Draw your swords and say your prayers!  You cannot stand against us!  You "
 "will pay for your crimes!"
 msgstr ""
+"Kohota miekkasi ja lue rukouksesi! Et voi vastustaa meitä! Saat maksaa "
+"rikoksistasi!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:298
 msgid ""
 "But have you not seen the undead in these forests?  I know you have seen "
 "them under the control of the many bandit leaders before..."
 msgstr ""
+"Mutta ettekö ole nähneet epäkuolleita näissä metsissä? Tiedän, että olette "
+"nähneet niitä monien ryövärijohtajien alaisuudessa aiemmin..."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:303
 msgid "What of them?"
-msgstr ""
+msgstr "Mitä heistä?"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:308
 msgid ""
@@ -1006,6 +1267,9 @@ msgid ""
 "a great sage.  We forced him to teach us the secrets of this forest and of "
 "the undead."
 msgstr ""
+"Vuosi sitten uskaltauduimme salaa haltioiden maille ja sieppasimme suuren "
+"Viisaan. Me pakotimme hänet opettamaan meille tämän metsän ja epäkuolleiden "
+"salaisuudet."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:313
 msgid ""
@@ -1013,6 +1277,9 @@ msgid ""
 "that we may end this parlay and dispatch you quickly!  We will have "
 "vengeance!"
 msgstr ""
+"Tekö vangitsitte Mebrinin!? Siitä saatte todellakin maksaa! Puhu nopeasti, "
+"jotta voimme päättää tämän keskustelun ja teloittaa sinut pian. Me saamme "
+"kostomme!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:318
 msgid ""
@@ -1021,46 +1288,62 @@ msgid ""
 "fell sway to the influence of the undead, and now he leads them.  For a time "
 "he served us, but now he has gone mad and is attacking us as well!"
 msgstr ""
+"Kuunnelkaa minua! Hän opetti meidät manaamaan kuolleita taistelemaan "
+"puolestamme. Me olimme heikkoja ja typeriä ja manasimme pian epäkuolleita, "
+"joita emme pystyneet hallitsemaan. Mebrin kääntyi myös epäkuolleiden "
+"vaikutuksesta, ja nyt hän johtaa niitä. Jonkin aikaa hän palveli meitä, "
+"mutta nyt hän on tullut hulluksi ja hyökkää myös meitä vastaan!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:323
 msgid "Lies!  Mebrin would never fight for the undead, much less lead them!"
 msgstr ""
+"Valheita! Mebrin ei koskaan taisteilisi epäkuolleiden puolella, vielä "
+"vähemmän heidän johdossaan!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:328
 msgid "But what do you want us to do about it?  You are criminals!"
-msgstr ""
+msgstr "Mutta mitä haluat meidän tekevän? Te olette rikollisia!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:333
 msgid ""
 "Join us in the fight!  Together we can drive off these cruel undead and "
 "restore peace to the land."
 msgstr ""
+"Liity mukaan taisteluumme! Yhdessä voimme ajaa nämä julmat epäkuolleet pois "
+"ja jatkaa rauhaisaa eloamme."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:338
 msgid ""
 "My lord, they could be valuable allies, and the undead are a greater threat "
 "to our lands.  Justice can wait until we are all safely in Westin."
 msgstr ""
+"Herrani, he voisivat olla arvokkaita liittolaisia. Lisäksi epäkuolleet ovat "
+"suurempi uhka maillemme. Oikeus voi odottaa kunnes olemme päässeet "
+"turvallisesti Westiniin."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:343
 msgid ""
 "But think of the destruction they wrought on your borders!  You cannot ally "
 "yourselves with these evil men!  Vengeance!"
 msgstr ""
+"Mutta ajatelkaa tuhoa, jonka he toivat rajoillenne! Ette voi liittoutua "
+"näiden pahojen miesten kanssa! Kosto!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:348
 msgid "Hmm...I have to consider this..."
-msgstr ""
+msgstr "Hmm... Minun täytyy harkita tätä..."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:351
 msgid "Very well. All men must unite against the undead."
-msgstr ""
+msgstr "Hyvä on. Kaikkien ihmisten täytyy yhdistyä epäkuolleita vastaan."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:356
 msgid ""
 "We will now fight alongside you, and I will place my thugs and footpads at "
 "your service."
 msgstr ""
+"Me taistelemme nyt rinnallanne, ja minä annan Korstoni ja Pikkurosvoni "
+"palvelukseesi."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:361
 msgid ""
@@ -1069,93 +1352,116 @@ msgid ""
 "were foolish to ever have any dealings with these humans.  Do not set foot "
 "in our land ever again Deoran, you have brought us nothing but grief."
 msgstr ""
+"Et ole yhtään näita rikollisia parempi. Katsotaan löydättekö omin avuin ulos "
+"metsästä! Kansani palaa takaisin maillemme. Olimme tyhmiä suostuessamme "
+"mihinkään kanssakäymiseen näiden ihmisten kanssa. Älkää enää koskaan "
+"uskaltautuko maillemme, Deoran, sillä olette tuoneet meille pelkkiä murheita."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:373
 msgid ""
 "The elves have abandoned us in this accursed forest!  We are surely lost!"
 msgstr ""
+"Haltiat ovat hylänneet meidät tänne kirottuun metsään! Eksymme varmasti!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:378
 msgid "Do not fear, I can lead you out when the time is right."
-msgstr ""
+msgstr "Älä pelkää, osaan johdattaa teidät pois täältä kun hetki on oikea."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:424
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:473
 msgid "Find the source of the undead and destroy it."
-msgstr ""
+msgstr "Löydä epäkuolleet ja tuhoa heidät."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:174
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:440
 msgid "Death of Urza Afalas"
-msgstr ""
+msgstr "Urza Afalasin kuolema"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:453
 msgid ""
 "Your crimes are too great.  You will fall with the rest of the foul undead!"
-msgstr ""
+msgstr "Rikoksesi ovat liian raskauttavat. Kaadut epäkuolleiden mukana!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:457
 msgid "Then this parlay is over!  You may have sounded the doom of all of us!"
 msgstr ""
+"Sitten tämä keskustelu on ohi! Olet saattanut tuomita meidät kaikki tuhoon!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:462
 msgid "You will pay for taking Mebrin from us!  If he is harmed..."
 msgstr ""
+"Saat maksaa siitä, että riistit Membrinin meiltä! Jos hän on "
+"vahingoittunut..."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:477
 msgid "Defeat the last of the bandit leaders."
-msgstr ""
+msgstr "Lyö viimeiset ryöväreiden johtajat."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:511
+#, fuzzy
 msgid ""
 "Fools!  That lich will be the death of us all!  You have sealed our doon!"
 msgstr ""
+"Typerykset! Tämä kuolonherra tappaa meidät kaikki! Olette sinetöineet "
+"tuhomme!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:534
 msgid "Graar!"
-msgstr ""
+msgstr "Graar!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:560
 msgid ""
 "Well!  That was easier than I thought it'd be.  Looks like the undead aren't "
 "so tough after all!"
 msgstr ""
+"Kas! Tämähän oli helpompaa kuin kuvittelin sen olevan. Vaikuttaa siltä, "
+"etteivät epäkuolleet sittenkään ole niin voimakkaita vastustajia!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:564
 msgid ""
 "Indeed.  The dark king has fallen.  Now that the elves have abandoned us, "
 "our lives depend on Urza Afalas.  Will you lead us from this accursed forest?"
 msgstr ""
+"Todella. Pimeyden kuningas on kaatunut. Nyt kun haltiat ovat hylänneet "
+"meidät, elämämme on Urza Afalasista kiinni. Johdatatko meidät ulos tästä "
+"kirotusta metsästä?"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:568
 msgid ""
 "What choice do I have?  My life is in as much danger as yours.  I will lead "
 "you and you men back to the lands of Wesnoth if you will grant me pardon."
 msgstr ""
+"Onko minulla vaihtoehtoja? Henkeni on yhtä paljon vaarassa kuin teidänkin. "
+"Johdatan sinut ja miehesi takaisin Wesnothin maille, jos sinä annat minulle "
+"armahduksen."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:572
 msgid ""
 "I cannot promise clemency, as that decision must be made by the council at "
 "Westin, but I will plead your case."
 msgstr ""
+"En voi luvata sellaista, koska sen päätöksen tekee Westinin neuvosto, mutta "
+"voin pitää puolustuspuheen sinulle."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:576
 msgid "More than that I cannot ask."
-msgstr ""
+msgstr "En voi pyytää enempää."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:587
 msgid "I struck him and he disappeared!  Can I really have killed the Lich?"
-msgstr ""
+msgstr "Löin häntä ja hän katosi! Olenko todella voinut tappaa Kuolonherran?"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:591
 msgid "We have beaten them both, criminals and undead!"
-msgstr ""
+msgstr "Löimme molemmat, ryövärit ja epäkuolleet!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:595
 msgid ""
 "We should make haste to return to Wesnoth before the harvest.  Fall has "
 "already been upon us for some time."
 msgstr ""
+"Meidän tulee kiirehtiä takaisin Wesnothiin ennen sadonkorjuuta. Syksy on jo "
+"jatkunut jonkin aikaa."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:599
 msgid ""
@@ -1165,35 +1471,46 @@ msgid ""
 "the land of his evil, we must enter the darkness and root him out from "
 "within."
 msgstr ""
+"Älä ole noin hätäinen - Mahtavat velhot eivät ole halpamaisia huijareita, "
+"jotka voitetaan näin helposti. Pelkäänpä, että hänen linnoituksen alle "
+"kätkeytyy tunneleita ja katakombeja ja, että me kukistimme pelkän haamun. "
+"Jos aiomme puhdistaa maamme hänen pahuudestaan, meidän täytyy astua "
+"pimeyteen ja etsiä hänet maan uumenista."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:603
 msgid "My men are not dwarves!  How are we to fight in catacombs and tunnels?"
 msgstr ""
+"Mieheni eivät ole kääpiöitä! Miten taistelemme katakombeissa ja tunneleissa?"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:607
 msgid ""
 "Someone must take news back to Wesnoth of this new evil that lurks near our "
 "borders.  Who knows how many more of these undead are hiding in the forest."
 msgstr ""
+"Jonkun täytyy viedä uutiset Wesnothiin tästä uudesta pahuudesta joka väijyy "
+"rajojemme tuntumassa. Kuka tietää kuinka paljon näitä epäkuolleita "
+"piilottelee näissä metsissä."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:611
 msgid ""
 "Go, Sir Gerrick, and take with you an escort of elves, if Ethiliel will "
 "permit it."
 msgstr ""
+"Mene, Sir Gerrick, ja ota mukaasi saattue haltioita, jos vain Ethiliel "
+"hyväksyy sen."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:615
 msgid "Indeed I do.  My kinsfolk will protect you and your message!"
-msgstr ""
+msgstr "Todella minä sen hyväksyn. Väkeni suojelee sinua ja viestiäsi!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:619
 msgid ""
 "Fare well Deoran!  I will be there to greet you when you return to Kerlath."
-msgstr ""
+msgstr "Hyvästi Deoran. Olen sinua vastassa, kun palaat Kerlathiin."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:5
 msgid "Tidings, Good and Ill"
-msgstr ""
+msgstr "Hyviä ja huonoja uutisia"
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:156
 msgid ""
@@ -1201,425 +1518,512 @@ msgid ""
 "danger from the south.  We will lead you through the forest and clear any "
 "foes from your path."
 msgstr ""
+"Sir Gerrick, sinun täytyy palata Kerlathiin ja varoittaa väkeäsi etelästä "
+"lähestyvästä vaarasta. Me johdatamme sinut metsän halki ja tuhoamme kaikki "
+"viholliset joita vain osuu tiellesi."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:160
+#, fuzzy
 msgid ""
 "With the bandits and undead vanquished behind us, what foes can there be "
 "ahead?  Let us hope this is a speedy journey, for the specter of winter "
 "looms."
 msgstr ""
+"Ryövärit ja epäkuolleet tuhottuina takanamme, mitä vihollisia voi olla enää "
+"edessä? Toivokaamme, että loppumatka sujuu nopeasti, sillä talvi on jo "
+"ovella."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:171
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:243
 msgid "Move Sir Gerrick to the north end of the woods"
-msgstr ""
+msgstr "Liikuta Sir Gerrick metsän pohjoispäähän."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:179
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:255
 msgid "Death of Ithelden"
-msgstr ""
+msgstr "Itheldenin kuolema"
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:205
 msgid ""
 "Hss...  Here are the humans who have made a pact with the cursed mermen! "
 "Hss..."
 msgstr ""
+"Hss... Täällä on ihmisiä, jotka ovat tehneet sopimukset kirottujen "
+"merimiesten kanssa! Hss..."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:209
 msgid "We have stumbled into a den of Nagas!"
-msgstr ""
+msgstr "Me olemme törmänneet Nagoihin!"
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:213
 msgid "Hss... We will kill them all, my brood.  Hss..."
-msgstr ""
+msgstr "Hss... Me tapamme heidät kaikki, veljeni. Hss..."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:217
 msgid ""
 "We must clear this road for Deoran and Ethiliel!  We must destroy the naga "
 "lair!"
 msgstr ""
+"Meidän täytyy puhdistaa tämä reitti Deoranille ja Ethilielille! Meidän "
+"täytyy tuhota nagat!"
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:223
 msgid "Hss...  Elves!  Are they friends or enemies? Hss..."
-msgstr ""
+msgstr "Hss... Haltioita! Ovatko he ystäviä vai vihollisia? Hss..."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:227
 msgid "We are weary travelers, seeking our homes.  If you but let us pass..."
 msgstr ""
+"Me olemme väsyneitä matkamiehiä, matkalla koteihimme. Jos vain päästäisitte "
+"meidät menemään..."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:231
+#, fuzzy
 msgid ""
 "Hss...  And humans!  Humans drained our swamps and made them fields for "
 "farms, so you all must die!  Hss..."
 msgstr ""
+"Hss... Ja ihmisiä! Ihmiset kuivattivat suomme ja tekivät niistä peltoja "
+"maatiloilleen, ja nyt he löysivät talvipesämme. Maalla-Kävelijöiden täytyy "
+"kuolla! Hss..."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:235
+#, fuzzy
 msgid ""
 "If we leave these nagas here, they will ambush Deoran and Ethiliel!  We must "
 "destroy them!"
 msgstr ""
+"Hän ei suostu kuuntelemaan. Jos jätämme nämä nagat tänne, Deoran ja "
+"Ethilieliel joutuvat heidän väijyttämikseen! Meidän täytyy tuhota ne!"
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:247
 msgid "Defeat the Naga Queen"
-msgstr ""
+msgstr "Voita Nagakuningatar"
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:274
 msgid "Hss...  Who will watch over my brood now? Hss..."
-msgstr ""
+msgstr "Hss... Kuka huolehtii poikasistani nyt? Hss..."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:287
 msgid ""
 "I will hasten back to Kerlath now and seek the advice of the Council of "
 "Westin..."
 msgstr ""
+"Kiirehdin nyt takaisin Kerlathiin ja pyydän neuvoa Westinin neuvostolta."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:291
 msgid ""
 "We too will return to our councils.  We have much to tell them...  Much "
 "indeed."
 msgstr ""
+"Mekin palaamme neuvostomme luokse. Meillä on paljon kerrottavaa heille... "
+"todella paljon."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:295
 msgid ""
 "While the council debated the best course of action, Deoran and Ethiliel "
 "prepared to enter the caves under Mebrin's fortress..."
 msgstr ""
+"Sillä aikaa kun neuvosto väitteli parhaasta tavasta toimia, Deoran ja "
+"Ethiliel valmistautuivat menemään Mebrinin linnoituksen alaisiin luoliin..."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:5
 msgid "The Long March"
-msgstr ""
+msgstr "Pitkä marssi"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:126
 msgid ""
 "Deoran and Urza Afalas led their men quickly from the ruins of Mal M'brin's "
 "fortress..."
 msgstr ""
+"Deoran ja Urza Afales johtivat miehensä nopeasti Mal M'brinin linnoituksen "
+"raunioista..."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:131
 msgid "Will this forest ever end?  How can we know what path to take?!"
 msgstr ""
+"Päättyykö tämä metsä koskaan? Mistä tiedämme mitä polkua meidän tulee "
+"kulkea?!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:135
 msgid ""
 "You have to follow me!  There are many false paths in these woods.  Some are "
 "dead ends, others are even worse!"
 msgstr ""
+"Teidän täytyy seurata minua! Täällä on monia vääriä polkuja. Jotkut johtavat "
+"umpikujiin, osa on vieläkin pahempia!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:139
 msgid "Can we trust him?  His people are murderers and thieves!"
-msgstr ""
+msgstr "Voimmeko luottaa häneen? Hänen väkensä on murhaajia ja varkaita!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:143
 msgid ""
 "Do we have any choice?  Our food is running out, and it will be winter "
 "soon..."
-msgstr ""
+msgstr "Onko meillä vaihtoehtoja? Ruokamme käy vähiin ja talvi lähestyy..."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:149
 msgid ""
 "This way!  The only ford is a bit west of here, and the path to the north "
 "will lead you into trouble!"
 msgstr ""
+"Tätä tietä! Ainoa kahluupaikka on tästä hieman länteen. Pohjoinen polku "
+"johtaa ainoastaan vaikeuksiin."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:155
 msgid ""
 "I think we should head north.  The road leads north, and the ford is north.  "
 "Why does he want us to head west?"
 msgstr ""
+"Minusta tuntuu, että meidän pitäisi suunnata pohjoiseen. Tie johtaa "
+"pohjoiseen ja kahlaamo on pohjoisessa. Miksi hän haluaa meidän suuntaavan "
+"länteen?"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:162
 msgid "Make your way to the north edge of the woods"
-msgstr ""
+msgstr "Siirry metsän pohjoisreunaan."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:197
 msgid ""
 "We have to go even further west.  There are elves living to the north, and I "
 "don't think they'll receive us too kindly!"
 msgstr ""
+"Meidän täytyy suunnata vielä kauemmas länteen. Pohjoisessa asuu haltioita, "
+"enkä usko että he ottavat meidät vastaan kovin ystävällisesti."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:201
 msgid ""
 "Maybe the elves will have food we can buy - we should head north to meet "
 "them!"
 msgstr ""
+"Ehkä voimme ostaa haltioilta ruokaa - meidän tulee suunnata pohjoiseen "
+"löytääksemme heidät!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:221
 msgid "Come on!  Hurry!"
-msgstr ""
+msgstr "Tule jo! Kiirehdi!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:231
 msgid ""
 "If there are elves to the north we must head north!  We can't follow this "
 "bandit to who knows where...  The elves have been our friends!"
 msgstr ""
+"Jos pohjoisessa on haltioita, meidän tulisi suunnata kohti pohjoista. Emme "
+"voi seurata ryöväriä ties minne... Haltiat ovat olleet ystäviämme!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:248
 msgid "Keep moving!"
-msgstr ""
+msgstr "Pysykää liikkeellä!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:269
 msgid "We're almost there!"
-msgstr ""
+msgstr "Me olemme melkein perillä!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:288
 msgid "Just a little further!"
-msgstr ""
+msgstr "Hieman pidemmälle vielä!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:307
 msgid "Hurry!  There are bandits in these woods!"
-msgstr ""
+msgstr "Kiirehtikää! Metsässä on ryöväreitä!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:311
 msgid "Why should that worry us?!  Aren't you their leader?"
 msgstr ""
+"Miksi meidän pitäisi siitä huolestua?! Etkös sinä ole heidän johtajansa?"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:315
 msgid "We're bandits, after all.  Not all of them are loyal to me."
 msgstr ""
+"Me olemme ryöväreitä, loppujen lopuksi. Heistä kaikki eivät ole uskollisia "
+"minulle."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:334
 msgid "The river is just ahead!"
-msgstr ""
+msgstr "Joki on suoraan edessä!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:352
 msgid ""
 "From here you can see the banks of the river!  Across it we will find the "
 "sun again, and an end to these cursed trees!"
 msgstr ""
+"Täältä näkyy joenranta! Sen toisella puolella löydämme jälleen auringon ja "
+"pääsemme pois täältä kirotusta metsiköstä!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:387
 msgid "We cannot allow you bandits and criminals to pass through our lands!"
-msgstr ""
+msgstr "Emme voi sallia ryöväreiden ja rikollisten kulkevan maillamme!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:391
 msgid "But we have slain the undead - we wish only to return to our homes!"
 msgstr ""
+"Mutta me olemme tappaneet epäkuolleet - haluamme vain palata koteihimme!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:395
 msgid "Nevertheless we will have vengeance for Mebrin!!"
-msgstr ""
+msgstr "Jokatapauksessa kostamme Mebrinin puolesta!!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:410
 msgid "Thank heaven we have escaped that awful forest!"
-msgstr ""
+msgstr "Taivaan kiitos, pääsimme pakoon sieltä kauheasta metsästä!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:414
 msgid "Indeed, Afalas, you've earned my trust today."
-msgstr ""
+msgstr "Todellakin, Afalas, olet ansainnut luottamukseni tänään."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:418
 msgid "I can only hope for mercy when I return to Westin."
-msgstr ""
+msgstr "Voin vain toivoa armoa kun palaan Westiniin."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:423
 msgid "But there was a dark cloud looming behind Deoran and his Men..."
 msgstr ""
+"Mutta synkät pilvet häämöttivät jo Deoranin ja hänen joukkojensa takana..."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:5
 msgid "Into The Depths"
-msgstr ""
+msgstr "Syvyyksissä"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:120
 msgid ""
 "My mount will not help me in these rocky paths - I will leave him here at "
 "the entrance and proceed on foot."
 msgstr ""
+"Ratsuni ei auta minua näillä kivikkoisilla teillä - jätän sen tänne luolan "
+"suulle ja jatkan jalkaisin."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:124
 msgid "That is wise.  Speed is less valuable in caves that toughness."
-msgstr ""
+msgstr "Se on viisasta. Nopeus ei ole luolissa niin tärkeää kuin sitkeys."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:130
 msgid ""
 "Cavalrymen and Dragoons will be less useful in the caves than soldiers who "
 "fight on foot."
 msgstr ""
+"Ratsumiehet ja rakuunat ovat vähemmän hyödyllisiä luolastossa kuin jalkaväki."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:134
+#, fuzzy
 msgid "Also, soldiers with the -resilient- trait will be useful in the dark."
 msgstr ""
+"Lisäksi, sotilaat joilla on 'nopea''-ominaisuus ovat hyödyllisiä maan alla."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:193
 msgid ""
 "Proceed slowly, who knows what evils inhabited these parts before Mebrin was "
 "turned!  We cannot be too careful."
 msgstr ""
+"Edetkää varovasti, kuka tietää mitä paholaisia täällä asui ennen kuin Mebrin "
+"kääntyi. Emme voi olla liian varovaisia."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:199
 msgid "Find the source of the undead under the citadel."
-msgstr ""
+msgstr "Selvitä epäkuolleiden alkuperä."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:230
 msgid ""
 "It seems that the old dwarven road has fallen into disrepair!  The stream "
 "cuts the path."
 msgstr ""
+"Näyttää siltä, että vanha kääpiötie on rappeutunut! Virta katkaisee "
+"reittimme."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:234
 msgid "Perhaps we can cross on the ice?"
-msgstr ""
+msgstr "Ehkä voimme ylittää jäätikön?"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:238
 msgid "It looks thin - tread carefully."
-msgstr ""
+msgstr "Se näyttää ohuelta, edetkää varovasti."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:269
 msgid "The ice is collapsing!  I'll be trapped!"
-msgstr ""
+msgstr "Jää pettää! Olen ansassa!"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:273
 msgid ""
 "We have nothing suitable to make a bridge - you will have to explore that "
 "side of the stream and see where the road leads."
 msgstr ""
+"Meillä ei ole mitään mistä tehdä siltaa. Sinun täytyy tutkia joen sitä "
+"puolta ja selvittää minne tie johtaa."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:278
 msgid "The ice to the south seems thicker.  We should head that way!"
-msgstr ""
+msgstr "Jää näyttää paksummalta etelässä. Meidän tulisi suunnata sinnepäin!"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:292
 msgid ""
 "Look!  Rocks have fallen and collapsed the old dwarven road.  I'm stuck!"
 msgstr ""
+"Katsokaa! Kallio on sortunut ja tukkinut vanhan kääpiöitien. Olen jumissa!"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:296
 msgid "We'll find a way to rescue you, don't worry."
-msgstr ""
+msgstr "Löydämme tavan pelastaa sinut, ole huoleti."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:308
 msgid ""
 "Ha!  Humans and Elves!  What are you doing in our caves, and why shouldn't "
 "we grind your bones and gnaw on your flesh?"
 msgstr ""
+"Ha! Ihmisiä ja haltioita! Mitä luulette tekevämme meidän luolissamme ja "
+"ennen kaikkea, miksi emme murskaisi luitanne ja järsisi lihaanne?"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:313
+#, fuzzy
 msgid "We mean no tresspass.  We are hunting the undead."
-msgstr ""
+msgstr "Me emme ole tunkeilijoita. Metsästämme epäkuolleita."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:318
 msgid "Undead!  Ha!  We kill undead all the time.  Why should we help you?"
 msgstr ""
+"Epäkuolleita! Hah! Me tapamme epäkuolleita jatkuvasti. Miksi auttaisimme "
+"sinua?"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:323
 msgid "What should we offer them for their help?"
-msgstr ""
+msgstr "Mitä tarjoaisimme heille korvaukseksi avusta?"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:327
 msgid "We will give you 50 gold pieces once the undead are defeated."
-msgstr ""
+msgstr "Annamme sinulle 50 kultapalaa, kun olemme lyöneet epäkuolleet."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:330
 msgid "We will give you 75 gold pieces once the undead are defeated."
-msgstr ""
+msgstr "Annamme sinulle 75 kultapalaa, kun olemme lyöneet epäkuolleet."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:333
 msgid "We will give you 100 gold pieces once the undead are defeated."
-msgstr ""
+msgstr "Annamme sinulle 100 kultapalaa, kun olemme lyöneet epäkuolleet."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:348
 msgid ""
 "Gold is good.  We can trade gold for weapons and fire.  We will not kill you "
 "now."
 msgstr ""
+"Kulta on hyvä. Voimme vaihtaa kullan tuleen ja aseisiin. Nyt emme tapa teitä."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:352
 msgid ""
 "Can you offer us any aid against the undead?  We are not well suited to "
 "fighting in the caves."
 msgstr ""
+"Voitko tarjota meille mitään apua epäkuolleita vastaan? Emme ole hyviä "
+"taistelemaan luolissa."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:356
 msgid ""
 "Gah!  We already planned to kill the undead ourselves... First we kill "
 "dwarves though!  Now we have dwarvish thunder fire."
 msgstr ""
+"Gah! Me jo aiottiin tappaa epäkuolleet itse... Ensin tapettiin kääpiöt "
+"tosin! Nyt meillä on kääpiöiden ukkostuli."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:360
 msgid "Go here and lite it and it will blast a backdoor into the lich's lair!"
-msgstr ""
+msgstr "Mene tänne ja sytytä se ja se räjäyttää kuolonherran luolaan takaoven!"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:374
 msgid "We will offer you freedom and a place in our lands."
-msgstr ""
+msgstr "Tarjoamme sinulle vapautta ja aluetta meidän mailtamme."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:378
 msgid "Ha!  Who wants peace and freedom!  We want blood!"
-msgstr ""
+msgstr "Hah! Kuka haluaa rauhaa ja vapautta? Me halutaan verta!"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:382
 msgid ""
 "Then you will not treat with us and aid us in our quest to destroy the "
 "undead menace?"
 msgstr ""
+"Ette siis suostu yhteistyöhän kanssamme ja auta meitä tuhoamaan "
+"epäkuolleiden mahti?"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:386
 msgid "Bah! Grind their bones!"
-msgstr ""
+msgstr "Pah, murskatkaa niiden luut!"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:405
 msgid "I'm lighting it!"
-msgstr ""
+msgstr "Minä sytytän sitä!"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:433
 msgid "I've broken through!"
-msgstr ""
+msgstr "Pääsin läpi!"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:452
 msgid "Gah!  The undead are dead again!  Now you'd better pay up!"
-msgstr ""
+msgstr "Gah! Epäkuolleet ovat taas kuolleita! Nyt olisi parasta saada maksu!"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:489
 msgid "Here is your reward.  Now we will leave your caves in peace."
 msgstr ""
+"Tässä on palkintonne. Nyt jätämme teidät elämään rauhassa luolastossanne."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:493
 msgid "I suppose we will not kill you, but do not try your luck again!"
-msgstr ""
+msgstr "Emme kai tapa teitä, mutta älä koita onneasi uudestaan!"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:504
 msgid ""
 "You don't have the gold to pay us!  Now we will grind your bones into dust!"
-msgstr ""
+msgstr "Sinulla ei ole kultapaloja maksuksi! Murskaamme teidän luunne pölyksi!"
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:5
 msgid "Pebbles in the Flood"
-msgstr ""
+msgstr "Toivoton taistelu"
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:160
 msgid ""
 "We have escaped the great forest, but look!  The undead are chasing us - we "
 "must not have rooted them all out of the wood."
 msgstr ""
+"Pääsimme pakoon suuresta metsästä, mutta katsokaa! Epäkuolleet jahtaavat "
+"meitä -  emme saaneet heitä kaikkia hengiltä metsässä."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:164
 msgid ""
 "My lord, you must hasten back to Westin to prepare a defense against them.  "
 "I will command the defense of the border forts."
 msgstr ""
+"Herrani, sinun tulee kiirehtiä takaisin Westiniin valmistelemaan "
+"puolustusta. Minä voin johtaa puolustusta rajan linnoituksissa."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:168
 msgid ""
 "I too will make my stand here - I owe you my life and must atone for my "
 "crimes.  Together we will hold off the foul undead as long as we can."
 msgstr ""
+"Myös minä jään tänne. Olen sinulle henkeni velkaa ja minun täytyy hyvittää "
+"rikokseni. Yhdessä pidättelemme epäkuolleiden armeijaa niin kauan kuin "
+"pystymme."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:172
 msgid ""
 "I will ride to Westin and summon the council.  We shall return as soon as we "
 "can in force and relieve you."
 msgstr ""
+"Ratsastan Westiniin ja kutsun neuvoston kokoon. Palaamme apujoukkojen kera "
+"niin pian kuin mahdollista."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:176
 msgid ""
 "Make no promises you know you cannot keep.  Organize the defense of Westin, "
 "and if you survive, remember those who fell here."
 msgstr ""
+"Älä tee lupauksia, jollet voi pitää niitä. Järjestä Westiniin puolustus ja "
+"jos selviät hengissä, muista niitä jotka kaatuivat täällä."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:236
 msgid ""
 "Your name will be sounded in the roll of heroes, and you will be avenged.  "
 "Thank you, my friend."
 msgstr ""
+"Sinut tullaan muistamaan sankarina ja kostamme puolestasi. Kiitän sinua, "
+"ystäväni."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:249
 msgid ""
@@ -1627,90 +2031,117 @@ msgid ""
 "that you and Deoran are, but we will hold our lines staunchly, until the "
 "bitter end."
 msgstr ""
+"Me olemme komennossasi, Sir Gerrick. Miehemme eivät ole niin hyviä sotilaita "
+"kun sinä ja Deoran, mutta pysyvät rintamalla kanssanne katkeraan loppuun "
+"asti."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:255
+#, fuzzy
 msgid "Hold the line as long as possible"
 msgstr ""
+"Pidä asemat mahdollisimman pitkään: pidä Sir Gerrick elossa niin kauan kuin "
+"mahdollista"
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:262
+#, fuzzy
 msgid ""
 "There is no way to win this scenario, and no way to lose.  Hold off the "
 "undead hordes as long as you can.  Keep Sir Gerrick and Urza Afalas alive as "
 "long as you can.  Every turn that passes strengthens the defenses of Westin."
 msgstr ""
+"Tätä taistelua ei voi voittaa eikä hävitä. Pidättele epäkuolleiden joukkoja "
+"niin pitkään kuin mahdollista. Pidä Sir Gerrick elossa niin kauan kuin voit. "
+"Jokainen lisävuoro vahvistaa Westinin puolustusta."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:293
 msgid "Now I will never see my home again...  Hold back the undead, Gerrick!"
-msgstr ""
+msgstr "Nyt en enää koskaan näe kotiani... Pidättele epäkuolleita, Gerrick!"
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:305
 msgid ""
 "I only hope we have bought Deoran enough time to secure Westin for the "
 "onslaught!"
 msgstr ""
+"Toivon vain, että olemme ostaneet riittävästi aikaa Deoranille turvata "
+"Westinin hyökkäykseltä!"
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:309
 msgid ""
 "We will crush Westin as we have crushed you!  No one shall stand between us "
 "and our home."
 msgstr ""
+"Murskaamme Westinin kuten murskasimme sinut! Kukaan ei pysty vastustamaan "
+"minua.."
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:5
 msgid "Vengeance"
-msgstr ""
+msgstr "Kosto"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:145
 msgid ""
 "Commander!  I took your message to the council, and your deeds have pleased "
 "them.  Are the undead finally gone from our lands?"
 msgstr ""
+"Komentaja! Vein viestisi neuvostolle ja tekosi ovat miellyttäneet heitä. "
+"Onko epäkuolleet vihdoin ajettu mailtamme?"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:149
 msgid ""
 "The undead are gone!  Perhaps now there will be peace for a time in Westin.  "
 "You have our thanks Lady Ethiliel."
 msgstr ""
+"Epäkuolleet ovat mennyttä! Ehkäpä nyt koettaa rauhan aika Westinissä. Olemme "
+"kiitollisia sinulle Lady Ethiliel."
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:153
 msgid ""
 "Though the undead are vanquished, they have brought us much sorrow.  Deoran, "
 "your people have restored their honor.  Let us part in peace."
 msgstr ""
+"Vaikka epäkuolleet ovat hävitetty, he ehtivät aiheuttaa paljon harmia. "
+"Deoran, väkesi on palauttanut ihmisten kunnian. Erotkaamme rauhassa."
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:157
 msgid ""
 "Indeed.  Neither the bandits nor the undead will trouble us for some time.  "
 "We will tend our wounds and you yours."
 msgstr ""
+"Tosiaan.  Ei ryövärit eivätkä epäkuolleet aiheuta meille ongelmia vähään "
+"aikaan.Me menemme hoitamaan haavojamme ja te omianne."
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:161
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:170
 msgid "Help!"
-msgstr ""
+msgstr "Apua!"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:186
 msgid "You must pay for killing Mebrin!"
-msgstr ""
+msgstr "Saat maksaa Mebrinin kuolemasta!"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:190
 msgid "I am just a farmer!  What did I do?!"
-msgstr ""
+msgstr "Olen vain maanviljelijä! Mitä minä olen tehnyt?!"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:194
 msgid ""
 "What did you do?!  Your people kidnapped and murdered our greatest leader!  "
 "And now you will pay!"
 msgstr ""
+"Mitä te teitte?! Väkesi sieppasi ja murhasi meidän suurimman johtajamme! Ja "
+"nyt te saatte maksaa siitä!"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:215
 msgid "He just killed that innocent farmer!  We must stop him!"
 msgstr ""
+"Hän tappoi juuri syyttömän maanviljelijän! Meidän täytyy pysäyttää hänet!"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:219
 msgid ""
 "Stop Ithelden!  I have traveled with these humans, and they are not the ones "
 "who harmed Mebrin.  They are our allies!"
 msgstr ""
+"Seis Ithelden! Olen matkannut näiden ihmisten kanssa, eivätkä he "
+"vahingoittaneet Mebriniä. He ovat liittolaisiamme!."
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:223
 msgid ""
@@ -1718,109 +2149,129 @@ msgid ""
 "the earth; now they have felled our leader!  We cannot brook such deeds!  "
 "You will die with them!"
 msgstr ""
+"Sinäkin Ethiliel? Kaikki ihmiset ovat samanlaisia! He kaatoivat puut "
+"viljelläkseen maata; nyt he ovat kaataneet johtajamme! Emme voi sallia "
+"tällaisia tekoja! Sinä kuolet heidän mukana!"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:240
 msgid "Keep the enraged elves from sacking Westin"
-msgstr ""
+msgstr "Estä raivostuneita haltioita tuhoamasta Westiniä"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:296
 msgid "For every one of us you strike down, more will rise!"
-msgstr ""
+msgstr "Jokaista kohti, jonka meistä tapat, tulee vielä enemmän!"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:307
 msgid ""
 "We won't be able to hold them off for long.  I should go reason with them!  "
 "They won't dare attack me."
 msgstr ""
+"Emme pysty pidättelemään heitä kauaa. Minun täytyy mennä sovittelemaan "
+"heidän kanssaan! He eivät uskaltaisi hyökätä kimppuuni."
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:311
 msgid ""
 "Are you sure that the elves will greet you any more kindly than they have "
 "met us?  After all, you did lead us into the forests..."
 msgstr ""
+"Oletko varma, että haltiat suhtautuvat sinuun yhtään sen ystävällisemmin "
+"kuin meihin? Loppujen lopuksi, sinä johdatit meidät metsään..."
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:315
 msgid "Perhaps not, but it is your only hope.  I must reach Ithelden!"
-msgstr ""
+msgstr "Ehkä ei, mutta se on ainoa toivosi. Minun pitää tavoittaa Ithelden!"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:323
+#, fuzzy
 msgid "Bring Ethiliel to a parlay with Ithelden"
-msgstr ""
+msgstr "Vie Ethiliel Suuren puun luo keskustelemaan Itheldenin kanssa"
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:5
 msgid "The Tides of War"
-msgstr ""
+msgstr "Viimeinen taistelu"
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:185
 msgid ""
 "Look!  The undead army has broken through Sir Gerrick's lines! Alas, he is "
 "lost!"
 msgstr ""
+"Katso! Epäkuolleiden armeija on murtautunut Sir Gerrickin rintaman läpi! "
+"Olemme menettäneet hänet!"
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:191
 msgid ""
 "But in the narrow window his valiant stand gave us, we have roused the whole "
 "provincial guard!"
 msgstr ""
+"Mutta hänen urhoollisen vastarintansa turvin olemme koonneet koko "
+"maalaisvartion Westiniin!"
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:195
 msgid "Indeed Lord, we are ready to defend our homes!"
-msgstr ""
+msgstr "Totisesti herrani, olemme valmiita puolustamaan kotejamme!"
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:202
 msgid ""
 "And I have summoned the great council of Westin!  They will battle with all "
 "their might!"
 msgstr ""
+"Ja minä olen kutsunut koolle Westinin suuren neuvoston. He taistelemaan "
+"täydessä mahdissaan!"
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:209
 msgid ""
 "Hylas, we have heard your summons, and we shall send these dark foes back to "
 "the abyss that spawned them!"
 msgstr ""
+"Hylas, me olemme vastanneet kutsuusi! Lähetämme nämä paholaiset takaisin "
+"sinne mistä ne tulivat!"
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:213
 msgid "Your aid will be most welcome."
-msgstr ""
+msgstr "Apunne on enemmän kuin tervetullutta."
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:219
 msgid ""
 "We have rallied all the forces that we will be able to!  Let us not make Sir "
 "Gerrick's sacrifice a vain one.  For Wesnoth!"
 msgstr ""
+"Olemme haalineet kokoon kaikki mahdolliset joukot! Älköön Sir Gerrickin "
+"uhraus menkö hukkaan. Wesnothin puolesta!"
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:225
 msgid "Crush the undead"
-msgstr ""
+msgstr "Murskaa epäkuolleet"
 
 #: The_South_Guard/scenarios/9b.Bandit_Epilogue.cfg:5
 #: The_South_Guard/scenarios/9a.Elf_Epilogue.cfg:5
 msgid "Epilogue"
-msgstr ""
+msgstr "Loppusanat"
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:10
 msgid "I have failed my kingdom and duty..."
-msgstr ""
+msgstr "Olen pettänyt kuningaskuntani ja tehtäväni..."
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:24
 msgid "Taste cold steel!"
-msgstr ""
+msgstr "Maista kylmää terästä!"
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:35
 msgid "I have lost all helping the humans...  Now they will surely perish!"
 msgstr ""
+"Olen menettänyt kaiken auttaessani ihmisiä... nyt he ovat takuulla hukassa!"
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:49
 msgid "I have given my all for my kingdom!  Avenge me, Deoran!"
 msgstr ""
+"Olen antanut kaikkeni kuningaskuntani puolesta! Kosta kuolemani, Deoran!"
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:63
 msgid "Now I will never see Westin free again..."
-msgstr ""
+msgstr "Nyt en koskaan enää näe Westiniä vapaana..."
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:77
 msgid "Far from home I fall - but not in vain!  Guard our people Deoran!"
-msgstr ""
+msgstr "Kuolen kaukana kotoa, mutten turhaan! Pidä huolta kansastamme, Deoran!"
 
 #: The_South_Guard/scenarios/sg_help.cfg:30
 msgid ""
@@ -1829,6 +2280,10 @@ msgid ""
 "fear into their hearts!  Like all of the bandit units, they are much more "
 "dangerous at night."
 msgstr ""
+"Korstot ovat rosvoarmeijoiden yleisimpiä yksiköitä. Heillä ei ole pitkän "
+"kantaman hyökkäystä, eikä kunnon puolustusta jousiampujiasi vastaan. Myös "
+"Deoranin keihäs saattaa heidät pelon valtaan! Kuten kaikki rosvoyksiköt, he "
+"ovat paljon vaarallisempia öisin."
 
 #: The_South_Guard/scenarios/sg_help.cfg:57
 msgid ""
@@ -1838,6 +2293,12 @@ msgid ""
 "they'll do double damage!  Like thugs, thieves are vulnerable to the ranged "
 "attacks of your archers."
 msgstr ""
+"Varkaat ovat hienostuneempia kuin korstot. He yrittävät piirittää yksikkösi "
+"ja puukottaa näitä selkään. Älä koskaan anna varkaalle mahdollisuutta "
+"hyökätä yksikkösi kimppuun sellaisesta suunnasta, jonka täsmälleen toisella "
+"puolella on jo vihollisyksikkö - varkaat tekevät silloin kaksinkertaiset "
+"vauriot! Kuten korstot, myös varkaat ovat ongelmissa jousiampujiesi nuolia "
+"vastaan."
 
 #: The_South_Guard/scenarios/sg_help.cfg:84
 msgid ""
@@ -1846,6 +2307,10 @@ msgid ""
 "strong, however, and your spearmen will make quick work of them during the "
 "day."
 msgstr ""
+"Pikkurosvot ovat rosvoarmeijoiden tiedustelijoita. He ovat nopeita, ja "
+"heillä on sekä lähi- että pitkän kantaman hyökkäykset. Kumpikaan hyökkäys ei "
+"ole kuitenkaan erityisen vahva, ja keihäsmiehesi tekevätkin heistä nopeasti "
+"selvää päivänvalossa."
 
 #: The_South_Guard/scenarios/sg_help.cfg:111
 msgid ""
@@ -1855,6 +2320,11 @@ msgid ""
 "deadly against them.  Like the rest of the bandits, they are more dangerous "
 "at night!"
 msgstr ""
+"Luurangot ovat peräisin kuolleista sotureista, jotka on nostatettu uudestaan "
+"pahalla taikuudella. Niihin eivät juurikaan tehoa pistoaseet eivätkä nuolet. "
+"Lyömäaseet kuten miekat vahingoittavat niitä, ja Ministeri Hylasin pyhä "
+"hyökkäys on kuolettava niitä vastaan. Kuten muu rosvoarmeija, ne ovat "
+"vaarallisimpia yöllä!"
 
 #: The_South_Guard/scenarios/sg_help.cfg:138
 msgid ""
@@ -1862,10 +2332,13 @@ msgid ""
 "magic.  They are slow and weak - any of your units is more than a match for "
 "them.  They are only dangerous in packs..."
 msgstr ""
+"Kävelevät ruumiit ovat tapettujen soturien ruumiita, joissa vaikuttaa paha "
+"taikuus. Ne ovat hitaita ja heikkoja, ja häviävät taistelussa mille tahansa "
+"yksiköllesi. Ne ovat ainoastaan vaarallisia suurissa laumoissa..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:7
 msgid "Summer"
-msgstr ""
+msgstr "Kesä"
 
 #: The_South_Guard/scenarios/sg_story.cfg:11
 msgid ""
@@ -1874,6 +2347,10 @@ msgid ""
 "The elves in the western forest kept to their own affairs.  In the "
 "prosperous south men build new towns and farms."
 msgstr ""
+"Haldric VII:n hallituskaudella Wesnoth oli turvattu. Konrad I oli ajanut "
+"örkit takaisin pohjoiseen. Itäiset linnakkeet olivat hiljaisia, ja niissä "
+"oli väkeä tuskin ollenkaan. Läntisen metsän haltiat hoitivat omat asiansa. "
+"Rikkaassa etelässä ihmiset rakensivat uusia kaupunkeja ja maatiloja."
 
 #: The_South_Guard/scenarios/sg_story.cfg:14
 msgid ""
@@ -1882,24 +2359,34 @@ msgid ""
 "bandit.  The orcs were far to the north.  Nothing lived in the forest beyond "
 "the river."
 msgstr ""
+"Kahdeksan vuoden ajan Etelän vartiosto oli puolustanut maatiloja ja koteja "
+"Westinin kaupungin ympärillä. Heidän vakavimpia vihollisiaan olivat "
+"satunnaisesti esiintyneet maantierosvot. Örkit olivat kaukana pohjoisessa, "
+"ja metsässä joen takana ei asunut kukaan."
 
 #: The_South_Guard/scenarios/sg_story.cfg:17
 msgid ""
 "In the spring of the ninth year the reports from Sir Loris stopped "
 "suddenly.  King Haldric decided to send someone to investigate."
 msgstr ""
+"Yhdeksännen vuoden keväällä Sir Lorisilta tulleet viestit lakkasivat äkkiä. "
+"Kuningas Haldric päätti lähettää jonkun tutkimaan."
 
 #: The_South_Guard/scenarios/sg_story.cfg:20
 msgid ""
 "A young commander, Deoran, son of one of the horsemen who rode with Konrad "
 "I, was summoned by Haldric.  The king had a mission for him."
 msgstr ""
+"Nuori komentaja Deoran, jonka isä oli ollut ratsumies Konrad I:n joukoissa, "
+"kutsuttiin Haldricin puheille. Kuningas antoi hänelle tehtävän."
 
 #: The_South_Guard/scenarios/sg_story.cfg:23
 msgid ""
 "He was ordered to ride south towards Westin, the capital of the province of "
 "Kerlath and replace Sir Loris as commander of the South Guard..."
 msgstr ""
+"Hänen piti ratsastaa etelään kohti Westiniä, Kerlathin provinssin "
+"pääkaupunkia, ja ottaa haltuunsa Etelän vartioston johtajuus Sir Lorisilta..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:43
 msgid ""
@@ -1908,6 +2395,10 @@ msgid ""
 "terrorizing the peasants and villagers.  Nowhere did they find soldiers of "
 "the South Guard."
 msgstr ""
+"Kukistettuaan Urza Mathinin Deoran lähetti heti tiedustelijoita ympäri "
+"maaseutua. Palatessaan tiedustelijat kertoivat rosvolaumoista, jotka "
+"ryöstelivät ympäriinsä sekä aiheuttivat kauhua talonpojissa  ja "
+"kyläläisissä. Etelän vartioston sotilaita ei löytynyt mistään."
 
 #: The_South_Guard/scenarios/sg_story.cfg:46
 msgid ""
@@ -1916,16 +2407,22 @@ msgid ""
 "fighting age.  With this small force he rode in haste to Westin, capital of "
 "the province."
 msgstr ""
+"Deoran päätti ryhtyä toimeen ja tuhota rosvot. Hän keräsi kokoon Sir "
+"Gerrickin miehet ja kaikki taistelukuntoiset miehet, jotka kylistä löysi. "
+"Tämä pieni joukko mukanaan hän ratsasti pian Westiniin, provinssin "
+"pääkaupunkiin."
 
 #: The_South_Guard/scenarios/sg_story.cfg:49
 msgid ""
 "Deoran and his men approached the old city, and they saw that their fears "
 "were well founded..."
 msgstr ""
+"Deoran miehineen saapui vanhaan kaupunkiin, ja he näkivät heti että heidän "
+"pelkoonsa oli hyvät perusteet..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:74
 msgid "Fall"
-msgstr ""
+msgstr "Syksy"
 
 #: The_South_Guard/scenarios/sg_story.cfg:78
 msgid ""
@@ -1933,6 +2430,9 @@ msgid ""
 "and hills, further than any man had wandered, deep into the land of the "
 "elves."
 msgstr ""
+"Etelän vartioston miehet seurasivat Ethilieliä monen päivän ajan läpi "
+"metsien ja yli vuorten, pidemmälle kuin kukaan ihminen oli koskaan "
+"vaeltanut, syvälle haltioiden maan siimekseen."
 
 #: The_South_Guard/scenarios/sg_story.cfg:82
 msgid ""
@@ -1940,16 +2440,24 @@ msgid ""
 "Guard was holding the bandits in check, but their spears and bows were no "
 "match for the axes wielded by the fleshless."
 msgstr ""
+"Kaukana heidän takanaan Westinissä ongelmat alkoivat kasautua. "
+"Uudelleenmuodostettu Etelän vartiosto piti kyllä rosvot kurissa, mutta "
+"heidän keihäänsä ja jousensa eivät pystyneet luurankoihin, joiden kirveet "
+"taas tekivät suurta tuhoa vartioston joukoissa."
 
 #: The_South_Guard/scenarios/sg_story.cfg:86
 msgid "Surely but slowly they gave ground.  Time was running out..."
 msgstr ""
+"Hitaasti mutta varmasti vartiosto joutui luopumaan asemistaan. Aika oli "
+"loppumassa..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:95
 msgid ""
 "Ethiliel led the men of the South Guard into the southern forest.  Shadows "
 "soon covered their paths day and night, and a thick fog filled the air."
 msgstr ""
+"Ethiliel johti Etelän vartioston miehet eteläiseen metsään. Pian heidän "
+"tietään peittivät varjot päivin öin, ja ilma oli täynnä paksua sumua."
 
 #: The_South_Guard/scenarios/sg_story.cfg:99
 msgid ""
@@ -1957,16 +2465,22 @@ msgid ""
 "before.  From time to time they saw ghostly images of elven villages and "
 "halls in the deep woods, but as they advanced, even those became scarce."
 msgstr ""
+"Viikkojen ajan he kävelivät nimettömiä polkuja, joilla kukaan ihminen ei "
+"ollut aiemmin astellut. Välillä he näkivät kuin haamukuvia kaukaisia "
+"haltiakyliä etäisessä metsässä, mutta heidän edetessään nämäkin vähenivät."
 
 #: The_South_Guard/scenarios/sg_story.cfg:103
 msgid ""
 "Finally Ethiliel told the men to halt and pitch camp - they had reached the "
 "great river, beyond which no elf or man would willingly pass."
 msgstr ""
+"Lopulta Ethiliel määräsi miehensä pysähtymään ja leiriytymään - he olivat "
+"saapuneet suurelle joelle, jota kukaan haltia tai ihminen ei suostu "
+"vapaaehtoisesti ylittämään."
 
 #: The_South_Guard/scenarios/sg_story.cfg:113
 msgid "Winter"
-msgstr ""
+msgstr "Talvi"
 
 #: The_South_Guard/scenarios/sg_story.cfg:117
 msgid ""
@@ -1974,12 +2488,17 @@ msgid ""
 "southern forest.  A great hush fell over the land, and an ominous gloom "
 "followed close behind the men of the South Guard."
 msgstr ""
+"Lumi satoi jo kun Deoran, Sir Gerrick ja Urza Afalas ilmestyivät suuresta "
+"eteläisestä metsästä. Aina heidän tullessaan kyliin ihmiset piiloutuivat ja "
+"sulkivat ovensa, ja outo hiljaisuus laskeutui."
 
 #: The_South_Guard/scenarios/sg_story.cfg:121
 msgid ""
 "Finally they arrived at the southern border of Wesnoth and the forts that "
 "guarded it.  The undead were close on their heels..."
 msgstr ""
+"Viimein he saapuivat Wesnothin etelärajalle ja viimeisiin "
+"vartiolinnakkeisiin. Epäkuolleet olivat aivan heidän kannoillaan..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:130
 msgid ""
@@ -1988,14 +2507,23 @@ msgid ""
 "of the South Guard pressed their elven foes back from the walls.  Suddenly "
 "the field was covered in a great fog..."
 msgstr ""
+"Lopulta aurinko nousi esiin taivaanrannan takaa ja sen säteet saivat uutta "
+"intoa Westinin väsyneisiin puolustajiin. Suuri karjaisu kohosi monesta "
+"suusta yli koko laakson, kun Etelän vartiosto työnsi vihollisensa jälleen "
+"takaisin muureilta. Yhtäkkiä taistelukenttä täyttyi tiheästä sumusta..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:134
+#, fuzzy
 msgid ""
 "When the fog broke, Ethiliel stood alone, facing the wall of spears.  Bathed "
 "in light, she spoke the the men of Wesnoth, saying, 'Stop!  Enough blood has "
 "been spilled before the walls of this city!  The injury you menfolk have "
 "done to the elves is great, but your service also was worthy.'"
 msgstr ""
+"Sumun hälvettyä Ethiliel seisoi yksin keihäsmuuria vastassa. Valoa loistaen "
+"hän puhui Wesnothin ihmisille, ja sanoi: 'Seis! Kylliksi on jo vuodatettu "
+"verta tämän kaupungin muurien edessä! Pahasti olette te ihmiset meille "
+"tehneet, mutta olette myös meitä auttaneet.'"
 
 #: The_South_Guard/scenarios/sg_story.cfg:138
 msgid ""
@@ -2004,6 +2532,9 @@ msgid ""
 "send ambassadors or councilors to Westin, and no more will men wander the "
 "green woods."
 msgstr ""
+"Nämä ovat rauhanehtomme: Haltioiden metsästä tai kukkuloilta löytämämme "
+"ihmiset saavat maistaa kuolemaa. Haltiat eivät enää lähetä lähettiläitä tai "
+"neuvonantajia Westiniin, eivätkä ihmiset enää vaella vihreissä metsissä."
 
 #: The_South_Guard/scenarios/sg_story.cfg:142
 msgid ""
@@ -2012,6 +2543,10 @@ msgid ""
 "the growing farms and villages.  Finally, as the snow melted and the roads "
 "bore their burdens again, a messenger came from king Haldric."
 msgstr ""
+"Ja niin raskas rauha solmittiin ihmisten ja haltiain välille. Monien "
+"viikkojen ajan Etelän vartiosto partioi haltiametsien rajoilla ja vartioi "
+"kasvavia maatiloja ja kyliä. Lopulta, lumen sulaessa ja teiden tullessa taas "
+"käyttökuntoon, kuningas Haldricilta tuli viesti."
 
 #: The_South_Guard/scenarios/sg_story.cfg:146
 msgid ""
@@ -2019,6 +2554,9 @@ msgid ""
 "King Haldric himself.  Storm clouds were brewing throughout the realm, and "
 "every commander would be needed to weather the storm..."
 msgstr ""
+"Sir Deoran, Wesnothin ritari, kutsuttiin Weldyniin neuvottelemaan itsensä "
+"kuningas Haldricin kanssa. Myrskypilviä kasaantui koko valtakunnassa, ja "
+"jokaista komentajaa tarvittaisiin myrskyn pysäyttämiseen..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:156
 msgid ""
@@ -2028,6 +2566,11 @@ msgid ""
 "men were filled with new life.  A great cry they let out as they stormed the "
 "encampment of Mal M'brin himself, and threw down the mighty wizard."
 msgstr ""
+"Keihäät tanassa ja kasvot irvessä Wesnothin miehet aloittivat viimeisen "
+"rynnäkkönsä epäkuolleita vastaan. He murtautuivat kuolleen lihan läpi ja "
+"murskasivat kuivuneita luita. Auringonsäde pilkisti esiin pilvien lomasta. "
+"Tuuli hiljeni ja ihmiset täyttyivät uudesta innosta. Sotahuutoa karjuen he "
+"valtasivat itsensä Mal M'brinin leirin, ja kukistivat suuren velhon."
 
 #: The_South_Guard/scenarios/sg_story.cfg:161
 msgid ""
@@ -2036,6 +2579,9 @@ msgid ""
 "overshadowed the rustling of the north wind in the distance.  The undead "
 "were gone."
 msgstr ""
+"Väsyneenä Deoran pudotti keihäänsä maahan. Ihmiset hänen ympärillään "
+"nostivat hitaasti kypäränsä päästään. Tuulen ääntä ei enää kuulunut "
+"haavoittuneiden huudoilta. Epäkuolleet olivat poissa."
 
 #: The_South_Guard/scenarios/sg_story.cfg:166
 msgid ""
@@ -2044,6 +2590,10 @@ msgid ""
 "homes for the fallen in the fields north of the city, and to the roll of "
 "fallen heroes many names were added."
 msgstr ""
+"Monien päivien ajan Westinin parantajat työskentelivät kuumeisesti "
+"pelastaakseen mahdollisimman monta urheaa sotilasta. Silti monta uutta "
+"kumpua kohosi kaatuneiden uusiksi kodeiksi kaupungin pohjoispuolella, ja "
+"kaatuneiden sankarien kirjoihin lisättiin taas monta nimeä."
 
 #: The_South_Guard/scenarios/sg_story.cfg:171
 msgid ""
@@ -2052,6 +2602,10 @@ msgid ""
 "sword and shield.  Those he placed atop Gerrick's mound, and they were a "
 "symbol of loyalty and valor to all the people of Westin."
 msgstr ""
+"Kaikkein korkein kumpu kuului Sir Gerrickille. Taistelun jälkeen Deoran "
+"johti joukkonsa eteläisille rajalinnakkeille, ja löysi sieltä Sir Gerrickin "
+"miekan ja kilven. Nämä hän asetti tämän kummun päälle, ja ne olivat merkkinä "
+"urheudesta ja uskollisuudesta koko Westinin kansalle."
 
 #: The_South_Guard/scenarios/sg_story.cfg:175
 msgid ""
@@ -2060,6 +2614,10 @@ msgid ""
 "last stand at the border posts passed into song, and was not forgotten for "
 "many lives of men."
 msgstr ""
+"Gerrickin nimi lisättiin kaatuneiden sankarien kirjan alkuun, ja se luettiin "
+"ääneen ennen jokaista Suuren neuvoston istunnon alkua. Hänen urhoollisesta "
+"viimeisestä taistelustaan sepitettiin lauluja, ja se muistettiin monien "
+"sukupolvien ajan tämänkin jälkeen."
 
 #: The_South_Guard/scenarios/sg_story.cfg:180
 msgid ""
@@ -2068,6 +2626,10 @@ msgid ""
 "melted and the roads bore their burdens again, a messenger came from king "
 "Haldric."
 msgstr ""
+"Deoran vietti päivänsä vieraillen haavoittuneiden luona ja ohjaten kaupungin "
+"muurien ja vallihautojen jälleenrakennustyötä. Lopulta, kun lumi suli ja "
+"tiet tulivat jälleen käyttöön, kuningas Haldricin sanansaattaja saapui "
+"kaupunkiin."
 
 #: The_South_Guard/scenarios/sg_story.cfg:185
 msgid ""
@@ -2075,31 +2637,34 @@ msgid ""
 "King Haldric himself.  Storm clouds were brewing throughout the realm, and "
 "every commander would be needed to weather the onslaught..."
 msgstr ""
+"Sir Deoran, Wesnothin ritari, kutsuttiin Weldyniin neuvonpitoon itsensä "
+"kuningas Haldricin kanssa. Myrskypilvet kasaantuivat koko maan ylle, ja "
+"jokaista komentajaa tarvittaisiin hyökkäystä torjumaan..."
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:11
 msgid "Place barbs on your weapon. (slow)"
-msgstr ""
+msgstr "Valitsen sahalaitaisen miekan. (hidastava hyökkäys)"
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:29
 msgid "Wield a mace. (impact)"
-msgstr ""
+msgstr "Käytän mieluummin nuijaa. (murskaava isku)"
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:53
 msgid "Add a swing to your attack."
-msgstr ""
+msgstr "Otan mieluimmin nopean aseen. (ylimääräinen isku)"
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:115
 msgid "intelligent"
-msgstr ""
+msgstr "älykäs"
 
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:126
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:139
 msgid "loyal"
-msgstr ""
+msgstr "uskollinen"
 
 #: The_South_Guard/units/1.Junior_Commander.cfg:4
 msgid "Junior Commander"
-msgstr ""
+msgstr "Nuorempi komentaja"
 
 #: The_South_Guard/units/1.Junior_Commander.cfg:35
 msgid ""
@@ -2107,20 +2672,23 @@ msgid ""
 "and swords and told to become leaders of men.  Those whose mettle was strong "
 "enough for the task became the commanders of the armies of Wesnoth."
 msgstr ""
+"Vain 17-18 -vuotiaina, nämä ritarien ja linnanherrojen pojat saivat ratsut "
+"alleen, miekat käteensä ja joukot johdettaviksi. Kaikkein parhaimmista tuli "
+"Wesnothin armeijoiden komentajia."
 
 #: The_South_Guard/units/1.Junior_Commander.cfg:38
 msgid "spear"
-msgstr ""
+msgstr "keihäs"
 
 #: The_South_Guard/units/1.Junior_Commander.cfg:39
 #: The_South_Guard/units/2.Horseman_Commander.cfg:42
 #: The_South_Guard/units/3.Dismounted_Commander.cfg:31
 msgid "pierce"
-msgstr ""
+msgstr "pisto"
 
 #: The_South_Guard/units/2.Horseman_Commander.cfg:4
 msgid "Horseman Commander"
-msgstr ""
+msgstr "Ratsuväen komentaja"
 
 #: The_South_Guard/units/2.Horseman_Commander.cfg:38
 msgid ""
@@ -2128,11 +2696,14 @@ msgid ""
 "ride and fight, but to lead.  They command the garrisons that keep peace in "
 "the provinces of Wesnoth."
 msgstr ""
+"Rajavartioston päälliköt, ratsuväenkomentajat, osaavat ratsastaa ja "
+"taistella, mutta myös johtaa. He komentavat varuskuntia, jotka on komennettu "
+"Wesnothin eri osiin ylläpitämään rauhaa."
 
 #: The_South_Guard/units/2.Horseman_Commander.cfg:41
 #: The_South_Guard/units/3.Dismounted_Commander.cfg:30
 msgid "lance"
-msgstr ""
+msgstr "peitsi"
 
 #: The_South_Guard/units/2.Horseman_Commander.cfg:43
 msgid "charge"
@@ -2140,11 +2711,11 @@ msgstr ""
 
 #: The_South_Guard/units/3.Dismounted_Commander.cfg:4
 msgid "Dismounted Commander"
-msgstr ""
+msgstr "Hevosen selästä pudonnut komentaja"
 
 #: The_South_Guard/units/3.Dismounted_Commander.cfg:27
 msgid "Deoran was still a dangerous commander, even without his horse."
-msgstr ""
+msgstr "Deoran oli yhä vaarallinen komentaja, myös ilman hevostaan."
 
 #: The_South_Guard/units/3.Dismounted_Commander.cfg:32
 msgid "firststrike"
@@ -2152,7 +2723,7 @@ msgstr ""
 
 #: The_South_Guard/units/4.Infantry_Commander.cfg:4
 msgid "Infantry Lieutenant"
-msgstr ""
+msgstr "Jalkaväen luutnantti"
 
 #: The_South_Guard/units/4.Infantry_Commander.cfg:28
 msgid ""
@@ -2161,6 +2732,10 @@ msgid ""
 "veteran soldiers, not nobility, and all have shown leadership and courage in "
 "battle."
 msgstr ""
+"Wesnothin jalkaväen luutnantit ovat vastuussa rajakaupunkien ja -kylien "
+"puolustuksesta ja varuskunnista. He ovat kokeneita sotilaita, eivät "
+"ylimystöä, ja kaikki ovat osoittaneet suurta johtamiskykyä ja urheutta "
+"taistelukentällä."
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:33
 #: The_South_Guard/units/4.Infantry_Commander.cfg:31
@@ -2170,26 +2745,28 @@ msgstr ""
 #: The_South_Guard/units/5.Assault_Commander.cfg:34
 #: The_South_Guard/units/4.Infantry_Commander.cfg:32
 msgid "blade"
-msgstr ""
+msgstr "viilto"
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:4
 msgid "Infantry Commander"
-msgstr ""
+msgstr "Jalkaväenkomentaja"
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:30
 msgid ""
 "Veteran commanders have faced battle many times and led their men with "
 "steady hands and calm determination."
 msgstr ""
+"Kokeneet komentajat ovat käyneet taistoon monia kertoja ja johtaneet "
+"miehiään vakaalla kädellä ja rauhallisella päättäväisyydellä."
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:52
 msgid "shield"
-msgstr ""
+msgstr "kilpi"
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:53
 #: The_South_Guard/units/Invisible.cfg:15
 msgid "impact"
-msgstr ""
+msgstr "murskaus"
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:57
 msgid "slow"
@@ -2234,8 +2811,331 @@ msgstr ""
 
 #: The_South_Guard/units/Invisible.cfg:4
 msgid "Invisible"
-msgstr ""
+msgstr "näkymätön"
 
 #: The_South_Guard/units/Invisible.cfg:14
 msgid "dummy"
-msgstr ""
+msgstr "puunukke"
+
+#~ msgid "(normal)"
+#~ msgstr "(normaali)"
+
+#~ msgid "Deoran"
+#~ msgstr "Deoran"
+
+#~ msgid "Urza Mathin"
+#~ msgstr "Urza Mathin"
+
+#~ msgid "The River Fort"
+#~ msgstr "Jokilinnoitus"
+
+#~ msgid "Moreth"
+#~ msgstr "Moreth"
+
+#~ msgid ""
+#~ "Whenever you see a target that looks like this, you should move your "
+#~ "leader (or whatever unit the dialogue just suggested) onto the hex that "
+#~ "contains it."
+#~ msgstr ""
+#~ "Silloin kun näet tämän näköisen kohteen, sinun tulee siirtää joukkojesi "
+#~ "johtaja (tai mikä tahansa yksikkö jonka dialogi kertoo) siihen ruutuun."
+
+#~ msgid "Sir Gerrick"
+#~ msgstr "Sir Gerrick"
+
+#~ msgid ""
+#~ "All of your units are 'lawful'.  This means that they receive a combat "
+#~ "bonus during the day, and a penalty at night.  Urza Mathin's units are "
+#~ "all 'chaotic', which means that they receive a bonus at night and a "
+#~ "penalty during the day.  You will be much more effective fighting during "
+#~ "the day."
+#~ msgstr ""
+#~ "Kaikki yksikkösi ovat 'lainkuuliaisia'. Se tarkoittaa sitä, että he ovat "
+#~ "parhaimmillaan taistellessaan päivällä ja heikoimmillaan yöllä. Urza "
+#~ "Mathinin joukot ovat 'kaoottisia', eli he ovat parhaimmillaan yöllä ja "
+#~ "heikoimmillaan päivällä. Joukkosi ovat paljon tehokkaampia taistellessaan "
+#~ "heitä vastaan päivällä."
+
+#~ msgid ""
+#~ "During the day your units will deal more damage, and Urza Mathin's less.  "
+#~ "The more of his troops you can defeat during the day, the better!"
+#~ msgstr ""
+#~ "Päiväsaikaan joukkosi aiheuttavat enemmän tuhoa ja Urza Mathin joukot "
+#~ "vähemmän. Mitä enemmän joukkosi ehtivät hyökkäämään päiväsaikaan, sen "
+#~ "parempi!"
+
+#~ msgid "Myssh"
+#~ msgstr "Myssh"
+
+#~ msgid "Ylla"
+#~ msgstr "Ylla"
+
+#~ msgid "Aleron"
+#~ msgstr "Aleron"
+
+#~ msgid "Glasar"
+#~ msgstr "Glasar"
+
+#~ msgid "Urza Nalmath"
+#~ msgstr "Urza Nalmath"
+
+#~ msgid "Criminal"
+#~ msgstr "Rikollinen"
+
+#~ msgid "Minister Hylas"
+#~ msgstr "Ministeri Hylas"
+
+#~ msgid "Ufes"
+#~ msgstr "Ufes"
+
+#~ msgid "Joran"
+#~ msgstr "Joran"
+
+#~ msgid "Makees"
+#~ msgstr "Makees"
+
+#~ msgid "Tyborg"
+#~ msgstr "Tyborg"
+
+#~ msgid "Urza Fastik"
+#~ msgstr "Urza Fastik"
+
+#~ msgid "Jarek"
+#~ msgstr "Jarek"
+
+#~ msgid "Ethiliel's Guard"
+#~ msgstr "Ethilielin vartija"
+
+#~ msgid "Ethiliel"
+#~ msgstr "Ethiliel"
+
+#~ msgid "Mal A'kai"
+#~ msgstr "Mal A'kai"
+
+#~ msgid "Jera Ilras"
+#~ msgstr "Jera Ilras"
+
+#~ msgid "Elvish Bodyguard"
+#~ msgstr "Haltiahenkivartija"
+
+#~ msgid "Urza Afalas"
+#~ msgstr "Urza Afalas"
+
+#~ msgid "Gruth"
+#~ msgstr "Gruth"
+
+#~ msgid "Mal M'brin"
+#~ msgstr "Mal M'brin"
+
+#~ msgid "The master of the undead is defeated!"
+#~ msgstr "Epäkuolleiden herra on kukistettu!"
+
+#~ msgid ""
+#~ "No. I fear there is still much evil present.  That must have been merely "
+#~ "a servant of a darker master."
+#~ msgstr ""
+#~ "Ei. Pelkään, että paljon pahaa on vielä läsnä. Tämä oli varmaankin vain "
+#~ "suuremman pahan palvelija."
+
+#~ msgid ""
+#~ "Now I pay for my crimes. But how many others will also suffer for them?"
+#~ msgstr ""
+#~ "Nyt maksan synneistäni. Mutta kuinka moni muu saakaan vielä kärsiä niistä?"
+
+#~ msgid "Beast of the Lake"
+#~ msgstr "Järven peto"
+
+#~ msgid "Ithelden"
+#~ msgstr "Ithelden"
+
+#~ msgid "S'ssth"
+#~ msgstr "S'ssth"
+
+#~ msgid "Scorpion"
+#~ msgstr "Skorpioni"
+
+#~ msgid "Wild Ogre"
+#~ msgstr "Jätti"
+
+#~ msgid "Naga"
+#~ msgstr "Naga"
+
+#~ msgid "Abdur"
+#~ msgstr "Abdur"
+
+#~ msgid "Naga Queen"
+#~ msgstr "Nagakuningatar"
+
+#~ msgid "Kallen"
+#~ msgstr "Kallen"
+
+#~ msgid "Ho! Me see elves. Elves tasty? Me take elves to eat."
+#~ msgstr ""
+#~ "Hoh! Minä näke haltiat. Haltiat hyvä ruoka? Minä vie haltiat mukana, "
+#~ "sitten minä syö."
+
+#~ msgid "Err, Mr. Ogre, we are not very tasty."
+#~ msgstr "Öö, herra Jätti, emme ole erityisen maukkaita."
+
+#~ msgid "Oh. Me only want tasty food.  Go away."
+#~ msgstr "Äh. Minä halua vain hyvä ruoka. Sinä mene pois."
+
+#~ msgid "Wait! Me not belive you. Me eat you!"
+#~ msgstr "Minä ei uskoa. Minä syö sinut."
+
+#~ msgid "Bad food! It hurt me. Arrrrggghhhh!!"
+#~ msgstr "Paha ruoka! Sattuu. Arrrrggghhhh!!"
+
+#~ msgid ""
+#~ "Travelers in this desolate land!  I seek that dark Sage who is rumored to "
+#~ "dwell in these lands.  Surely you have come from him?"
+#~ msgstr ""
+#~ "Tämän aution maan matkalaiset! Etsin Mustaa oraakkelia, jonka huhutaan "
+#~ "asuvan näillämain. Varmaankin tulette hänen luotaan?"
+
+#~ msgid ""
+#~ "Indeed! I just left my comrades, who were preparing to kill the vile "
+#~ "Necromancer."
+#~ msgstr ""
+#~ "Todellakin! Toverini lähtivät juuri sinne tappamaan tuon inhottavan "
+#~ "kuolleistaherättäjän."
+
+#~ msgid "Unworthy fools! I'll kill you for this sacrilege!"
+#~ msgstr "Arvottomat moukat! Tuo pyhänhäväistys maksaa henkenne!"
+
+#~ msgid "Fssth"
+#~ msgstr "Fssth"
+
+#~ msgid "Urien"
+#~ msgstr "Urien"
+
+#~ msgid "Jesa"
+#~ msgstr "Jesa"
+
+#~ msgid "Plinth"
+#~ msgstr "Plinth"
+
+#~ msgid "Mal M'Brin"
+#~ msgstr "Mal M'Brin"
+
+#~ msgid "Grée"
+#~ msgstr "Grée"
+
+#~ msgid ""
+#~ "Petty mortals, bow down and cower in fear before me, and I may make your "
+#~ "passing swift. For I was once one such as you, full of doubt and "
+#~ "weakness, but now I have passed over and become more than you could "
+#~ "possibly imagine."
+#~ msgstr ""
+#~ "Kurjat kuolevaiset, kumartakaa ja osoittakaa pelkoa edessäni, niin "
+#~ "kuolemanne ovat oleva nopeat. Minäkin olin kerran kuten te, täynnä "
+#~ "epäilyä ja heikkoutta, mutta nyt olen ylittänyt rajan ja minusta on "
+#~ "tullut enemmän, kuin osaatte kuvitellakaan."
+
+#~ msgid ""
+#~ "For all your vaunted powers you are a mockery to all that you once "
+#~ "believed in. I will destroy you and your works if it's the last thing I "
+#~ "do!"
+#~ msgstr ""
+#~ "Vaikka olisit kuinka voimakas, olet häpeäksi kaikelle, johon aiemmin "
+#~ "uskoit. Tuhoan sinut ja aikaansaannoksesi, vaikka se olisi viimeinen "
+#~ "tekoni maan päällä!"
+
+#~ msgid ""
+#~ "Foolish boy! you do not understand. Come closer and I will show you my "
+#~ "power.  I will end your brief, miserable life. Thereafter, it may amuse "
+#~ "me to cause your bones to serve me."
+#~ msgstr ""
+#~ "Typerä poika, et ymmärrä. Tule lähemmäksi ja saat nähdä voimani. Lopetan "
+#~ "lyhyen ja kurjan elämäsi. Sen jälkeen minulla on suurta hupia, kun "
+#~ "nostatan luusi minua palvelemaan."
+
+#~ msgid ""
+#~ "Nooo! This cannot be. The elves I once lead have destroyed me. After all "
+#~ "I have sacrificed, I still die...."
+#~ msgstr ""
+#~ "Eeii! Näin ei voi olla. Haltiat, joita kerran johdin, ovat tuhonneet "
+#~ "minut. Kaiken sen jälkeen, mitä olen uhrannut, kuolen silti...."
+
+#~ msgid "Mal Tera"
+#~ msgstr "Mal Tera"
+
+#~ msgid "Sgt. Finde"
+#~ msgstr "Kersantti Finde"
+
+#~ msgid "Maelvas"
+#~ msgstr "Maelvas"
+
+#~ msgid "Orome"
+#~ msgstr "Orome"
+
+#~ msgid "Mitche"
+#~ msgstr "Mitche"
+
+#~ msgid "Lt. Illan"
+#~ msgstr "Luutnantti Illan"
+
+#~ msgid "Rheban"
+#~ msgstr "Rheban"
+
+#~ msgid "Jul"
+#~ msgstr "Jul"
+
+#~ msgid "Lt. Meris"
+#~ msgstr "Luutnantti Meris"
+
+#~ msgid "Findlas"
+#~ msgstr "Findlas"
+
+#~ msgid "Chumet"
+#~ msgstr "Chumet"
+
+#~ msgid "Neras"
+#~ msgstr "Neras"
+
+#~ msgid "Eera"
+#~ msgstr "Eera"
+
+#~ msgid "Death Guard"
+#~ msgstr "Kuolleiden vartija"
+
+#~ msgid "Westin Guard"
+#~ msgstr "Westinin vartija"
+
+#~ msgid "Poor Farmer"
+#~ msgstr "Köyhä viljelijä"
+
+#~ msgid "Disciple of Mebrin"
+#~ msgstr "Mebrinin opetuslapsi"
+
+#~ msgid "Mal Feras"
+#~ msgstr "Mal Feras"
+
+#~ msgid "Provincial Guard"
+#~ msgstr "Maalaisvartio"
+
+#~ msgid "Lt. Nilaf"
+#~ msgstr "Luutnantti Nilaf"
+
+#~ msgid ""
+#~ "Since i was a boy, Gerrick was my leader, and there was no one braver. "
+#~ "Today we shall defend our homes, and avenge him!"
+#~ msgstr ""
+#~ "Gerrick on ollut johtajani siitä lähtien, kun olin pikkupoika. Ei ollut "
+#~ "ketään häntä urheampaa. Tänään puolustamme kotejamme ja kostamme hänen "
+#~ "kuolemansa."
+
+#~ msgid "Minister Mefel"
+#~ msgstr "Ministeri Mefel"
+
+#~ msgid "Minister Romand"
+#~ msgstr "Ministeri Romand"
+
+#~ msgid "Minister Alanafel"
+#~ msgstr "Ministeri Alanafel"
+
+#~ msgid "glaive"
+#~ msgstr "kalpa"
+
+#~ msgid "Councilor"
+#~ msgstr "Neuvoston jäsen"
