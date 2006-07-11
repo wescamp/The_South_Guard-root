@@ -1,11 +1,13 @@
 # Translators:
-#  Christoph Berg <Christoph.Berg@kpm-sport.de>, 2005, 2006
+# Christoph Berg <Christoph.Berg@kpm-sport.de>, 2005, 2006
+# 
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.2\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-22 18:06+0200\n"
-"PO-Revision-Date: 2006-05-19 17:06+0100\n"
+"PO-Revision-Date: 2006-07-11 14:26+0200\n"
 "Last-Translator: Nils Kneuper <crazy-ivanovic  AT gmx  D O  T net>\n"
 "Language-Team: irc://irc.freenode.net/#wesnoth-de\n"
 "MIME-Version: 1.0\n"
@@ -32,8 +34,9 @@ msgstr ""
 "haben."
 
 #: The_South_Guard.cfg:17
+#, fuzzy
 msgid "; for Wesnoth "
-msgstr ""
+msgstr ";·für Wesnoth"
 
 #: The_South_Guard.cfg:20
 msgid "Soldier"
@@ -2773,7 +2776,7 @@ msgstr "Lanze"
 
 #: The_South_Guard/units/2.Horseman_Commander.cfg:43
 msgid "charge"
-msgstr ""
+msgstr "Ansturm"
 
 #: The_South_Guard/units/3.Dismounted_Commander.cfg:4
 msgid "Dismounted Commander"
@@ -2785,7 +2788,7 @@ msgstr "Selbst ohne Reittier ist Deoran ein gefürchteter Anführer."
 
 #: The_South_Guard/units/3.Dismounted_Commander.cfg:32
 msgid "firststrike"
-msgstr ""
+msgstr "Erstschlag"
 
 #: The_South_Guard/units/4.Infantry_Commander.cfg:4
 msgid "Infantry Lieutenant"
@@ -2808,7 +2811,7 @@ msgstr ""
 #: The_South_Guard/units/5.Assault_Commander.cfg:33
 #: The_South_Guard/units/4.Infantry_Commander.cfg:31
 msgid "sword"
-msgstr ""
+msgstr "Schwert"
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:34
 #: The_South_Guard/units/4.Infantry_Commander.cfg:32
@@ -2839,22 +2842,26 @@ msgstr "Wucht"
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:57
 msgid "slow"
-msgstr ""
+msgstr "Verlangsamen"
 
 #: The_South_Guard/units/Chocobone.cfg:5
 msgid "Chocobone"
-msgstr ""
+msgstr "Knochenreiter"
 
 #: The_South_Guard/units/Chocobone.cfg:35
+#, fuzzy
 msgid ""
 "Riding the bones of ostrich-like large birds once used as mounts by a lost "
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
+"Reitend die Knochen von Ostrichen-große Vögel einst zum Reiten benutzt von "
+"einer verlohrenen Zivilisatzion, können sich die skeletaren Knochenreiter "
+"schneller bewegen als die meinsen Einheiten der Kavalerie."
 
 #: The_South_Guard/units/Demilich.cfg:5
 msgid "Demilich"
-msgstr ""
+msgstr "Halblich"
 
 #: The_South_Guard/units/Demilich.cfg:29
 msgid ""
@@ -2866,7 +2873,7 @@ msgstr ""
 
 #: The_South_Guard/units/Dread_Lich.cfg:4
 msgid "Dread Lich"
-msgstr ""
+msgstr "Schreckenslich"
 
 #: The_South_Guard/units/Dread_Lich.cfg:29
 msgid ""
