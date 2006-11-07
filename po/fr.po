@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-22 18:06+0200\n"
-"PO-Revision-Date: 2005-12-22 16:06+0100\n"
-"Last-Translator: Geoffroy Douillié <geoffroy.douillié@etca.alcatel.be>\n"
+"PO-Revision-Date: 2006-11-07 12:54+0830\n"
+"Last-Translator: viorc\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +16,6 @@ msgid "The South Guard"
 msgstr "La Garde Sud."
 
 #: The_South_Guard.cfg:17
-#, fuzzy
 msgid ""
 "Deoran, son of one of Konrad's knights and a warrior in his own right, was "
 "dispatched to take command of the South Guard...  Note:  This campaign is "
@@ -26,8 +25,7 @@ msgstr ""
 "Déoran, fils d'un des chevaliers de Konrad et combattant à part entière, a "
 "été envoyé prendre le commandement de la garde sud... Note : cette campagne "
 "est destinée aux joueurs inexpérimentés. le niveau de difficulté \"Civil\" "
-"est adapté aux joueurs qui n'ont jamais joué à une campagne. (version 1.0.1; "
-"pour Wesnoth 1.0.0+)"
+"est adapté aux joueurs qui n'ont jamais joué à une campagne. (version "
 
 #: The_South_Guard.cfg:17
 msgid "; for Wesnoth "
@@ -107,7 +105,7 @@ msgid ""
 msgstr ""
 "Déoran se retrouve rapidement à tester ses capacités à commander. Loris, le "
 "commandant précédent, a gaspillé son temps en jeux et en diversions, et les "
-"bandits ont envahis le pays..."
+"bandits ont envahi le pays..."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:155
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:226
@@ -120,7 +118,7 @@ msgstr "résistant"
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:473
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:507
 msgid "loyal,"
-msgstr "loyal,"
+msgstr "fidèle,"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:165
 msgid ""
@@ -145,7 +143,7 @@ msgid ""
 "the towns and killing the villagers.  What are you doing here?  Sir Gerrick "
 "and I were the last of the South Guard..."
 msgstr ""
-"Pardon Monsieur ! J'ai pensé que vous étiez un des banditss qui ont mis les "
+"Pardon Monsieur ! J'ai pensé que vous étiez un des bandits qui ont mis les "
 "villes à sac et tué les villageois. Que faites-vous ici ? Sir Gerrick et moi "
 "sommes les derniers de la garde sud..."
 
@@ -155,9 +153,9 @@ msgid ""
 "We must arm the villagers and drive off the bandits before they can do any "
 "more harm!"
 msgstr ""
-"J'ai été envoyé pour prendre le commandement de la garde sud et remmettre "
-"les choses en ordre. Nous devons armer les villageois et repousser les "
-"bandits avant qu'ils ne fassent plus de dégats ! "
+"J'ai été envoyé pour prendre le commandement de la garde sud et remettre les "
+"choses en ordre. Nous devons armer les villageois et repousser les bandits "
+"avant qu'ils ne fassent plus de dégats ! "
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:185
 msgid ""
@@ -177,7 +175,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:226
 msgid "valiant,"
-msgstr "courageux"
+msgstr "courageux,"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:235
 msgid ""
@@ -185,8 +183,8 @@ msgid ""
 "have overrun the whole countryside, and are killing and pillaging without "
 "pity.  You must raise the South Guard again and drive off the bandits!"
 msgstr ""
-"Mon seigneur, c'est une bonne chose que le roi Haldricc vous ait envoyé dans "
-"nos pays ! Les bandits ont envahis la campagne. Ils tuent et pillent sans "
+"Mon seigneur, c'est une bonne chose que le roi Haldric vous ait envoyé dans "
+"nos pays ! Les bandits ont envahi la campagne. Ils tuent et pillent sans "
 "pitié. Vous devez remonter la garde sud et chasser ces bandits !"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:240
@@ -221,8 +219,8 @@ msgid ""
 "Units that have a hero marker are vital to your campaign.  If any of them "
 "die, you will lose the scenario, so guard them carefully!"
 msgstr ""
-"Les unités marquée comme héro sont vitale à votre campagne. Si l'une d'entre "
-"elles meurt, vous perdrez le scénario. Utiliseez les donc prudement."
+"Les unités marquée comme héros sont vitales à votre campagne. Si l'une "
+"d'entre elles meurt, vous perdrez le scénario. Utilisez les donc prudement."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:265
 msgid "Defeat Urza Mathin"
@@ -245,8 +243,7 @@ msgstr "Mort de Sir Gerrick"
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:286
 msgid "Head back to the encampment where you started and recruit some troops!"
 msgstr ""
-"Retournez au campement duquel vous avez démarré et recrutez quelques "
-"unnités !"
+"Retournez au campement duquel vous avez démarré et recrutez quelques unités !"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:317
 msgid ""
@@ -255,7 +252,7 @@ msgid ""
 msgstr ""
 "Tant que vous êtes dans le campement, vous pouvez recruter plus d'unités. "
 "Montez une petite force à utiliser contre les bandits que Urza Mathin "
-"recrutte."
+"recrute."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:322
 msgid ""
@@ -263,7 +260,7 @@ msgid ""
 "that lack a ranged attack, like Thieves and Thugs.  They also carry a sword "
 "and can defend themselves against melee attacks."
 msgstr ""
-"Les archers ont une attaque à distance puissante, et sont tres éfficasses "
+"Les archers ont une attaque à distance puissante, et sont tres efficaces "
 "contre les unités qui n'ont pas d'attaque à distance comme les voleurs et "
 "les voyoux. Ils ont aussi une petite épée et peuvent se défendre contre les "
 "attaques de mélée."
@@ -274,9 +271,9 @@ msgid ""
 "They also have a weak ranged attack.  They form the backbone of the South "
 "Guard."
 msgstr ""
-"Les lancier une une attaque de mélée puissante, et sont éfficasses contre la "
-"plupart des unités. Ils sont aussi une faible attaqua à distance. ILs "
-"forment la colonne vertébrale de la garde sud."
+"Les lanciers ont une attaque de mélée puissante, et sont efficaces contre la "
+"plupart des unités. Ils ont aussi une faible attaque à distance. Ils forment "
+"la colonne vertébrale de la garde sud."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:331
 msgid ""
@@ -310,7 +307,7 @@ msgid ""
 "drive these bandits from your land if you allow us to live here in peace."
 msgstr ""
 "Vos gens ont été les alliés de notre seigneur, le roi Typhon. Nous vous "
-"aiderons à chasser ce bandits si vous nous laissez vivre ici en paix."
+"aiderons à chasser ces bandits si vous nous laissez vivre ici en paix."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:439
 msgid ""
@@ -326,7 +323,7 @@ msgid ""
 "them in rivers and swamps and they will fight well!  Put them on dry land "
 "and they're in trouble!"
 msgstr ""
-"Maintenant, vous pouvez recruter des chasseurs Mermens. Les Mermens sont des "
+"Maintenant, vous pouvez recruter des chasseurs Ondins. Les Ondins sont des "
 "créatures aquatiques. Laissez les dans les rivières et les marais et ils se "
 "battront bien ! Placez-les sur un sol sec et ils auront des ennuis !"
 
@@ -345,7 +342,7 @@ msgid ""
 "Stay!  It's me, Aleron!  The villagers hid me from the bandits when the town "
 "was overrun.  They have kept me safe, though I was gravely wounded..."
 msgstr ""
-"Laisse ! C'est moi, aleron ! Les villageois m'ont caché des bandits quand la "
+"Laisse ! C'est moi, Aleron ! Les villageois m'ont caché des bandits quand la "
 "ville a été envahie. Ils ont veillés sur moi, alors que j'étais gravement "
 "blessé..."
 
@@ -355,7 +352,7 @@ msgid ""
 "return after the battle!"
 msgstr ""
 "Je suis heureux de te retrouver en vie Aleron, nous avons craint le pire "
-"quand tu n'es pas revenu apres la bataille !"
+"quand tu n'es pas revenu après la bataille !"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:494
 msgid ""
@@ -363,7 +360,7 @@ msgid ""
 "healed and I am ready for battle!"
 msgstr ""
 "Punissons ces bandits pour leurs crimes et leurs meurtres ! Mes blessures "
-"sont guérie et je suis prêt pour la bagarre."
+"sont guérie et je suis prêt pour la bataille."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:498
 msgid ""
@@ -371,7 +368,7 @@ msgid ""
 "His arrows are deadly to enemies without a ranged attack."
 msgstr ""
 "Aleron est un archer qui utilise un arc long. Il est plus fort et mieux "
-"entraîné que les archer réguliers. Ses flèches sont mortelles pour les "
+"entraîné que les archers réguliers. Ses flèches sont mortelles pour les "
 "ennemis sans attaque à distance."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:507
@@ -401,7 +398,7 @@ msgid ""
 "around us at night."
 msgstr ""
 "Tenez les villages derrières nos lignes et empéchez l'ennemis de ne se "
-"glisse autours de nous la nuit."
+"glisse autour de nous la nuit."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:543
 msgid "This village is ours to plunder!  Begone or I will kill you all!"
@@ -412,7 +409,7 @@ msgid ""
 "Do you not see the banners flying in the wind?  The South Guard fights "
 "again.  Flee while you can, or you will meet swift death on our shafts!"
 msgstr ""
-"Vous n'avez pas vu la bannière voler dans le vant ? La Garde sud combat à "
+"Vous n'avez pas vu la bannière voler dans le vent ? La Garde sud combat à "
 "nouveau. Filez tant que vous pouvez, ou vous rencontrez une mort rapide sur "
 "nos lances ! "
 
@@ -432,12 +429,12 @@ msgid ""
 "ranged attack.  Surround him, and kill him!"
 msgstr ""
 "Souvenez-vous, votre tâche est de battre Urza Mathin. Il devrait être votre "
-"cible principale. Les archer seront spécialement éfficasse contre lui, parce "
+"cible principale. Les archer seront spécialement efficaces contre lui, parce "
 "qu'il n'a pas d'attaque à distance. Encerclez-le et tuez-le !"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:625
 msgid "My days of pillage and plunder are over!  My brothers will avenge me..."
-msgstr "Mes jours de pillages sont finis ! Mes frères me vangeront..."
+msgstr "Mes jours de pillage sont finis ! Mes frères me vangeront..."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:630
 msgid ""
@@ -455,7 +452,7 @@ msgid ""
 msgstr ""
 "Non. J'ai été envoyé par le roi Haldric pour prendre le commandement de la "
 "garde sud. Le roi n'a pas reçu de nouvelle depuis plusieurs semaines. Depuis "
-"combien de temps vous et vos hommes ont-ils été enfermés dans la citadel ?"
+"combien de temps vous et vos hommes ont-ils été enfermés dans la citadelle ?"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:640
 msgid ""
@@ -464,19 +461,19 @@ msgid ""
 "my men.  We held the citadel, and held out vain hope for reinforcement from "
 "Westin.  We never thought we would see men sent from the King!"
 msgstr ""
-"A peu pres deux mois. Sir Loris a pris une de nos patrouille sur la route de "
-"Westin et n'est jamais revenu; et la nuit suivante, les bandits ont frappés "
-"et huits de mes hommes sont morts. Nous avons tenus la citadelle, et nous "
-"avons gardé un espoir vain de renforts de Westin. Nous n'avons jamais pensé "
-"voir des hommes envoyés par le roi ! "
+"A peu près deux mois. Sir Loris a pris une de nos patrouilles sur la route "
+"de Westin et n'est jamais revenu; et la nuit suivante, les bandits ont "
+"frappé et huit de mes hommes sont morts. Nous avons tenus la citadelle, et "
+"nous avons gardé un espoir vain de renforts de Westin. Nous n'avons jamais "
+"pensé voir des hommes envoyés par le roi ! "
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:645
 msgid ""
 "This is worse than even my darkest fears.  We must ride to Westin at once, "
 "and hope that Sir Loris is there and well!  Come men!  Ride for Westin!"
 msgstr ""
-"C'est plus que dans mes craintes les plus sombres. Nous devons aller à "
-"Westin sans attendre et espérer que Sir Loris est là-bas et qu'il va bien ! "
+"C'est pire que mes craintes les plus sombres. Nous devons aller à Westin "
+"sans attendre et espérer que Sir Loris est là-bas et qu'il va bien ! "
 "Allons ! En route pour Westin !"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:5
@@ -511,8 +508,8 @@ msgid ""
 "then my brother Mathin is surely dead...  They will pay for his death, just "
 "as Sir Loris paid for his pride!"
 msgstr ""
-"Quoi ?! Si il y a des soldats de Wesnoth qui viennet des forts au nord, mon "
-"frère Mathiin est surement mort... Ils pairont pour cette mort, tout comme "
+"Quoi ?! Si il y a des soldats de Wesnoth qui viennent des forts au nord, mon "
+"frère Mathiin est sûrement mort... Ils paieront pour cette mort, tout comme "
 "Loris a payé pour sa fièreté"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:172
@@ -521,7 +518,7 @@ msgstr "Prenez la Citadelle de Westin avant que dix tours ne soient passés."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:218
 msgid "intellegent"
-msgstr "intellegent"
+msgstr "intelligent"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:227
 msgid "More bandits?!  They'll feel the deadly bite of my lance!"
@@ -532,7 +529,7 @@ msgid ""
 "Peace! for I am no enemy.  I am Minister Hylas, advisor to Sir Loris!  You "
 "came just in time!  We couldn't have held them off another day..."
 msgstr ""
-"Paix ! Je ne suis pas un ennemis. Je suis le ministre Hylas, consultant de "
+"Paix ! Je ne suis pas un ennemi. Je suis le ministre Hylas, consultant de "
 "Sir Loris ! Vous êtes arrivés à temps ! Nous n'aurions pas pu les retenir un "
 "jour de plus... "
 
@@ -544,8 +541,8 @@ msgid ""
 msgstr ""
 "En effet, notre arrivée fut juste à temps. Mais où est Sir Loris ? Où est la "
 "guarnison de la cité ? J'ai été envoyé par Haldric pour le retrouver et "
-"prendre le commandement de la Guiarde sud, car le roi n'a pas reçu de "
-"nouvelles de Westin en deux mois."
+"prendre le commandement de la Guarde Sud, car le roi n'a pas reçu de "
+"nouvelle de Westin en deux mois."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:239
 msgid ""
@@ -566,9 +563,9 @@ msgid ""
 "though, there are more pressing matters.  Rise men of Wesnoth!  We must "
 "drive these bandits from our city!"
 msgstr ""
-"Cela me fait de la peinde d'apprendre sa mort, Quelles que soient les folles "
+"Cela me fait de la peine d'apprendre sa mort, Quelles que soient les folles "
 "pensées qu'il ait pu avoir. Maintenant, il y a des choses plus pressantes. "
-"Debouts, hommes de Wesnoth ! Nous devons chasser ces bandits hors de notre "
+"Debout, hommes de Wesnoth ! Nous devons chasser ces bandits hors de notre "
 "cité !"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:253
@@ -602,7 +599,7 @@ msgid ""
 "and you will be defeated!"
 msgstr ""
 "Vous devez déplacer Déoran ici avant la fin du prochain tour, ou Westin "
-"tombera et vous serez battut !"
+"tombera et vous serez battu !"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:351
 msgid "We're too late!  They're burning the city..."
@@ -614,7 +611,7 @@ msgid ""
 "return to Haldric and tell him of our loss..."
 msgstr ""
 "Westin est tombée ! C'est un problème que je ne peux plus résoudre seul. Je "
-"dois retourner aupres d'Haldric et lui parler de notre défaite..."
+"dois retourner auprès d'Haldric et lui parler de notre défaite..."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:381
 msgid ""
@@ -647,8 +644,9 @@ msgid ""
 "Not only will Minister Hylas's Holy attack melt undead bones, but he can "
 "also heal wounded units near him."
 msgstr ""
-"Non seulement les attaques sacrée du ministre Hylas pulvériseront les os des "
-"morts-vivants, mais il peut aussi soigner les unités blessées pres de lui."
+"Non seulement les attaques sacrées du ministre Hylas pulvériseront les os "
+"des morts-vivants, mais il peut aussi soigner les unités blessées près de "
+"lui."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:423
 msgid "Leave nothing standing!  Burn their villages down and kill them all!"
@@ -668,7 +666,7 @@ msgstr "Mon frère est mort sans vangeance ! Qu'avons-nous fait ?"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:460
 msgid "Commander, how can a bandit have summoned undead?"
-msgstr "Commandant, comment un bandit a-t'il pu évoquer des morts-vivants ?"
+msgstr "Commandant, comment un bandit a-t'il pu invoquer des morts-vivants ?"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:465
 msgid ""
@@ -677,7 +675,7 @@ msgid ""
 "new threat to Wesnoth."
 msgstr ""
 "Juste avant que les raids des bandits ne commencent, un ambassadeur des "
-"elfes de la foret à l'ouest est venu voir SIr Loris. Il demanda qu'un "
+"elfes de la forêt à l'ouest est venu voir Sir Loris. Il demanda qu'un "
 "chevalier soit envoyé pour discuter d'une nouvelle menace pour Wesnoth."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:470
@@ -690,7 +688,7 @@ msgid ""
 "Perhaps they know the origin of these dead warriors we now face."
 msgstr ""
 "Non. Il suspectait un coup fourré et ne leur a fait aucune réponse. Peut-"
-"être qu'ils connaissent l'origine de ces guerriers mort que nous devons "
+"être qu'ils connaissent l'origine de ces guerriers morts que nous devons "
 "combattre."
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:480
@@ -699,9 +697,10 @@ msgid ""
 "protect the city from foes so dark as these.  I shall go meet the elves and "
 "see if they can be of any aid!"
 msgstr ""
-"Mes hommes ont été entrînés pour combattre les vivants. Je ne sais pas si "
-"nous pourront protéger la cité contre des ennemis aussi noirs que ceux-ci. "
-"Je vais aller rencontrer les elfes et voir si il peuvent être d'aucune aide !"
+"Mes hommes ont été entraînés pour combattre les vivants. Je ne sais pas si "
+"nous pourrons protéger la cité contre des ennemis aussi noirs que ceux-ci. "
+"Je vais aller rencontrer les elfes et voir si ils peuvent être d'aucune "
+"aide !"
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:485
 msgid ""
@@ -709,15 +708,15 @@ msgid ""
 "skill may be of some use against the dark ones."
 msgstr ""
 "Je vous accompagnerez, mon seigneur. J'ai étudié les arts de la magie sacrée "
-"et mes compétances peuvent être utiles contre les sombres. "
+"et mes compétences peuvent être utiles contre les sombres. "
 
 #: The_South_Guard/scenarios/2.Proven_By_The_Sword.cfg:490
 msgid ""
 "Deoran sent a rider to request mounted reinforcements and set out at once "
 "towards the western forest..."
 msgstr ""
-"Déoran enoya un cavalier chercher des renforts montés et partis "
-"immédiatement pour la foret occidentale..."
+"Déoran envoya un cavalier chercher des renforts montés et partit "
+"immédiatement pour la forêt occidentale..."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:5
 msgid "A Desperate Errand"
@@ -725,14 +724,14 @@ msgstr "Une Course Désespérée."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:104
 msgid "Deoran and his men came to the border of the elvish woods..."
-msgstr "Déoran et ses hommes allère à l'orée des bois des elfes..."
+msgstr "Déoran et ses hommes allèrent à l'orée des bois des elfes..."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:109
 msgid ""
 "Look, men!  There is the forest of the Elves to the north west.  Let us "
 "hasten across the river and the hills."
 msgstr ""
-"Regardez, messieurs ! Voici la foret des elfes du nord-ouest. Hâtons-nous à "
+"Regardez, messieurs ! Voici la forêt des elfes du nord-ouest. Hâtons-nous à "
 "travers la rivière et les collines."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:114
@@ -741,7 +740,7 @@ msgid ""
 "year.  We do not know how they will recieve us.  Sir Loris thought that it "
 "was some trick of theirs trying to bring him into the woods..."
 msgstr ""
-"Soyez prudent, Déoran. AUcun homme n'a mis le pied dans les forets des elfes "
+"Soyez prudent, Déoran. Aucun homme n'a mis le pied dans les forêts des elfes "
 "depuis de nombreuses années. Nous ne savons pas comment ils vont nous "
 "accueillir. Sir Loris pensait que c'était une de leur ruses que d'essayer de "
 "l'attirer dans les bois..."
@@ -762,7 +761,7 @@ msgid ""
 "accursed elves!  Deoran will die before he reaches the western forest!"
 msgstr ""
 "J'ai perdu deux frères à cause de Déoran. Je ne vais pas le laisser "
-"atteindre les maudits elfes ! Déoran mourra avant d'avoir atteint les forets "
+"atteindre les maudits elfes ! Déoran mourra avant d'avoir atteint les forêts "
 "occidentales ! "
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:130
@@ -803,7 +802,7 @@ msgid ""
 "guard him!"
 msgstr ""
 "Maintenant, vous pouvez recruter des cavaliers. Ils sont rapides et mortels "
-"dans les plaines, mais faibles dans les forets et les collines. Ils savent "
+"dans les plaines, mais faibles dans les forêts et les collines. Ils savent "
 "rester avec Déoran, donc utilisez les pour le protéger ! "
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:208
@@ -844,7 +843,7 @@ msgid ""
 "your life is forfeit."
 msgstr ""
 "Parle avec prudence, car la punition pour passer dans nos pays est la mort, "
-"et ta vie est en forfait."
+"et ta vie est en balance."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:278
 msgid "Deora..."
@@ -857,7 +856,7 @@ msgid ""
 "you to the hallowed citadel of Elrath?"
 msgstr ""
 "Attends un moment. Cet homme porte les couleurs de Wesnoth, et Kalenz nous a "
-"dit que le peuple de Wesnoth n'est pas l'ennemis des elfes. Dis nous, qu'est-"
+"dit que le peuple de Wesnoth n'est pas l'ennemi des elfes. Dis nous, qu'est-"
 "ce qui t'amène dans la citadelle sacrée d'Elrath ?"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:288
@@ -867,9 +866,9 @@ msgid ""
 "villages.  They are coming across the river from the great forest to the "
 "south of our lands, where no man has yet traveled."
 msgstr ""
-"Madame, nous venons chez les elfes pour obetenir leurs conseils. Les bandits "
+"Madame, nous venons chez les elfes pour obtenir leurs conseils. Les bandits "
 "et les criminels ont évoqués la mort pour les aider à piller nos fermes et "
-"nos villages. Ils traversent la rivière à partir de la grande foret au sud "
+"nos villages. Ils traversent la rivière à partir de la grande forêt au sud "
 "de nos pays, la où aucun homme n'a jamais voyagé."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:293
@@ -877,8 +876,8 @@ msgid ""
 "The elves know of the great southern forest, and have walked its paths many "
 "times.  What would you do, Deoran?"
 msgstr ""
-"Les elfes conaissent la grande foret du sud, ils ont parcourus ses chemins "
-"de nombreuses fois. Que feriez-vous, Déoran ?"
+"Les elfes conaissent la grande forêt du sud, ils ont parcouru ses chemins de "
+"nombreuses fois. Que feriez-vous, Déoran ?"
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:298
 msgid ""
@@ -887,8 +886,8 @@ msgid ""
 "long."
 msgstr ""
 "Je mènerais mes hommes au sud de la rivière pour trouver la source de ces "
-"êtres de l'ombre que nous devons détruire. Mais biensûr, nous ne purrons pas "
-"leur résister longtemps."
+"êtres de l'ombre que nous devons détruire. Mais bien sûr, nous ne pourrons "
+"pas leur résister longtemps."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:303
 msgid ""
@@ -899,13 +898,13 @@ msgid ""
 msgstr ""
 "En effet, tu es courageux d'affronter de tels enemis. Mais je crains que, "
 "seul, tu échoues et  tombes. Un seul elfe vit encore qui se souvient des "
-"secrets des morts-vivants. Il les a appris quand Haldric 1e est arrivé sur "
-"nos territoire. Son nom est Mebrin, et il vit, retiré dans les collines près "
-"d'ici. Je vais t'emmener le voir."
+"secrets des morts-vivants. Il les a appris quand Haldric I est arrivé sur "
+"nos territoires. Son nom est Mebrin, et il vit, retiré dans les collines "
+"près d'ici. Je vais t'emmener le voir."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:308
 msgid "My thanks, lady."
-msgstr "Merci, Madamme."
+msgstr "Merci, Madame."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:5
 msgid "Vale of Tears"
@@ -916,8 +915,8 @@ msgid ""
 "We have followed you away from our homes and left them unguarded.  Now, "
 "where can we find this sage who knows the southern forest well?"
 msgstr ""
-"Nous vous avons suivis loin de nos maisons que nous laissons sans gardien. "
-"Maintenant, où pouvons-nous trouver ce sage qui connaît bien la foret du "
+"Nous vous avons suivi loin de nos maisons que nous laissons sans gardien. "
+"Maintenant, où pouvons-nous trouver ce sage qui connaît bien la forêt du "
 "sud ?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:146
@@ -927,17 +926,17 @@ msgid ""
 "The sage you speak of lives in a secluded village between the two lakes."
 msgstr ""
 "Voici le val des arbres fleuris. Nos grands sages viennent vivre ici quand "
-"ils sentent qu'il est temps pour eux de permettre à d'autres de dirigé notre "
-"peuple. Le sage dont vous parlez vit dans un village retiré entre les deux "
-"lacs."
+"ils sentent qu'il est temps pour eux de permettre à d'autres de diriger "
+"notre peuple. Le sage dont vous parlez vit dans un village retiré entre les "
+"deux lacs."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:151
 msgid ""
 "Why, my lady, are there humans camped to the south of us?  Are they friends "
 "of the elves?  I had thought that no humans had set foot in this valley."
 msgstr ""
-"Pourquoi, Madamme, Il y a-t'il des humains qui campent au sud ? Sont-ils des "
-"amis des elfes ? J'aurais juré qu'aucun humain n'avait jamis mis les pieds "
+"Pourquoi, Madame, y a-t'il des humains qui campent au sud ? Sont-ils des "
+"amis des elfes ? J'aurais juré qu'aucun humain n'avait jamais mis les pieds "
 "dans cette valée."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:156
@@ -953,7 +952,7 @@ msgid ""
 "Perhaps they are allied with the bandits who have been sacking out towns!  "
 "They have grown bold to attack the elves!"
 msgstr ""
-"Ce sont peut-être les alliés des bandits qui ont saccagés nos villes ! Ils "
+"Ce sont peut-être les alliés des bandits qui ont saccagé nos villes ! Ils "
 "sont devenus bien audacieux pour s'attaquer aux elfes ! "
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:166
@@ -962,7 +961,7 @@ msgid ""
 "he remembers well Haldric's betrayal of the elves, so if a human sets foot "
 "in his village first, he almost certainly will have nothing to do with us!"
 msgstr ""
-"Détruisez ces intruts, et je réclamerai de l'aide pour vous. Il est ancient, "
+"Détruisez ces intrus, et je réclamerai de l'aide pour vous. Il est ancien, "
 "et il se souvient parfaitement de la traitrise d'Haldric envers les elfes. "
 "Donc, si un humain met le pied dans son village en premier, il n'a "
 "pratiquement aucune chance de nous rencontrer."
@@ -979,19 +978,19 @@ msgid ""
 msgstr ""
 "Et pourtant, comme elle l'a dit, il est notre meilleur espoir pour retirer "
 "cette nouvelle menace de nos contrées. Nous devons le faire. Ethiliel, vous "
-"vous occupez du villager de Mebrin. Nous nous chargeons des intrus."
+"vous occupez du village de Mebrin. Nous nous chargeons des intrus."
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:181
 msgid ""
 "Ha! You're too late.  We've taken what we want from this valley.  Now your "
 "blood and tears will join that of the elves!"
 msgstr ""
-"Ha ! Vous arrivez trop tard/ Nous avons pris ce que nous voulions dans cette "
+"Ha ! Vous arrivez trop tard. Nous avons pris ce que nous voulions dans cette "
 "vallée. Maintenant, votre sang et vos larmes rejoindront ceux des elfes !"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:187
 msgid "Cleanse the Vale of Tears"
-msgstr "Nottoyer le Val des Larmes"
+msgstr "Nettoyer le Val des Larmes"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:191
 msgid "Move Ethiliel to Mebrin's village"
@@ -1020,14 +1019,14 @@ msgid ""
 "should we do?"
 msgstr ""
 "Nous devons venir à bout de ces morts-vivants si nous voulons atteindre le "
-"village de Mebrin ! QUe devons-nous faire ?"
+"village de Mebrin ! Que devons-nous faire ?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:237
 msgid ""
 "For now, I can slow them down.  Where are the elves who used to live in this "
 "valley?  They should come to our aid!"
 msgstr ""
-"Pour le moment, je peut les ralentir. Où sont les elfes qui vivaient dans "
+"Pour le moment, je peux les ralentir. Où sont les elfes qui vivaient dans "
 "cette vallée ? Ils devraient venir nous aider ! "
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:242
@@ -1047,7 +1046,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:261
 msgid "You shall not die in vain!  My bodyguard will avenge you!"
-msgstr "Tu ne mourra pas en vain ! Mon garde du corps te vangera ! "
+msgstr "Tu ne mourra pas en vain ! Mon garde du corps te vengera ! "
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:266
 msgid "You have a bodyguard?!"
@@ -1104,7 +1103,7 @@ msgid ""
 "What can have happened here?"
 msgstr ""
 "Sa maison est vide... Il y a des traces de pas qui se dirigent vers le "
-"sud... Qu'est-ce qui a pu se passeé ici ? "
+"sud... Qu'est-ce qui a pu se passer ici ? "
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:493
 msgid "Maybe whoever summoned these undead knows where he is?"
@@ -1116,14 +1115,14 @@ msgid ""
 "But the undead would have slain him and made him one of them.  Who then can "
 "have taken him?"
 msgstr ""
-"Il n'y a pas de sang ici, mais pas Mebrin. Quelqu'un doit l'avoir kidnappé. "
-"Mais les morts-vivants l'auraient tué et ensuite ils l'aurait transformé en "
-"l'un d'eux. Qui peut l'avoir pris ?"
+"Il n'y a pas de sang ici, mais pas de Mebrin. Quelqu'un doit l'avoir "
+"kidnappé. Mais les morts-vivants l'auraient tué et ensuite ils l'auraient "
+"transformé en l'un d'eux. Qui peut l'avoir pris ?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:503
 msgid "Maybe the bandits who have been summoning the undead took him?"
 msgstr ""
-"Peut-être que ce sont les bandits qui ont invoqués les morts-vivants qui "
+"Peut-être que ce sont les bandits qui ont invoqué les morts-vivants qui "
 "l'ont pris ?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:508
@@ -1131,15 +1130,15 @@ msgid ""
 "We must follow these footprints into the woods!  Whoever took our greatest "
 "sage must pay!  Nothing will stop the vengeance of the elves!"
 msgstr ""
-"Nous devons suivre ces traces dans les bois ! Quiconque a enlevé notre plus "
-"grand sage doit payer ! Rien n'arrêtera la vangeance des elfes ! "
+"Nous devons suivre ces empreintes dans les bois ! Quiconque a enlevé notre "
+"plus grand sage doit payer ! Rien n'arrêtera la vengeance des elfes ! "
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:513
 msgid ""
 "Well, vengeance or no, if you will lead us into the forest, we will follow "
 "you and battle the undead!"
 msgstr ""
-"Et bien, vangeance ou pas, si vous nous menez dans les forets, nous vous "
+"Et bien, vengeance ou pas, si vous nous menez dans les forêts, nous vous "
 "suivrons et nous combattrons les morts-vivants !"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:5
@@ -1151,7 +1150,7 @@ msgid ""
 "The heat in this forest is oppressive, and this fog cannot be natural.  I "
 "wonder what evil lurks nearby?"
 msgstr ""
-"La chaleur de cette foret est oppressante, et ce brouillard ne peut pas être "
+"La chaleur de cette forêt est oppressante, et ce brouillard ne peut pas être "
 "naturel. Je me demande quel mal nous menace."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:179
@@ -1166,7 +1165,7 @@ msgstr ""
 msgid ""
 "This is quite a change from fighting bandits in the farmland near Westin!"
 msgstr ""
-"C'est tres différent du combat contre des bandits dans les campagnes autours "
+"C'est très différent du combat contre des bandits dans les campagnes autour "
 "de Westin !"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:189
@@ -1183,7 +1182,7 @@ msgid ""
 "and a bow and are deadly with both.  They are quick and can hold their own "
 "agains just about anything."
 msgstr ""
-"Les combattants elfes sont sur leur terrain dans les forets denses. Ils sont "
+"Les combattants elfes sont sur leur terrain dans les forêts denses. Ils sont "
 "une épée et un arc et sont mortels avec les deux armes. Ils sont rapides et "
 "peuvent tenir seul contre presque tout."
 
@@ -1194,7 +1193,7 @@ msgid ""
 "weakening lines and heal wounded soldiers."
 msgstr ""
 "Les shamans elfes ne sont pas fait pour combattre les ennemis en combat "
-"singulier. MAis ils soignent les unités proches à chaque tour. Utilisez les "
+"singulier. Mais ils soignent les unités proches à chaque tour. Utilisez les "
 "pour soutenir vos lignes faiblissantes et pour soigner les soldats blessés."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:205
@@ -1215,12 +1214,12 @@ msgstr ""
 msgid ""
 "I fear no forests.  Let us find this river and whatever enemies lay beyond."
 msgstr ""
-"Je ne crains aucune foret. Trouvons cette rivière et tout ennemis vivant "
+"Je ne crains aucune forêt. Trouvons cette rivière et tout ennemi vivant "
 "derrière."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:220
 msgid "Very well.  We will seek the river and probe its secrets."
-msgstr "Très bien. Nous chercher cette rivière et sonder ses secrets."
+msgstr "Très bien. Nous chercherons cette rivière et sonderons ses secrets."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:226
 msgid "Investigate the areas to the south of the Great River"
@@ -1239,7 +1238,7 @@ msgstr ""
 msgid "If not elves, perhaps some of you menfolk built them?"
 msgstr ""
 "Si ce ne sont pas les elfes, peut-être que ce sont des humains qui les ont "
-"construit ?"
+"construits ?"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:269
 msgid "Indeed.  But not loyal men of Wesnoth, I venture."
@@ -1270,8 +1269,8 @@ msgid ""
 "But have you not seen the undead in these forests?  I know you have seen "
 "them under the control of the many bandit leaders before..."
 msgstr ""
-"Mais, vous n'avez pas vu les morts-vivants dans cette foret ? Je sais que "
-"vous les avez vu sous le contôle de nombreux chefs bandits aavant..."
+"Mais, vous n'avez pas vu les morts-vivants dans cette forêt ? Je sais que "
+"vous les avez vu sous le contôle de nombreux chefs bandits avant..."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:303
 msgid "What of them?"
@@ -1284,8 +1283,8 @@ msgid ""
 "the undead."
 msgstr ""
 "Il y a un an, nous nous sommes aventurés en secret dans le pays des elfes, "
-"et nous avons capturés un grand sage. Nous l'avons forcé à nous apprendre "
-"les secrets de cette foret et des morts-vivants."
+"et nous avons capturé un grand sage. Nous l'avons forcé à nous apprendre les "
+"secrets de cette forêt et des morts-vivants."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:313
 msgid ""
@@ -1295,7 +1294,7 @@ msgid ""
 msgstr ""
 "Vous avez emprisonné Mebrin ?! Vous devrez payer pour ça. Parlez promptement "
 "que nous puissions mettre fin à cette discussion et vous expédiez ! Nous "
-"aurons notre vangeance ! "
+"aurons notre vengeance ! "
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:318
 msgid ""
@@ -1305,11 +1304,10 @@ msgid ""
 "he served us, but now he has gone mad and is attacking us as well!"
 msgstr ""
 "Ecoutez moi ! Il nous a appris à évoquer la mort pour qu'elle se batte pour "
-"nous. Nous étions faibles et fous et rapidement, nous avions évoqué une "
+"nous. Nous étions faibles et fous et rapidement, nous avions invoqué une "
 "force que nous ne pouvions plus contrôler. Mebrin aussi est tombé sous "
 "l'influence des morts-vivants, et maintenant, il les dirige.  Pour un temps, "
-"il nous a servis, mais maintenant il est devenu fou et il nous attaque "
-"aussi !"
+"il nous a servi, mais maintenant il est devenu fou et il nous attaque aussi !"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:323
 msgid "Lies!  Mebrin would never fight for the undead, much less lead them!"
@@ -1335,7 +1333,7 @@ msgid ""
 "to our lands.  Justice can wait until we are all safely in Westin."
 msgstr ""
 "Mon seigneur, ils pourraient être des alliés valeureux, et les morts-vivants "
-"sont une plus grnade menace pour nos pays. La justice peut attendre jusqu'à "
+"sont une plus grande menace pour nos pays. La justice peut attendre jusqu'à "
 "ce que nous soyons tous en sécurité à Westin."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:343
@@ -1370,7 +1368,7 @@ msgid ""
 "in our land ever again Deoran, you have brought us nothing but grief."
 msgstr ""
 "Vous ne valez pas mieux que ces criminels ! Nous allons voir si vous pouvez "
-"trouver tout seul votre chemin pour sortir de ces forets ! Venez mes amis, "
+"trouver tout seul votre chemin pour sortir de ces forêts ! Venez mes amis, "
 "retournons dans nos pays. Nous avons été fous de traiter avec ces humains. "
 "Ne remets plus jamais les pieds dans notre pays, Déoran. Tu ne nous a rien "
 "apporté d'autre que le ressentiment."
@@ -1379,7 +1377,7 @@ msgstr ""
 msgid ""
 "The elves have abandoned us in this accursed forest!  We are surely lost!"
 msgstr ""
-"Les elfes nous ont abandonnés dans cette maudite foret ! Nous sommes "
+"Les elfes nous ont abandonnés dans cette maudite forêt ! Nous sommes "
 "sûrement perdus !"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:378
@@ -1400,7 +1398,7 @@ msgstr "Mort de Urza Afalas"
 msgid ""
 "Your crimes are too great.  You will fall with the rest of the foul undead!"
 msgstr ""
-"Tes crimes sont trops graves. Tu tombera avec le reste des morts-vivants."
+"Tes crimes sont trop graves. Tu tomberas avec le reste des morts-vivants."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:457
 msgid "Then this parlay is over!  You may have sounded the doom of all of us!"
@@ -1410,7 +1408,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:462
 msgid "You will pay for taking Mebrin from us!  If he is harmed..."
-msgstr "Tu paieras pour nous avoir pris Mevrin ! Si on lui a fait du mal..."
+msgstr "Tu paieras pour nous avoir pris Mebrin ! Si il a été maltraité..."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:477
 msgid "Defeat the last of the bandit leaders."
@@ -1420,7 +1418,7 @@ msgstr "Abattez le dernier des chefs des bandits."
 msgid ""
 "Fools!  That lich will be the death of us all!  You have sealed our doon!"
 msgstr ""
-"Pauvres fous ! Cette liche sera notre mort à tous ! Vous avez scélé notre "
+"Pauvres fous ! Cette liche sera notre mort à tous ! Vous avez scelé notre "
 "condamnation."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:534
@@ -1442,7 +1440,7 @@ msgid ""
 msgstr ""
 "En effet. Le roi sombre est tombé. Maintenant que les elfes nous ont "
 "abandonnés, nos vies dépendent de Urza Afalas. Est-ce que vous nous mènerez "
-"hors de cette maudite foret ?"
+"hors de cette maudite forêt ?"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:568
 msgid ""
@@ -1468,7 +1466,7 @@ msgstr "C'est déjà plus que je ne puis en demander."
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:587
 msgid "I struck him and he disappeared!  Can I really have killed the Lich?"
 msgstr ""
-"J'ai frappé, et elle a disparut ! Est-ce que j'ai vraiment pu tuer la liche ?"
+"J'ai frappé, et elle a disparu ! Est-ce que j'ai vraiment pu tuer la liche ?"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:591
 msgid "We have beaten them both, criminals and undead!"
@@ -1491,10 +1489,10 @@ msgid ""
 "within."
 msgstr ""
 "Ne sois pas si pressé - Les grands mages ne sont pas des escrots de bas "
-"étage que l'on peut battre facilement. Je crains qu'il n'y ai des tunnels et "
-"des catacombes creusés sous cette foret et que nous avons presque abbattu le "
-"spectre. Si nous voulons nettoyer le pays de ce mal, nous devons entrer dans "
-"les ténèbres et le l'aracher de là."
+"étage que l'on peut battre facilement. Je crains qu'il n'y aie des tunnels "
+"et des catacombes creusés sous cette forêt et que nous ayons presque abattu "
+"le spectre. Si nous voulons nettoyer le pays de ce mal, nous devons entrer "
+"dans les ténèbres et l'arracher de là."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:603
 msgid "My men are not dwarves!  How are we to fight in catacombs and tunnels?"
@@ -1509,7 +1507,7 @@ msgid ""
 msgstr ""
 "Quelqu'un dois aller informer Wesnoth de l'existance de ce nouveau mal qui "
 "vit si près de nos frontières. Qui sait combien d'autres morts-vivants se "
-"cachent dans la foret."
+"cachent dans la forêt."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:611
 msgid ""
@@ -1540,7 +1538,7 @@ msgid ""
 "foes from your path."
 msgstr ""
 "Sir Gerrick, Vous devez retournez à Kerlath et prévenir les gens du danger "
-"du sud. Nous vous guiderons à travers la foret et nous tuerons les ennemis "
+"du sud. Nous vous guiderons à travers la forêt et nous tuerons les ennemis "
 "dans votre chemin."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:160
@@ -1550,7 +1548,7 @@ msgid ""
 "looms."
 msgstr ""
 "Apres les bandits et les morts-vivants que nous avons vaincus derrière nous, "
-"quel ennemis peut-il encore y avoir devant ? Espérons que ce sera un voyage "
+"quels ennemis peut-il encore y avoir devant ? Espérons que ce sera un voyage "
 "rapide, à cause du spectre de l'hiver qui menace."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:171
@@ -1568,7 +1566,7 @@ msgid ""
 "Hss...  Here are the humans who have made a pact with the cursed mermen! "
 "Hss..."
 msgstr ""
-"Hss... Voici les humains qui ont fait un pacte avec les maudits mermen ! "
+"Hss... Voici les humains qui ont fait un pacte avec les maudits ondins ! "
 "Hss..."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:209
@@ -1602,7 +1600,7 @@ msgid ""
 "Hss...  And humans!  Humans drained our swamps and made them fields for "
 "farms, so you all must die!  Hss..."
 msgstr ""
-"Hss... Et des humains ! Les humains drainent nos marias, et les changent en "
+"Hss... Et des humains ! Les humains drainent nos marais, et les changent en "
 "champs pour leurs fermes, donc vous devez tous mourir ! Hss..."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:235
@@ -1626,7 +1624,7 @@ msgid ""
 "I will hasten back to Kerlath now and seek the advice of the Council of "
 "Westin..."
 msgstr ""
-"Je vias vite retourner à Kerlath et demander l'avis du conseil de Westin..."
+"Je vais vite retourner à Kerlath et demander l'avis du conseil de Westin..."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:291
 msgid ""
@@ -1634,7 +1632,7 @@ msgid ""
 "indeed."
 msgstr ""
 "Nous aussi, nous allons retourner voir nos conseils. Nous avons beaucoup de "
-"choses à leur dire... Oui, vraiment beaucoups."
+"choses à leur dire... Oui, vraiment beaucoup."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:295
 msgid ""
@@ -1653,13 +1651,13 @@ msgid ""
 "Deoran and Urza Afalas led their men quickly from the ruins of Mal M'brin's "
 "fortress..."
 msgstr ""
-"Déoran et Urza Afalas sortirent rapidelment leurs hommes des ruines de la "
+"Déoran et Urza Afalas sortirent rapidement leurs hommes des ruines de la "
 "forteresse de Mebrin."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:131
 msgid "Will this forest ever end?  How can we know what path to take?!"
 msgstr ""
-"Est-ce que cette foret va bientôt finir ? Comment savoir quel chemin nous "
+"Est-ce que cette forêt va bientôt finir ? Comment savoir quel chemin nous "
 "devons choisir ?!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:135
@@ -1681,8 +1679,8 @@ msgid ""
 "Do we have any choice?  Our food is running out, and it will be winter "
 "soon..."
 msgstr ""
-"Est-ce qu'on a le choix ? Notre nourriture s'épuise, et l'hivers sera "
-"bientôt là..."
+"Est-ce qu'on a le choix ? Notre nourriture s'épuise, et l'hiver sera bientôt "
+"là..."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:149
 msgid ""
@@ -1702,7 +1700,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:162
 msgid "Make your way to the north edge of the woods"
-msgstr "Frayez-vous un chemin jusqu'à l'orée nord de la foret."
+msgstr "Frayez-vous un chemin jusqu'à l'orée nord de la forêt."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:197
 msgid ""
@@ -1755,7 +1753,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:315
 msgid "We're bandits, after all.  Not all of them are loyal to me."
-msgstr "Nous sommes des bandits, apres-tout. Ils ne me sont pas tous loyaux."
+msgstr "Nous sommes des bandits, après-tout. Ils ne me sont pas tous loyaux."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:334
 msgid "The river is just ahead!"
@@ -1783,11 +1781,11 @@ msgstr ""
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:395
 msgid "Nevertheless we will have vengeance for Mebrin!!"
-msgstr "De toutes façons, nous vangerons Mebrin !!"
+msgstr "De toutes façons, nous vengerons Mebrin !!"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:410
 msgid "Thank heaven we have escaped that awful forest!"
-msgstr "Grâce au ciel, nous avons échappé à cette foret !"
+msgstr "Grâce au ciel, nous avons échappé à cette forêt !"
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:414
 msgid "Indeed, Afalas, you've earned my trust today."
@@ -1818,7 +1816,7 @@ msgstr ""
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:124
 msgid "That is wise.  Speed is less valuable in caves that toughness."
 msgstr ""
-"C'est une sage décision. La vitesse a moins de valuer que la discrétion dans "
+"C'est une sage décision. La vitesse a moins de valeur que la discrétion dans "
 "ces caves."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:130
@@ -1851,8 +1849,8 @@ msgid ""
 "It seems that the old dwarven road has fallen into disrepair!  The stream "
 "cuts the path."
 msgstr ""
-"Il semble que la vielle route des nains ne soit plus entretenue ! Le courant "
-"coupe le chemin."
+"Il semble que la vieille route des nains ne soit plus entretenue ! Le "
+"courant coupe le chemin."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:234
 msgid "Perhaps we can cross on the ice?"
@@ -1860,7 +1858,7 @@ msgstr "Peut-être pourrons-nous traverser sur la glace ?"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:238
 msgid "It looks thin - tread carefully."
-msgstr "Ca a l'air fin - progresser prudement."
+msgstr "Ca a l'air étroit - progressez prudement."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:269
 msgid "The ice is collapsing!  I'll be trapped!"
@@ -1883,8 +1881,8 @@ msgstr ""
 msgid ""
 "Look!  Rocks have fallen and collapsed the old dwarven road.  I'm stuck!"
 msgstr ""
-"Regardez ! Les rochers sont tombés et la vielle route des nains s'est "
-"effondrée. Je suis concé !"
+"Regardez ! Les rochers sont tombés et la vieille route des nains s'est "
+"effondrée. Je suis coincé !"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:296
 msgid "We'll find a way to rescue you, don't worry."
@@ -1895,7 +1893,7 @@ msgid ""
 "Ha!  Humans and Elves!  What are you doing in our caves, and why shouldn't "
 "we grind your bones and gnaw on your flesh?"
 msgstr ""
-"Ha ! des humians et des elfes ! Que faites-vous dans nos caves, et pourquoi "
+"Ha ! des humains et des elfes ! Que faites-vous dans nos caves, et pourquoi "
 "ne devrions-nous pas réduire vos os en poussière et mordre dans vos chairs ?"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:313
@@ -1915,17 +1913,17 @@ msgstr "Qu'allons-nous leur offrir pour leur aide ?"
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:327
 msgid "We will give you 50 gold pieces once the undead are defeated."
 msgstr ""
-"Nous vous donnerons 50 pièces d'or quand les morts-vivants seront abattuts"
+"Nous vous donnerons 50 pièces d'or quand les morts-vivants seront abattus"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:330
 msgid "We will give you 75 gold pieces once the undead are defeated."
 msgstr ""
-"Nous vous donnerons 75 pièces d'or quand les morts-vivants seront abattuts"
+"Nous vous donnerons 75 pièces d'or quand les morts-vivants seront abattus"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:333
 msgid "We will give you 100 gold pieces once the undead are defeated."
 msgstr ""
-"Nous vous donnerons 100 pièces d'or quand les morts-vivants seront abattuts"
+"Nous vous donnerons 100 pièces d'or quand les morts-vivants seront abattus"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:348
 msgid ""
@@ -1959,7 +1957,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:374
 msgid "We will offer you freedom and a place in our lands."
-msgstr "Nous vous offrirons la pais et une place dans nos contrées."
+msgstr "Nous vous offrirons la paix et une place dans nos contrées."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:378
 msgid "Ha!  Who wants peace and freedom!  We want blood!"
@@ -2006,7 +2004,7 @@ msgid ""
 "You don't have the gold to pay us!  Now we will grind your bones into dust!"
 msgstr ""
 "Vous n'avez pas l'or pour nous payer ! Nous allons réduire vos os en "
-"poussières !"
+"poussière !"
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:5
 msgid "Pebbles in the Flood"
@@ -2017,7 +2015,7 @@ msgid ""
 "We have escaped the great forest, but look!  The undead are chasing us - we "
 "must not have rooted them all out of the wood."
 msgstr ""
-"Nous nous sommes échappés de la grande foret, mais regardez ! Les morts-"
+"Nous nous sommes échappés de la grande forêt, mais regardez ! Les morts-"
 "vivants nous poursuivent - nous ne les avons sûrement pas éradiqués de ces "
 "bois."
 
@@ -2026,7 +2024,7 @@ msgid ""
 "My lord, you must hasten back to Westin to prepare a defense against them.  "
 "I will command the defense of the border forts."
 msgstr ""
-"Mon seigneur, nous devons vite rentrer à Westin pour préparer notre défence. "
+"Mon seigneur, nous devons vite rentrer à Westin pour préparer notre défense. "
 "Je commanderai la défense des forts de la frontière."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:168
@@ -2060,7 +2058,7 @@ msgid ""
 "Your name will be sounded in the roll of heroes, and you will be avenged.  "
 "Thank you, my friend."
 msgstr ""
-"Votre nom sera placé haut dans le panthéon des héros, et vous serez vangés. "
+"Votre nom sera placé haut dans le panthéon des héros, et vous serez vengés. "
 "Merci, mes amis."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:249
@@ -2069,7 +2067,7 @@ msgid ""
 "that you and Deoran are, but we will hold our lines staunchly, until the "
 "bitter end."
 msgstr ""
-"Nous sommes à vos ordre, Sir Gerrick. Nos hommes ne sont pas d'aussi grands "
+"Nous sommes à vos ordre, Sir Gerrick. Nos hommes ne sont pas d'aussi grand "
 "guerriers que Déoran et vous, mais nous tiendrons fermement nos lignes, "
 "jusqu'à la fin."
 
@@ -2083,7 +2081,7 @@ msgid ""
 "undead hordes as long as you can.  Keep Sir Gerrick and Urza Afalas alive as "
 "long as you can.  Every turn that passes strengthens the defenses of Westin."
 msgstr ""
-"Il n'est pas possible de gagner ce scénario, ni de la perdre. Retenez les "
+"Il n'est pas possible de gagner ce scénario, ni de le perdre. Retenez les "
 "morts-vivants aussi longtemps que vous pourrez. Gardez Sir Gerrick et Urza "
 "Afalas en vie aussi longtemps que vous pourrez. Chaque tour qui passe "
 "renforce les défenses de Westin."
@@ -2153,7 +2151,7 @@ msgstr "A l'aide !"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:186
 msgid "You must pay for killing Mebrin!"
-msgstr "Voius devez payer pour la mort de Mebrin !"
+msgstr "Vous devez payer pour la mort de Mebrin !"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:190
 msgid "I am just a farmer!  What did I do?!"
@@ -2186,7 +2184,7 @@ msgid ""
 "You will die with them!"
 msgstr ""
 "Vous aussi Ethiliel ?  Tous ces humains sont les mêmes ! Ils abattent les "
-"arbres pour labourer la terre; et maintenant ils ont abattut notre chef ! "
+"arbres pour labourer la terre; et maintenant ils ont abattu notre chef ! "
 "Nous ne pouvons pas tolérer de tels actes ! Vous mourrez avec eux !"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:240
@@ -2211,7 +2209,7 @@ msgid ""
 "met us?  After all, you did lead us into the forests..."
 msgstr ""
 "Êtes-vous sûr que les elfes vous accuilleront plus amicalement que quand ils "
-"nous ont rencontré ? Apres tout, vous nous avez dirigé dans les bois... "
+"nous ont rencontré ? Après tout, vous nous avez dirigé dans les bois... "
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:315
 msgid "Perhaps not, but it is your only hope.  I must reach Ithelden!"
@@ -2299,7 +2297,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:49
 msgid "I have given my all for my kingdom!  Avenge me, Deoran!"
-msgstr "J'ai tout donné pour mon royaume ! Vange moi, Déoran !"
+msgstr "J'ai tout donné pour mon royaume ! Venge moi, Déoran !"
 
 #: The_South_Guard/scenarios/sg_deaths.cfg:63
 msgid "Now I will never see Westin free again..."
@@ -2320,7 +2318,7 @@ msgid ""
 msgstr ""
 "Les voyoux sont le courant dominant des armées de bandits. Ils n'ont pas "
 "d'attaque à distance, et ils sont vulnérable à vos archers. La lance de "
-"déoran jettera également la peur dans leur coeur ! Comme toutes les unités "
+"Déoran jettera également la peur dans leur coeur ! Comme toutes les unités "
 "bandits, ils sont beaucoup plus dangereux la nuit."
 
 #: The_South_Guard/scenarios/sg_help.cfg:57
@@ -2332,8 +2330,8 @@ msgid ""
 "attacks of your archers."
 msgstr ""
 "Les voleurs sont plus subtiles que les voyoux. Ils essaient d'encercler vos "
-"unités et les frappent dns le dos. Faites en sorte que les voleurs n'aient "
-"jamais l'opportunuité d'attaquer alors qu'ils ont un allié juste derrière "
+"unités et les frappent dans le dos. Faites en sorte que les voleurs n'aient "
+"jamais l'opportunité d'attaquer alors qu'ils ont un allié juste derrière "
 "l'unité qu'ils attaquent - ils feraient un dommage double ! Comme les "
 "voyoux, les voleurs sont vulnérables aux attaques à distance de vos archers."
 
@@ -2346,7 +2344,7 @@ msgid ""
 msgstr ""
 "les footpads sont les éclaireurs des armées de bandits. Ils sont rapides, "
 "ils ont aussi bien une bonne attaque de mélée qu'une attaque à distance. "
-"Mais, aucune de leurs attaques ne sont tres fortes et vos lanciers en feront "
+"Mais, aucune de leurs attaques n'est très forte et vos lanciers en feront "
 "vite leur affaire durant le jour."
 
 #: The_South_Guard/scenarios/sg_help.cfg:111
@@ -2357,11 +2355,12 @@ msgid ""
 "deadly against them.  Like the rest of the bandits, they are more dangerous "
 "at night!"
 msgstr ""
-"Les squelettes sont les os des guerrier tombé et relevé par la magie noire. "
-"Ils sont presques immunisés contre les armes perçantes comme les flèches et "
-"les lances. Les attaques par des lames, comme les épées, les blesseront et "
-"l'attaque sacrée du Ministre Hylas est mortelle pour eux. Comme le reste des "
-"armées de morts-vivants, ils sont plus dangereux durant la nuit !"
+"Les squelettes sont les os des guerrier tombés et relevés par la magie "
+"noire. Ils sont presque immunisés contre les armes perçantes comme les "
+"flèches et les lances. Les attaques par des lames, comme les épées, les "
+"blesseront et l'attaque sacrée du Ministre Hylas est mortelle pour eux. "
+"Comme le reste des armées de morts-vivants, ils sont plus dangereux durant "
+"la nuit !"
 
 #: The_South_Guard/scenarios/sg_help.cfg:138
 msgid ""
@@ -2369,9 +2368,9 @@ msgid ""
 "magic.  They are slow and weak - any of your units is more than a match for "
 "them.  They are only dangerous in packs..."
 msgstr ""
-"Les corps marchants sont les corps des guerrier abattuts, remplis par de la "
-"magie noire. Ils sont lent et faibles - chacune de vos unités sont plus "
-"qu'un défi pour eux. ILs ne sont dangereux qu'en grand nombre..."
+"Les corps marchants sont les corps des guerrier abattus, remplis par de la "
+"magie noire. Ils sont lents et faibles - chacune de vos unités sont plus "
+"qu'un défi pour eux. Ils ne sont dangereux qu'en grand nombre..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:7
 msgid "Summer"
@@ -2386,7 +2385,7 @@ msgid ""
 msgstr ""
 "Pendant le règne d'Haldric VII, Wesnoth était sûr. Konrad Ier avait chassé "
 "les orcs dans le nord. Les forts orientaux étaient calmes et presques "
-"déserts. Les elfes dans la foret occidentale s'occupaient de leurs affaires. "
+"déserts. Les elfes dans la forêt occidentale s'occupaient de leurs affaires. "
 "Dans le sud prospère, les hommes construisaient de nouvelles villes et de "
 "nouvelles fermes."
 
@@ -2400,7 +2399,7 @@ msgstr ""
 "Depuis huit ans, la Garde Sud défendait les fermes et les maisons autour de "
 "la cité de Westin. Les ennemis les plus féroces qu'ils avaient à combattre "
 "étaient des bandits occasionels. Les orcs étaient loin au nord. Rien ne "
-"vivait dans la foret derrière la rivière."
+"vivait dans la forêt derrière la rivière."
 
 #: The_South_Guard/scenarios/sg_story.cfg:17
 msgid ""
@@ -2408,7 +2407,7 @@ msgid ""
 "suddenly.  King Haldric decided to send someone to investigate."
 msgstr ""
 "Durant le printemps de la neuvième année, les rapports de Sir Loris "
-"s'arrêtèrent soudainement. LE roi Haldric décida d'envoyer quelqu'un pour "
+"s'arrêtèrent soudainement. Le roi Haldric décida d'envoyer quelqu'un pour "
 "enquêter."
 
 #: The_South_Guard/scenarios/sg_story.cfg:20
@@ -2435,9 +2434,9 @@ msgid ""
 "terrorizing the peasants and villagers.  Nowhere did they find soldiers of "
 "the South Guard."
 msgstr ""
-"Apres avoir battu Urza Mathin, Déoran envoya immédiatement des éclaireurs "
+"Après avoir battu Urza Mathin, Déoran envoya immédiatement des éclaireurs "
 "dans toute la campagne. Ses hommes rapportèrent que les bandits circulaient "
-"librement la frontière, terrorisant les paysans et les villageois. Ils n'y "
+"librement la frontière, terrorisant les paysans et les villageois. Il n'y "
 "avait aucun soldat de la Garde Sud pour les arrêter."
 
 #: The_South_Guard/scenarios/sg_story.cfg:46
@@ -2448,7 +2447,7 @@ msgid ""
 "the province."
 msgstr ""
 "Déoran décida de passer à l'action et de faire fuir les bandits. Il "
-"rassembla les hommes de Sir Gerrick et tout les paysans qui vaient un corps "
+"rassembla les hommes de Sir Gerrick et tout les paysans qui avaient un corps "
 "puissant et étaient en âge de se battre. Avec cette petite force, il "
 "chevaucha en hâte vers Westin, capitale de la province."
 
@@ -2471,7 +2470,7 @@ msgid ""
 "elves."
 msgstr ""
 "Les hommes de la Garde Sud suivirent Ethiliel pendant des jours à travers "
-"les forets et les collines, plus loin qu'aucun homme n'avait posé le pied "
+"les forêts et les collines, plus loin qu'aucun homme n'avait posé le pied "
 "auparavant, profondément dans le pays des elfes."
 
 #: The_South_Guard/scenarios/sg_story.cfg:82
@@ -2482,7 +2481,7 @@ msgid ""
 msgstr ""
 "Loin derrière eux, dans Westin, des troubles montaient. La Garde Sud "
 "reconstituée tenait les bandit en échec, mais leurs lances et leurs flèches "
-"nétaient rien contre les haches maniées par les sans chairs."
+"n'étaient rien contre les haches maniées par les sans chairs."
 
 #: The_South_Guard/scenarios/sg_story.cfg:86
 msgid "Surely but slowly they gave ground.  Time was running out..."
@@ -2494,7 +2493,7 @@ msgid ""
 "Ethiliel led the men of the South Guard into the southern forest.  Shadows "
 "soon covered their paths day and night, and a thick fog filled the air."
 msgstr ""
-"Ethiliel mena les homme de la Garde Sud dans les forets septentrionales. LEs "
+"Ethiliel mena les homme de la Garde Sud dans les forêts septentrionales. Les "
 "ombres couvrirent vite leurs chemins jour et nuit, et un fin brouillard "
 "emplit l'air."
 
@@ -2506,7 +2505,7 @@ msgid ""
 msgstr ""
 "Pendant des semaines, ils marchèrent sur des chemins sans nom qu'aucun homme "
 "n'avait emprunté avant. De temps à autre, ils voyaient les images "
-"fantomatiques de villages elfes et de batiments dans la foret profonde, lais "
+"fantomatiques de villages elfes et de batiments dans la forêt profonde, mais "
 "plus ils avançaient, plus elles devenaient effrayantes."
 
 #: The_South_Guard/scenarios/sg_story.cfg:103
@@ -2514,13 +2513,13 @@ msgid ""
 "Finally Ethiliel told the men to halt and pitch camp - they had reached the "
 "great river, beyond which no elf or man would willingly pass."
 msgstr ""
-"Finalement, Ethiliel dit aux hommes de s'arrêter de planter un camps - ils "
+"Finalement, Ethiliel dit aux hommes de s'arrêter de planter un camp - ils "
 "avaient atteint la grande rivière, au delà de laquelle aucun elfe ni aucun "
 "humain n'aurait voulu aller."
 
 #: The_South_Guard/scenarios/sg_story.cfg:113
 msgid "Winter"
-msgstr "Hivers"
+msgstr "Hiver"
 
 #: The_South_Guard/scenarios/sg_story.cfg:117
 msgid ""
@@ -2529,8 +2528,8 @@ msgid ""
 "followed close behind the men of the South Guard."
 msgstr ""
 "La neige tombait lorsque Déoran, Sir Gerrick et Urza Afalas sortir de la "
-"grande foret septentrionale. Un grand silence tomba sur le pays, et une "
-"obscurité menaçante suivis de prêts les hommes de la Garde Sud."
+"grande forêt septentrionale. Un grand silence tomba sur le pays, et une "
+"obscurité menaçante suivit de près les hommes de la Garde Sud."
 
 #: The_South_Guard/scenarios/sg_story.cfg:121
 msgid ""
@@ -2573,7 +2572,7 @@ msgid ""
 "send ambassadors or councilors to Westin, and no more will men wander the "
 "green woods."
 msgstr ""
-"Voici les termes de la paix entre nous : Tout homme trouvé dans la foret ou "
+"Voici les termes de la paix entre nous : Tout homme trouvé dans la forêt ou "
 "les collines qui appartiennent aux elfes goutera la mort. Les elfes "
 "n'enverront plus d'embassadeurs ou de conseillers à Westin, et les hommes ne "
 "se promèneront plus dans les forets vertes."
@@ -2597,7 +2596,7 @@ msgid ""
 "King Haldric himself.  Storm clouds were brewing throughout the realm, and "
 "every commander would be needed to weather the storm..."
 msgstr ""
-"Sir Déoran, Chevalier de Wesnoth, a été appelé à Weldyn pour un conseil abec "
+"Sir Déoran, Chevalier de Wesnoth, a été appelé à Weldyn pour un conseil avec "
 "le roi Haldric en personne. Des nuages de tempêtes grandissaient dans le "
 "royaume, et tous les commandants étaient nécessaires pour controler la "
 "tempête..."
@@ -2614,7 +2613,7 @@ msgstr ""
 "lancèrent le dernier assaut sur les morts-vivants. Comme ils coupaient des "
 "chairs sans vie et écrasaient des os brillants, un rayon de soleil perça les "
 "nuages. Les vents tombèrent et les hommes furent emplis d'une nouvelle vie. "
-"Un grand cri résonna quand ils abatirent le campement de Mal M'brin lui-"
+"Un grand cri résonna quand ils abattirent le campement de Mal M'brin lui-"
 "même, et qu'ils tuèrent le puissant magicien."
 
 #: The_South_Guard/scenarios/sg_story.cfg:161
@@ -2626,7 +2625,7 @@ msgid ""
 msgstr ""
 "Épuisé, Déoran lâcha sa lance sur le sol. Les hommes autour de lui "
 "relevèrent lentement leur casque de leur arc. Les plaintes des blessés "
-"éclipsèrent le bruissement du vent du nord dans le lointain. LEs morts-"
+"éclipsèrent le bruissement du vent du nord dans le lointain. Les morts-"
 "vivants étaient partis."
 
 #: The_South_Guard/scenarios/sg_story.cfg:166
@@ -2637,7 +2636,7 @@ msgid ""
 "fallen heroes many names were added."
 msgstr ""
 "Pendant des jours, les guérisseurs de Westin travaillèrent fièvreusement à "
-"sauver autant de vaillants soldats qu'ils le pouvaient. Beaucoups de tombes "
+"sauver autant de vaillants soldats qu'ils le pouvaient. Beaucoup de tombes "
 "furent dressées, comme autant de maisons pour ceux tombés dans les champs au "
 "nord de la cité, et on ajouta de nombreux noms au panthéon des héros tombés."
 
@@ -2648,10 +2647,10 @@ msgid ""
 "sword and shield.  Those he placed atop Gerrick's mound, and they were a "
 "symbol of loyalty and valor to all the people of Westin."
 msgstr ""
-"la tombre la plus noble fut réservée à Sir Gerrick. Apres la bataille, "
+"La tombre la plus noble fut réservée à Sir Gerrick. Après la bataille, "
 "Déoran mena une expédition vers les postes de la frontière sud et il y "
-"trouva l'épée et le bouclier de Sir Gerricl. On les plaça sur la tombe de "
-"Sir Gerrick, et ils devinrent le symbol de la loyauté et de la valeur du "
+"trouva l'épée et le bouclier de Sir Gerrick. On les plaça sur la tombe de "
+"Sir Gerrick, et ils devinrent le symbole de la loyauté et de la valeur du "
 "peuple de Westin."
 
 #: The_South_Guard/scenarios/sg_story.cfg:175
@@ -2661,7 +2660,7 @@ msgid ""
 "last stand at the border posts passed into song, and was not forgotten for "
 "many lives of men."
 msgstr ""
-"Le nom de Grrick fut ajouté en haut du panthéon des héros tombés et est "
+"Le nom de Gerrick fut ajouté en haut du panthéon des héros tombés et est "
 "prononcé fortement au début de chaque grand conseil. La mémoire de son "
 "dernier combat désespéré au poste frontière devint une chanson, et elle ne "
 "fut pas oubliée durant de nombreuses vies d'hommes."
@@ -2708,7 +2707,7 @@ msgstr "intelligent"
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:126
 #: The_South_Guard/scenarios/sg_unit_utils.cfg:139
 msgid "loyal"
-msgstr "loyal"
+msgstr "fidèle"
 
 #: The_South_Guard/units/1.Junior_Commander.cfg:4
 msgid "Junior Commander"
@@ -2783,7 +2782,7 @@ msgid ""
 msgstr ""
 "Les commandants d'infanterie de Wesnoth sont responsables de la garnison et "
 "de la défense des villes et villages frontière. Ils sont issus des rangs des "
-"soldats vétérants, pas nobles, et ont montrés des aptitudes au commandement "
+"soldats vétérans, pas nobles, et ont montrés des aptitudes au commandement "
 "et du courage dans la bataille."
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:33
@@ -2805,7 +2804,7 @@ msgid ""
 "Veteran commanders have faced battle many times and led their men with "
 "steady hands and calm determination."
 msgstr ""
-"Les commandants vétérants ont participé à de nombreuses batailles et ont "
+"Les commandants vétérans ont participé à de nombreuses batailles et ont "
 "menés leurs hommes d'une main ferme et avec une calme détermination."
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:52
