@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-22 18:06+0200\n"
-"PO-Revision-Date: 2006-06-20 21:10+0200\n"
-"Last-Translator: Joeri Melis <joeri_melis@hotmail.com>\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2007-03-01 16:43+0100\n"
+"Last-Translator: Foppe Benedictus <foppe.benedictus@gmail.com>\n"
+"Language-Team: none <foppe.benedictus@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
 
 #: The_South_Guard.cfg:10
 msgid "The South Guard"
@@ -45,11 +47,11 @@ msgstr "Burger"
 
 #: The_South_Guard.cfg:20
 msgid "Recruit"
-msgstr "Recruut"
+msgstr "Rekruut"
 
 #: The_South_Guard.cfg:20
 msgid "(trivial)"
-msgstr ""
+msgstr "(triviaal)"
 
 #: The_South_Guard.cfg:20
 msgid "(easy)"
@@ -249,7 +251,7 @@ msgid ""
 "While you're in your camp, you can recruit more troops.  Build up a small "
 "force to use against the bandits that Urza Mathin recruits."
 msgstr ""
-"Zolang je in het kamp bent, kan je nieuwe troepen recruteren. Bouw een "
+"Zolang je in het kamp bent, kan je nieuwe troepen rekruteren. Bouw een "
 "kleine troepenmacht om tegen de bandieten van Mathin Urza te gebruiken."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:322
@@ -269,7 +271,7 @@ msgid ""
 msgstr ""
 "Speermannen hebben een sterke lijf aan lijf aanval, en zijn geschikt tegen "
 "de meeste eenheden. Ze hebben ook een zwakke afstandsaanval. Ze vormen de "
-"ruggegraat van de zuidelijke wacht."
+"ruggengraat van de zuidelijke wacht."
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:331
 msgid ""
@@ -289,7 +291,7 @@ msgid ""
 msgstr ""
 "Mijnheer, bandieten zijn het gevaarlijkste gedurende de nacht. Laat ons de "
 "noordelijke oever van de rivier verdedigen tot het ochtendkrieken en daarna "
-"tijdens de morgend de aanval inzetten!"
+"tijdens de morgen de aanval inzetten!"
 
 #: The_South_Guard/scenarios/1.Born_To_The_Banner.cfg:381
 msgid ""
@@ -734,7 +736,6 @@ msgstr ""
 "ons naar toe haasten, voorbij de rivier en heuvels."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:114
-#, fuzzy
 msgid ""
 "Be careful, Deoran.  No man has set foot in the Elvish woods for many a "
 "year.  We do not know how they will recieve us.  Sir Loris thought that it "
@@ -835,7 +836,6 @@ msgid "De..."
 msgstr "De..."
 
 #: The_South_Guard/scenarios/3.A_Desparate_Errand.cfg:273
-#, fuzzy
 msgid ""
 "Speak carefully, for the penalty for tresspass in our lands is death, and "
 "your life is forfeit."
@@ -1105,8 +1105,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:493
 msgid "Maybe whoever summoned these undead knows where he is?"
-msgstr ""
-"Misschien weet degene die deze levende doden opgeroepen heeft waar hij is?"
+msgstr "Misschien weet degene die deze ondoden opgeroepen heeft waar hij is?"
 
 #: The_South_Guard/scenarios/4.Vale_of_Tears.cfg:498
 msgid ""
@@ -1137,7 +1136,7 @@ msgid ""
 "you and battle the undead!"
 msgstr ""
 "Wel, wraak of niet, als je ons in het bos leidt zullen wij je volgen en de "
-"levende doden bevechten."
+"ondoden bevechten."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:5
 msgid "Choice in the Fog"
@@ -1175,7 +1174,6 @@ msgstr ""
 "soldaten en sjamaans zullen nu onder je bevel vechten."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:195
-#, fuzzy
 msgid ""
 "Elvish fighters are at home in the thick forests.  They have both a sword "
 "and a bow and are deadly with both.  They are quick and can hold their own "
@@ -1206,14 +1204,13 @@ msgid ""
 "for I know not the way."
 msgstr ""
 "De grote rivier ligt voor ons.  Geen elf die nog leeft heeft ze ooit "
-"overgestoken.  Als de levende doden van over de rivier komen moeten we ze "
+"overgestoken.  Als de ondoden van over de rivier komen moeten we ze "
 "voorzichting zoeken, want ik ken de weg hier niet meer."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:215
 msgid ""
 "I fear no forests.  Let us find this river and whatever enemies lay beyond."
-msgstr ""
-"Ik vrees geen bossen.  Laat ons de rivier en eventuele vijanden zoeken."
+msgstr "Ik vrees geen bossen. Laat ons de rivier en eventuele vijanden zoeken."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:220
 msgid "Very well.  We will seek the river and probe its secrets."
@@ -1269,8 +1266,8 @@ msgid ""
 "But have you not seen the undead in these forests?  I know you have seen "
 "them under the control of the many bandit leaders before..."
 msgstr ""
-"Maar heb je dan nog niet de levende doden in deze bossen gezien?  Ik weet "
-"dat je hen voordien onder de leiding van bandietenleiders zag..."
+"Maar heb je dan nog niet de ondoden in deze bossen gezien?  Ik weet dat je "
+"hen voordien onder de leiding van bandietenleiders zag..."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:303
 msgid "What of them?"
@@ -1306,8 +1303,8 @@ msgstr ""
 "Laat me spreken!  Hij leerde ons om de doden op te roepen om voor ons te "
 "vechten.  Maar we waren zwak en dwaas en riepen ondoden op die we niet "
 "konden controleren.  Zelfs Mebrin viel ten prooi aan de invloed van de "
-"levende doden en leidt hen nu.  Een tijd lang diende hij ons maar nu is hij "
-"gek geworden en valt ook ons aan!"
+"ondoden en leidt hen nu.  Een tijd lang diende hij ons maar nu is hij gek "
+"geworden en valt ook ons aan!"
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:323
 msgid "Lies!  Mebrin would never fight for the undead, much less lead them!"
@@ -1349,7 +1346,7 @@ msgstr "Hmm...Ik moet hier over nadenken..."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:351
 msgid "Very well. All men must unite against the undead."
-msgstr "Goed.  Alle mensen moeten zich verenigen tegenover de levende doden."
+msgstr "Goed.  Alle mensen moeten zich verenigen tegenover de ondoden."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:356
 msgid ""
@@ -1386,7 +1383,7 @@ msgstr "Vrees niet, ik kan jullie terug gidsen als de tijd er rijp voor is."
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:424
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:473
 msgid "Find the source of the undead and destroy it."
-msgstr "Vind de bron van de levende doden en vernietig ze."
+msgstr "Vind de bron van de ondoden en vernietig ze."
 
 #: The_South_Guard/scenarios/6b.The_Long_March.cfg:174
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:440
@@ -1398,7 +1395,7 @@ msgid ""
 "Your crimes are too great.  You will fall with the rest of the foul undead!"
 msgstr ""
 "Jullie misdaden zijn te groot.  Jullie zullen samen sneuvelen met de "
-"overblijvende levende doden."
+"overblijvende ondoden."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:457
 msgid "Then this parlay is over!  You may have sounded the doom of all of us!"
@@ -1416,7 +1413,6 @@ msgid "Defeat the last of the bandit leaders."
 msgstr "Versla de laatste bandietenleider."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:511
-#, fuzzy
 msgid ""
 "Fools!  That lich will be the death of us all!  You have sealed our doon!"
 msgstr ""
@@ -1433,7 +1429,7 @@ msgid ""
 "so tough after all!"
 msgstr ""
 "Goed!  Dat was makkelijker dan ik gedacht had.  Het lijkt erop dat die "
-"levende doden uiteindelijk toch niet zo gevaarlijk zijn."
+"ondoden uiteindelijk toch niet zo gevaarlijk zijn."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:564
 msgid ""
@@ -1449,8 +1445,8 @@ msgid ""
 "What choice do I have?  My life is in as much danger as yours.  I will lead "
 "you and you men back to the lands of Wesnoth if you will grant me pardon."
 msgstr ""
-"Welke andere keuze heb ik?  Mijn leven is in evenveel gevaar als dat van "
-"jullie.  Ik zal U en Uw mannen terug naar de landen van Wesnoth brengen als "
+"Welke andere keuze heb ik? Mijn leven is in evenveel gevaar als dat van "
+"jullie.  Ik zal u en uw mannen terug naar de landen van Wesnoth brengen als "
 "ik genade ontvang."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:572
@@ -1507,8 +1503,8 @@ msgid ""
 "borders.  Who knows how many more of these undead are hiding in the forest."
 msgstr ""
 "Iemand moet het nieuws van de slechtheid die zich aan onze grenzen bevindt "
-"naar Wesnoth brengen.  Wie meet hoeveel van deze levende doden er zich nog "
-"in dit bos verschuilen."
+"naar Wesnoth brengen.  Wie meet hoeveel van deze ondoden er zich nog in dit "
+"bos verschuilen."
 
 #: The_South_Guard/scenarios/5.Choice_In_The_Fog.cfg:611
 msgid ""
@@ -1546,15 +1542,14 @@ msgstr ""
 "van uw pad weghouden."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:160
-#, fuzzy
 msgid ""
 "With the bandits and undead vanquished behind us, what foes can there be "
 "ahead?  Let us hope this is a speedy journey, for the specter of winter "
 "looms."
 msgstr ""
-"Met de bandieten en levende doden achter ons verslagen, welke vijanden "
-"kunnen er voor ons zijn?  Laat ons hopen dat dit een snelle reis wordt want "
-"de winter nadert."
+"Met de bandieten en ondoden achter ons verslagen, welke vijanden kunnen er "
+"voor ons zijn?  Laat ons hopen dat dit een snelle reis wordt want de winter "
+"nadert."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:171
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:243
@@ -1601,7 +1596,6 @@ msgstr ""
 "doorgang verschaft..."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:231
-#, fuzzy
 msgid ""
 "Hss...  And humans!  Humans drained our swamps and made them fields for "
 "farms, so you all must die!  Hss..."
@@ -1610,7 +1604,6 @@ msgstr ""
 "voor hun boerderijen van gemaakt!  Ze moeten allemaal sterven!  Hss..."
 
 #: The_South_Guard/scenarios/6a.Tidings_Good_And_Ill.cfg:235
-#, fuzzy
 msgid ""
 "If we leave these nagas here, they will ambush Deoran and Ethiliel!  We must "
 "destroy them!"
@@ -1832,7 +1825,6 @@ msgid ""
 msgstr "Cavalaristen en Dragonders zijn minder nuttig in grotten dan voetvolk."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:134
-#, fuzzy
 msgid "Also, soldiers with the -resilient- trait will be useful in the dark."
 msgstr ""
 "En daar bovenop zijn soldaten met het kenmerk -snel- bruikbaar in het donker."
@@ -1901,15 +1893,14 @@ msgstr ""
 "jullie botten niet moeten vermalen en jullie vlees wegknagen?"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:313
-#, fuzzy
 msgid "We mean no tresspass.  We are hunting the undead."
-msgstr "We willen hier niets verstoren.  We zijn levende doden aan het zoeken."
+msgstr "We willen hier niets verstoren.  We zijn ondoden aan het zoeken."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:318
 msgid "Undead!  Ha!  We kill undead all the time.  Why should we help you?"
 msgstr ""
-"Levende doden!  Ha!  We slaan steeds opnieuw levende doden neer.  Waarom "
-"zouden we jullie helpen?"
+"Ondoden!  Ha!  We slaan steeds opnieuw ondoden neer.  Waarom zouden we "
+"jullie helpen?"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:323
 msgid "What should we offer them for their help?"
@@ -1940,21 +1931,21 @@ msgid ""
 "Can you offer us any aid against the undead?  We are not well suited to "
 "fighting in the caves."
 msgstr ""
-"Kunnen jullie ons enige hulp aanbieden tegenover de levende doden?  We zijn "
-"niet echt geschikt om in deze grotten te vechten."
+"Kunnen jullie ons enige hulp aanbieden tegenover de ondoden?  We zijn niet "
+"echt geschikt om in deze grotten te vechten."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:356
 msgid ""
 "Gah!  We already planned to kill the undead ourselves... First we kill "
 "dwarves though!  Now we have dwarvish thunder fire."
 msgstr ""
-"Gah!  We planden zelf al om de levende doden te doden...  Maar eerst wouden "
-"we de dwergen doodden!  Nu hebben we dwergendondervuur."
+"Gah!  We planden zelf al om de ondoden te doden...  Maar eerst wouden we de "
+"dwergen doden!  Nu hebben we dwergendondervuur."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:360
 msgid "Go here and lite it and it will blast a backdoor into the lich's lair!"
 msgstr ""
-"Ga hierhaan en steek het aan, het zal een achterpoort in het nest van de "
+"Ga hierheen en steek het aan, het zal een achteringang in het nest van de "
 "lich maken."
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:374
@@ -1987,7 +1978,7 @@ msgstr "Ik ben er doorgebroken!"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:452
 msgid "Gah!  The undead are dead again!  Now you'd better pay up!"
-msgstr "Gah!  De levende doden zijn opnieuw dood!  Nu betaal je ons beter!"
+msgstr "Gah!  De ondoden zijn opnieuw dood!  Nu betaal je ons beter!"
 
 #: The_South_Guard/scenarios/7a.Into_The_Depths.cfg:489
 msgid "Here is your reward.  Now we will leave your caves in peace."
@@ -2014,8 +2005,8 @@ msgid ""
 "We have escaped the great forest, but look!  The undead are chasing us - we "
 "must not have rooted them all out of the wood."
 msgstr ""
-"We zijn uit het groot woud geraakt maar kijk!  De levende doden achtervolgen "
-"ons, we moeten ze in het bos niet allemaal uitgeschakeld hebben."
+"We zijn uit het groot woud geraakt maar kijk!  De ondoden achtervolgen ons, "
+"we moeten ze in het bos niet allemaal uitgeschakeld hebben."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:164
 msgid ""
@@ -2030,9 +2021,9 @@ msgid ""
 "I too will make my stand here - I owe you my life and must atone for my "
 "crimes.  Together we will hold off the foul undead as long as we can."
 msgstr ""
-"Ook ik zal hier niet wijken, ik verschuld U mijn leven en moet boeten voor "
-"mijn misdaden.  Samen zullen we deze vuile levende doden ophouden zo lang "
-"als we kunnen."
+"Ook ik zal hier niet wijken, ik ben u mijn leven schuldig en moet boeten "
+"voor mijn misdaden. Samen zullen we deze vuile ondoden ophouden zo lang als "
+"we kunnen."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:172
 msgid ""
@@ -2056,7 +2047,7 @@ msgid ""
 "Your name will be sounded in the roll of heroes, and you will be avenged.  "
 "Thank you, my friend."
 msgstr ""
-"Uw namen zal weerklinken in de lijst van helden en je zal gewroken worden.  "
+"Uw naam zal weerklinken in de lijst van helden en je zal gewroken worden.  "
 "Dank u, mijn vriend."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:249
@@ -2070,28 +2061,25 @@ msgstr ""
 "houden tot het bittere einde."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:255
-#, fuzzy
 msgid "Hold the line as long as possible"
 msgstr ""
 "Houd de gelederen gesloten: Bewaak Heer Gerricks leven zo lang mogelijk "
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:262
-#, fuzzy
 msgid ""
 "There is no way to win this scenario, and no way to lose.  Hold off the "
 "undead hordes as long as you can.  Keep Sir Gerrick and Urza Afalas alive as "
 "long as you can.  Every turn that passes strengthens the defenses of Westin."
 msgstr ""
-"Dit scenario kan noch gewonnen noch verloren worden.  Hou de hordes levende "
-"doden zo lang mogelijk tegen en hou vooral heer Gerrick zo lang mogelijk "
-"levend.  Iedere beurt die voorbijgaat wordt de verdediging rond Westin "
-"sterker."
+"Dit scenario kan noch gewonnen noch verloren worden.  Hou de hordes ondoden "
+"zo lang mogelijk tegen en hou vooral heer Gerrick zo lang mogelijk levend.  "
+"Iedere beurt die voorbijgaat wordt de verdediging rond Westin sterker."
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:293
 msgid "Now I will never see my home again...  Hold back the undead, Gerrick!"
 msgstr ""
-"Nu zal ik nooit nog mijn thuis terugzien...  Hou de levende doden verder "
-"tegen, Gerrick!"
+"Nu zal ik nooit nog mijn thuis terugzien...  Hou de ondoden verder tegen, "
+"Gerrick!"
 
 #: The_South_Guard/scenarios/7b.Pebbles_In_The_Flood.cfg:305
 msgid ""
@@ -2126,7 +2114,7 @@ msgid ""
 "The undead are gone!  Perhaps now there will be peace for a time in Westin.  "
 "You have our thanks Lady Ethiliel."
 msgstr ""
-"De levende doden zijn verdwenen!  Misschien is er nu een tijdlang vrede in "
+"De ondoden zijn verdwenen!  Misschien is er nu een tijdlang vrede in "
 "Westin.  U hebt onze dank vrouwe Ethiliel."
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:153
@@ -2143,8 +2131,8 @@ msgid ""
 "Indeed.  Neither the bandits nor the undead will trouble us for some time.  "
 "We will tend our wounds and you yours."
 msgstr ""
-"Inderdaad.  Noch de bandieten noch de levende doden zullen nog voor "
-"problemen zorgen.  Maar zowel wij als jullie hebben wonden te helen. "
+"Inderdaad.  Noch de bandieten noch de ondoden zullen nog voor problemen "
+"zorgen.  Maar zowel wij als jullie hebben wonden te helen. "
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:161
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:170
@@ -2219,7 +2207,6 @@ msgstr ""
 "Misschien niet maar het is jullie enigste hoop.  Ik moet Ithelden bereiken!"
 
 #: The_South_Guard/scenarios/8a.Vengeance.cfg:323
-#, fuzzy
 msgid "Bring Ethiliel to a parlay with Ithelden"
 msgstr "Breng Ethiliel naar de Grote Boom voor het gesprek met Ithelden"
 
@@ -2232,8 +2219,8 @@ msgid ""
 "Look!  The undead army has broken through Sir Gerrick's lines! Alas, he is "
 "lost!"
 msgstr ""
-"Kijk!  Het leger van de levende doden is door heer Gerricks linies "
-"doorgebroken!  Helaas, hij is gesneuveld!"
+"Kijk!  Het leger van de ondoden is door heer Gerricks linies doorgebroken!  "
+"Helaas, hij is gesneuveld!"
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:191
 msgid ""
@@ -2277,7 +2264,7 @@ msgstr ""
 
 #: The_South_Guard/scenarios/8b.The_Tides_of_War.cfg:225
 msgid "Crush the undead"
-msgstr "Versla de levende doden"
+msgstr "Versla de ondoden"
 
 #: The_South_Guard/scenarios/9b.Bandit_Epilogue.cfg:5
 #: The_South_Guard/scenarios/9a.Elf_Epilogue.cfg:5
@@ -2346,7 +2333,7 @@ msgid ""
 "day."
 msgstr ""
 "Voetscouten zijn de verkenners van de bandietenlegers.  Ze zijn snel en "
-"kunnen zowel vanop afstand aanvallen als een lijf aan lijf gevecht voeren.  "
+"kunnen zowel van afstand aanvallen als een lijf aan lijf gevecht voeren.  "
 "Maar geen van beide aanvallen is erg sterk en je speermannen kunnen hen "
 "gemakkelijk verslaan overdag."
 
@@ -2387,8 +2374,8 @@ msgid ""
 "The elves in the western forest kept to their own affairs.  In the "
 "prosperous south men build new towns and farms."
 msgstr ""
-"Gedurende de heerschappij van Haldric VII was Wesnoth een veilg land.  "
-"Konrad I had de orcs in het noorden verjaagd.  Alles was rustig rond de "
+"Gedurende de heerschappij van Haldric VII was Wesnoth een veilig land.  "
+"Konrad I had de orks in het noorden verjaagd.  Alles was rustig rond de "
 "oostelijke forten die nagenoeg verlaten waren.  De elven in het westelijke "
 "bos hielden zich met hun eigen zaken bezig.  En in het welvarende zuiden "
 "bouwden mensen nieuwe steden en boerderijen."
@@ -2555,7 +2542,6 @@ msgstr ""
 "van hun muren.  Opeens was het veld omgeven in een dikke mist..."
 
 #: The_South_Guard/scenarios/sg_story.cfg:134
-#, fuzzy
 msgid ""
 "When the fog broke, Ethiliel stood alone, facing the wall of spears.  Bathed "
 "in light, she spoke the the men of Wesnoth, saying, 'Stop!  Enough blood has "
@@ -2576,7 +2562,7 @@ msgid ""
 "green woods."
 msgstr ""
 "Dit zijn de termen van de vrede tussen ons: elke mens die in een bos of "
-"heuvel van de elven teruggevonden word zal gedood worden.  De elven zulllen "
+"heuvel van de elven teruggevonden word zal gedood worden. De elven zullen "
 "geen afgevaardigden meer sturen naar Westin en geen mensen zullen nog naar "
 "de groene bossen afdwalen."
 
@@ -2588,9 +2574,9 @@ msgid ""
 "bore their burdens again, a messenger came from king Haldric."
 msgstr ""
 "Op deze wijze werd een ongemakkelijke vrede tussen mensen en elven tot stand "
-"gebracht.  Vele weken lang patroeilleerde de zuidelijke wacht de grenzen van "
+"gebracht. Vele weken lang patrouilleerde de zuidelijke wacht de grenzen van "
 "het elvenbos en waakte ze over de groeiende boerderijen en dorpen.  "
-"Uiteindelijk, toen de sneeuw smolt en de wegen terug bereidbaar waren kwam "
+"Uiteindelijk, toen de sneeuw smolt en de wegen terug berijdbaar waren kwam "
 "een boodschapper van koning Haldric."
 
 #: The_South_Guard/scenarios/sg_story.cfg:146
@@ -2612,10 +2598,10 @@ msgid ""
 "encampment of Mal M'brin himself, and threw down the mighty wizard."
 msgstr ""
 "Met verweerde speren en een bittere grimas lanceerden de mannen van Wesnoth "
-"de laatste aanval tegen de levende doden.  Terwijl ze door het levenloze "
-"vlees sneden en koude beenderen verpulverden braken enkele zonnestralen door "
-"de wolken.  De winden sterfden uit en de mannen vonden hun tweede adem.  Een "
-"grote kreet steeg op toen ze het kamp van Mal M'brin zelf bestormden en de "
+"de laatste aanval tegen de ondoden. Terwijl ze door het levenloze vlees "
+"sneden en koude beenderen verpulverden braken enkele zonnestralen door de "
+"wolken. De wind ging liggen en de mannen vonden hun tweede adem. Een grote "
+"kreet steeg op toen ze het kamp van Mal M'brin zelf bestormden en de "
 "machtige tovenaar neersloegen."
 
 #: The_South_Guard/scenarios/sg_story.cfg:161
@@ -2627,8 +2613,8 @@ msgid ""
 msgstr ""
 "Uitgeput liet Deoran zijn lans op de grond vallen.  Zijn manschappen rond "
 "hem tilden langzaam hun helm van hun voorhoofd af.  De jammerkreten van de "
-"gewonden overschaduwden het verre geruis van de noorderwind.  De levende "
-"doden waren verdwenen."
+"gewonden overschaduwden het verre geruis van de noorderwind. De ondoden "
+"waren verdwenen."
 
 #: The_South_Guard/scenarios/sg_story.cfg:166
 msgid ""
@@ -2650,10 +2636,10 @@ msgid ""
 "sword and shield.  Those he placed atop Gerrick's mound, and they were a "
 "symbol of loyalty and valor to all the people of Westin."
 msgstr ""
-"Het best verzorgste graf behoorde toe aan heer Gerrick.  Na de slag leidde "
+"Het best verzorgde graf behoorde toe aan heer Gerrick.  Na de slag leidde "
 "Deoran een expeditie tot aan de zuidelijke grensposten.  Daar vonden ze heer "
 "Gerricks zwaard en schild.  Deze werden boven op heer Gerrick gedenkplaats "
-"geplaats en ze werden een symbool van de toeweiding en dapperheid van het "
+"geplaatst en ze werden een symbool van de toewijding en dapperheid van het "
 "volk van Westin."
 
 #: The_South_Guard/scenarios/sg_story.cfg:175
@@ -2676,7 +2662,7 @@ msgid ""
 "Haldric."
 msgstr ""
 "Deoran bracht zijn dagen door met het bezoeken van de gewonden en gaf de "
-"mannen instrukties bij het heropbouwen van de kapotgeslagen stadsmuren en "
+"mannen instructies bij het heropbouwen van de kapotgeslagen stadsmuren en "
 "borstweringen.  Uiteindelijk toen de sneeuw smolt kwam er een koerier van "
 "koning Haldirc."
 
@@ -2820,7 +2806,7 @@ msgstr "stomp"
 
 #: The_South_Guard/units/5.Assault_Commander.cfg:57
 msgid "slow"
-msgstr ""
+msgstr "traag"
 
 #: The_South_Guard/units/Chocobone.cfg:5
 msgid "Chocobone"
